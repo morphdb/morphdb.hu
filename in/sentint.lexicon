@@ -1,0 +1,724 @@
+# elekfi
+abbizony	SENTINT,;
+ácsi	SENTINT,;
+agyõ	SENTINT,;
+aha	SENTINT,;
+alászolgája	SENTINT,;
+# ???
+alászplajbász	SENTINT USAGE: archaic,;
+állj	SENTINT,;
+# ?aló
+ámen	SENTINT,;
+# apropó CONJ	,;
+azám	SENTINT,;
+# becsszó ADV
+# bee ONO
+# ?beli
+# ?berdó
+# bim-bam
+# bizisten ADV
+# bizistók ADV
+bravó	SENTINT,;
+# brekeke ONO 
+# brumm-brumm ONO
+# bú ONO
+# bumm ONO
+# c
+# c ONO
+# cic ONO
+# cicic ONO
+# ?cika
+# ?cini-cini
+# ciróka-maróka TWIN
+# ?co
+# ?coca
+# ?coki
+# ?curukk
+# ?csálé
+# csaó GREET
+# ?cselõ
+# ?csiba
+csicsí	SENTINT,;
+csicsíja	SENTINT,;
+# also
+csicsíja-babúja	SENTINT,;
+csigavér	SENTINT,;
+# csihi-puhi TWIN
+# csingilingi
+# csinnadratta NOUN
+# csinn-bumm ONO
+csiribí-csiribá	SENTINT,;
+# also
+csiribú-csiribá	SENTINT,;
+# csirip ONO
+csitt	SENTINT,;
+# csitt-csatt ONO
+csüccs	SENTINT,;
+dádá	SENTINT,;
+# ?diktum-faktum
+# dirr-durr ONO
+# durr ONO
+# egyedem-begyedem TWIN
+# egy-kettõ ADV?
+elõre	SENTINT,;
+# etyele-petyele ONO
+# ?ex
+# fuccs ?NOUN
+fuccs	SENTINT,;
+# gá-gá ONO
+# giling-galang ONO
+# ?gingalló
+gyí	SENTINT,;
+ha	SENTINT,;
+# hagyján CONJ
+# hah ONO
+# haha ONO
+# hahaha ONO
+hahó	SENTINT,;
+# haj	ONO
+# hajaha	ONO
+# hajahaj	ONO
+# hajaj	ONO
+hajcsi	SENTINT,;
+hajrá	SENTINT,;
+# ?hajsz
+# ?hajsza
+# halihó GREET
+hallga	SENTINT,;
+halló	SENTINT,;
+hamm	SENTINT,;
+hapci	SENTINT,;
+# háp-háp ONO
+happáré	SENTINT,;
+# also
+hoppáré	SENTINT,;
+# hát ?ADV
+# what did you say?
+he	SENTINT,;
+hej	SENTINT,;
+hess	SENTINT,;
+hí	SENTINT,;
+hinta-palinta	SENTINT,;
+# hipp-hopp ADV
+hm	SENTINT,;
+# also
+hmm	SENTINT,;
+# !
+hó	SENTINT,;
+hoci	SENTINT,;
+# ambiguous:
+hogyisne	SENTINT,;
+hogyne	SENTINT,;
+hóha 	SENTINT,;
+# also:
+húha	SENTINT,;
+hohó	SENTINT,;
+# hókuszpókusz NOUN
+hopp	SENTINT,;
+hoppá	SENTINT,;
+hopp-hó	SENTINT,;
+hoppla	SENTINT,;
+# also
+hoppla-hó	SENTINT,;
+hórukk	SENTINT,;
+# also
+hó-rukk	SENTINT,;
+# ?hozzád
+hõ	SENTINT,;
+# ?hõhe
+# ?hõk
+# see below hu
+# belo huhu
+# below huj
+hukk	SENTINT,;
+hupp	SENTINT,;
+huss	SENTINT,;
+hü	SENTINT,;
+# hü
+# also
+hû	SENTINT,;
+hûha	SENTINT,;
+fú	SENTINT,;
+hüm	SENTINT,;
+# iá ONO
+igen	SENTINT,;
+igenis	SENTINT,;
+nem	SENTINT,;
+ím	SENTINT,;
+íme	SENTINT,;
+ímhol	SENTINT USAGE: archaic literary,;
+indulj	SENTINT,;
+ipiapacs	SENTINT,;
+# ?ispiláng
+istenuccse	SENTINT,;
+iszkiri	SENTINT,;
+# izé NOUN
+ja	SENTINT,;
+jaja	SENTINT,;
+# also
+jajaja	SENTINT,;
+jelen	SENTINT,;
+jesszus	SENTINT,;
+jesszusom	SENTINT,;
+jöszte	SENTINT USAGE: archaic,;
+jövel	SENTINT USAGE: archaic,;
+# kár-kár ONO
+# kikirikí ONO
+# kipp-kopp ONO
+# kitty-kotty ONO
+kontra	SENTINT,;
+# kopp ONO
+# kopp-kopp ONO
+# kotkodács ONO
+# kotty ONO
+kösz	SENTINT,;
+# also:
+köszi	SENTINT,;
+köszike	SENTINT,;
+# kuc-kuc ONO
+# kukk ONO
+kukucs 	SENTINT,;
+# kukukk ONO
+# kukukk
+# also
+# kakukk ONO
+# kukurikú ONO
+# kurutty ONO
+# kutykurutty
+# ?la
+# ?la
+# lalala ONO
+ládd	SENTINT,;
+# also 
+megládd	SENTINT,;
+lám	SENTINT,;
+# ?NOUN
+lárifári 	SENTINT,;
+# lics-locs ONO
+mars	SENTINT,;
+# matt NOUN
+# mek-mek ONO
+# miau ONO
+mizujs	SENTINT,;
+muszáj	SENTINT,;
+na	SENTINT,;
+nana	SENTINT,;
+naná	SENTINT,;
+nanana	SENTINT,;
+# !
+ne	SENTINT,;
+# ne
+# also
+nemá	SENTINT,;
+nanemá	SENTINT,;
+# nemhiába CONJ
+nesze	SENTINT,;
+ni	SENTINT,;
+nimolé	SENTINT,;
+nini	SENTINT,;
+no	SENTINT,;
+nohát	SENTINT,;
+# nohát CONJ
+# also
+nahát	SENTINT,;
+noná	SENTINT,;
+nono	SENTINT,;
+# nos CONJ
+nos	SENTINT,;
+nosza	SENTINT,;
+# nyekk ONO
+# nyihaha ONO
+nyista	SENTINT,;
+nyugi	SENTINT,;
+# oá ONO
+pá	SENTINT,;
+# paff ONO
+# paff ADJ
+pápá	SENTINT,;
+pardon	SENTINT,;
+pász	SENTINT,;
+passz	SENTINT,;
+# patt NOUN
+persze	SENTINT,;
+# picsi-pacsi ONO
+# piff-paff ONO
+# piff-puff ONO
+pihenj	SENTINT,;
+# pipi ONO
+# pis-pis ONO
+pissz	SENTINT,;
+# ?piti
+pitypalatty	SENTINT,;
+# pláne ADV
+# ?poca
+pöff	SENTINT,;
+# also
+böff	SENTINT,;
+pssz	SENTINT,;
+pszt	SENTINT,;
+# puff ONO
+punktum	SENTINT,;
+# püff ONO
+rajt	SENTINT,;
+rajta	SENTINT,;
+# reccs ONO
+# rendre ADV
+rontom-bontom	SENTINT,;
+# röf-röf ONO
+# sajna ADV
+# sajnos ADV
+sajnos	SENTINT,;
+# sakk NOUN
+sebaj	SENTINT,;
+sej	SENTINT,;
+sicc	SENTINT,;
+sipirc	SENTINT,;
+# sipp-supp ONO
+slussz	SENTINT,;
+# also
+slusszpassz	SENTINT,;
+slussz-passz	SENTINT,;
+smafu	SENTINT,;
+spuri	SENTINT,;
+# !
+# ss
+# ss
+stimmt	SENTINT,;
+stop	SENTINT,;
+# sutty ONO
+# !sz
+# szervusz GREET
+# not only greeting: e.g., azt szevasz
+szevasz	SENTINT,;
+# also 
+szevasz-tavasz	SENTINT,;
+# szia GREET
+# tam-tam ONO
+# tánci-tánci ONO
+tempó	SENTINT,;
+tente	SENTINT,;
+# actually: a teremburáját
+teremburáját	SENTINT,;
+teremtuccse	SENTINT,;
+# several functions, very different intonation: 
+# hallo, please go ahead, pardon me what did you say, 
+tessék	SENTINT,;
+# tessen
+# tik-tak ONO
+# tipp-topp ONO
+# ?top
+# ?topp
+# töf-töf ONO
+tökjó	SENTINT,;
+# ?tubi
+# ?tüled
+# tütû ONO
+# tyutyu ONO
+# !u
+uccu	SENTINT,;
+# also
+uccuneki	SENTINT,;
+uccse	SENTINT,;
+úgy	SENTINT,;
+úgymond	SENTINT,;
+# also
+úgyvan	SENTINT,;
+ígyvan	SENTINT,;
+ugyan	SENTINT,;
+ugye	SENTINT,;
+# ugyebár CONJ
+# újra ADV
+# ukmukfukk ADV
+# ?upre
+uzsgyi	SENTINT,;
+ühüm	SENTINT,;
+# ?vaj
+# vajon CONJ
+# valószínûleg ADV
+# vau-vau ONO
+vigyázz	SENTINT,;
+# viszlát GREET
+# zuhé NOUN
+# zupp ONO
+# zutty ONO
+# züm-züm ONO
+# zsipp-zsupp ONO
+# zsupp ONO
+# zsupsz ONO
+# also
+ej	SENTINT,;
+ejnye	SENTINT,;
+ejnyebejnye	SENTINT,;
+ejnye-bejnye	SENTINT,;
+
+# elekfi, interjections
+abcúg	SENTINT,;
+# ?adta
+ah	SENTINT,;
+# áh
+áh	SENTINT,;
+# aha
+ahá	SENTINT,;
+ahán	SENTINT,;
+aj	SENTINT,;
+áj	SENTINT,;
+ajaj	SENTINT,;
+ajjaj	SENTINT,;
+ajnye	SENTINT,;
+ajvé	SENTINT,;
+alleluja	SENTINT,;
+# ?ántiját
+au	SENTINT,;
+# also
+aú	SENTINT,;
+bá	SENTINT,;
+# also
+bibi-bá	SENTINT,;
+bakfitty	SENTINT,;
+# brr ONO
+# bruhaha ONO
+# !c
+csuhaj	SENTINT,;
+# dínomdánom NOUN
+# !e
+eh	SENTINT,;
+ej	SENTINT,;
+ejha	SENTINT,;
+ej-haj	SENTINT,;
+ej-huj	SENTINT,;
+# also other vaiants see above: ejnye
+éljen	SENTINT,;
+# ?evoé
+# f
+fékomadta	SENTINT USAGE: archaic,;
+# ?fi
+fuj	SENTINT,;
+# also
+fúj	SENTINT,;
+# !ha
+# hacacáré NOUN
+# !haj
+hé	SENTINT,;
+# heh ONO
+# hehe ONO
+# hehehe ONO
+# hej
+# hejehuja NOUN
+# hej-haj ONO
+# hej-huj ONO
+hejnye	SENTINT,;
+# hí
+# hihihi ONO
+# also
+# hihi ONO
+hinnye	SENTINT,;
+hja	SENTINT,;
+hjaja	SENTINT,;
+hó	SENTINT,;
+hoppsza	SENTINT,;
+hoppszasza	SENTINT,;
+hozsanna	SENTINT,;
+hõ	SENTINT,;
+# höhöhö ONO
+# höhö ONO
+# !hu
+hú	SENTINT,;
+huh	SENTINT,;
+# also
+huhu	SENTINT,;
+huhú	SENTINT,;
+huj	SENTINT,;
+huja	SENTINT,;
+hujja	SENTINT,;
+hujjahó	SENTINT,;
+hujuju	SENTINT,;
+hurrá	SENTINT,;
+hü	SENTINT,;
+hû	SENTINT,;
+hûha	SENTINT,;
+hühühü	SENTINT,;
+ihaj	SENTINT,;
+ihaja	SENTINT,;
+ihaja-tyuhaja	SENTINT,;
+ihajla	SENTINT,;
+ihajnáré	SENTINT,;
+illa	SENTINT,;
+irgum-burgum	SENTINT,;
+# ja
+jaj	SENTINT,;
+jé	SENTINT,;
+juj	SENTINT,;
+# also
+júj	SENTINT,;
+# ?mordizomadta
+# nahát
+né	SENTINT,;
+# also
+nézzoda	SENTINT,;
+# actually: a nemjóját
+nemjóját	SENTINT,;
+nojszen	SENTINT,;
+# also
+nohiszen	SENTINT,;
+ó	SENTINT,;
+ohé	SENTINT,;
+ohó	SENTINT,;
+ohohó	SENTINT,;
+ojjé	SENTINT,;
+pfuj	SENTINT,;
+pfû	SENTINT,;
+phû	SENTINT,;
+pih	SENTINT,;
+piha	SENTINT,;
+# pssz
+recece	SENTINT,;
+recefice	SENTINT,;
+sej-haj	SENTINT,;
+# !sz
+szedtevette	SENTINT,;
+# !ssz
+teremtette	SENTINT,;
+teremtettét	SENTINT,;
+teringette	SENTINT,;
+teringettét	SENTINT,;
+tyuhaj	SENTINT,;
+tyuhaja	SENTINT,;
+tyutyutyu	SENTINT,;
+tyû	SENTINT,;
+tyûha	SENTINT,;
+# !ú
+# uccu
+uh	SENTINT,;
+ujjé	SENTINT,;
+ujuju	SENTINT,;
+ujujuj	SENTINT,;
+uramfia	SENTINT,;
+#vaj
+#vajha
+vivát	SENTINT,;
+
+# also
+kérem	SENTINT,;
+nakérem	SENTINT,;
+kéremszépen	SENTINT,;
+nakéremszépen	SENTINT,;
+kéremalássan	SENTINT,;
+istenem	SENTINT,;
+jóég	SENTINT,;
+úristen	SENTINT,;
+jézusom	SENTINT,;
+# slang
+bazeg	SENTINT USAGE: slang,;
+bazer	SENTINT USAGE: slang,;
+baszki	SENTINT USAGE: slang,;
+bakter	SENTINT USAGE: slang,;
+bazmeg	SENTINT USAGE: slang,;
+bazzeg	SENTINT USAGE: slang,;
+basszameg	SENTINT USAGE: slang,;
+franc	SENTINT USAGE: slang,;
+fenébe	SENTINT USAGE: slang,;
+francba	SENTINT USAGE: slang,;
+túróba	SENTINT USAGE: slang,;
+francot	SENTINT USAGE: slang,;
+fenét	SENTINT USAGE: slang,;
+faszt	SENTINT USAGE: slang,;
+picsába	SENTINT USAGE: slang,;
+kurvaanyját	SENTINT USAGE: slang,;
+kurvaélet	SENTINT USAGE: slang,;
+kurvaéletbe	SENTINT USAGE: slang,;
+kurvaisten	SENTINT USAGE: slang,;
+istenit	SENTINT USAGE: slang,;
+lófaszt	SENTINT USAGE: slang,;
+ördögbe	SENTINT USAGE: slang,;
+ördögbeis	SENTINT USAGE: slang,;
+anyját	SENTINT USAGE: slang,;
+azanyját	SENTINT USAGE: slang,;
+angyalát	SENTINT USAGE: slang,;
+rézangyalát	SENTINT USAGE: slang,;
+basszus	SENTINT USAGE: slang,;
+basszuskulcs	SENTINT USAGE: slang,;
+
+királyság	SENTINT USAGE: slang,;
+király	SENTINT USAGE: slang,;
+sirály	SENTINT USAGE: slang,;
+világos	SENTINT,;
+nemde	SENTINT,;
+gyerünk	SENTINT,;
+rohamra	SENTINT,;
+roham	SENTINT,;
+
+
+
+# mispell
+urambocsá	SENTINT,;
+rézfánfütyülõjét	SENTINT,;
+ripityom	SENTINT,;
+# ?reszt
+ponciusát	SENTINT,;
+pajtikám	SENTINT,;
+nofene	SENTINT,;
+nocsak	SENTINT,;
+nesztek	SENTINT,;
+nafene	SENTINT,;
+na	SENTINT,;
+kuss	SENTINT,;
+kiskésit	SENTINT,;
+kampec	SENTINT,;
+# also
+kampó	SENTINT,;
+jersze	SENTINT,;
+jer	SENTINT,;
+heuréka	SENTINT,;
+gyía	SENTINT,;
+fujj	SENTINT,;
+ejhaj	SENTINT,;
+egykutya	SENTINT,;
+csiba	SENTINT,;
+coki	SENTINT,;
+beh	SENTINT,;
+adta	SENTINT,;
+addsza	SENTINT,;
+
+# also
+kaput	SENTINT,;
+kész	SENTINT,;
+ennyi	SENTINT,;
+finis	SENTINT,;
+annyi	SENTINT,;
+sanyi	SENTINT,;
+lécci	SENTINT,;
+légyszi	SENTINT,;
+légyszíves	SENTINT,;
+isten-isten	SENTINT,;
+egészség	SENTINT,;
+egészségedre	SENTINT,;
+egészségére	SENTINT,;
+egészségükre	SENTINT,;
+egészségünkre	SENTINT,;
+egészségetekre	SENTINT,;
+
+
+adta-teremtette	SENTINT,;
+aham	SENTINT,;
+áhá	SENTINT,;
+aló	SENTINT,;
+ántiját	SENTINT,;
+á	SENTINT,;
+ba-ba-ba-ba-ba	SENTINT,;
+bah	SENTINT,;
+bamm	SENTINT,;
+bim-bam	SENTINT,;
+bimm	SENTINT,;
+bizonyisten	SENTINT,;
+cika	SENTINT,;
+cini-cini	SENTINT,;
+co	SENTINT,;
+csingilingi	SENTINT,;
+csípicsóka	SENTINT,;
+curukk	SENTINT,;
+ebebe	SENTINT,;
+egyedem-begyedem	SENTINT,;
+ejde	SENTINT,;
+ejej	SENTINT,;
+e	SENTINT,;
+etyetyety	SENTINT,;
+fékomadta	SENTINT,;
+fi	SENTINT,;
+f	SENTINT,;
+gingalló	SENTINT,;
+gyugyurigyuuu	SENTINT,;
+haa	SENTINT,;
+ha-ha-ha	SENTINT,;
+hájibáji	SENTINT,;
+ham	SENTINT,;
+háthiszen	SENTINT,;
+hiszen	SENTINT,;
+hisz	SENTINT,;
+hjaj	SENTINT,;
+hõhe	SENTINT,;
+hohoho	SENTINT,;
+hohohó	SENTINT,;
+hõk	SENTINT,;
+holla	SENTINT,;
+hollá	SENTINT,;
+huj-huj	SENTINT,;
+hu	SENTINT,;
+ihaj-tyuhaj	SENTINT,;
+istenfáját	SENTINT,;
+izé	SENTINT,;
+jézusisten	SENTINT,;
+jézusmária	SENTINT,;
+jézus	SENTINT,;
+jóéjszakát	SENTINT,;
+jujuj	SENTINT,;
+kirelejzumát	SENTINT,;
+kolk	SENTINT,;
+kork	SENTINT,;
+krá	SENTINT,;
+kroá	SENTINT,;
+kusti	SENTINT,;
+kutyafáját	SENTINT,;
+kutyafékom	SENTINT,;
+la	SENTINT,;
+matt	SENTINT,;
+mbah	SENTINT,;
+mifene	SENTINT,;
+mindegy	SENTINT,;
+na-na	SENTINT,;
+nanü	SENTINT,;
+ninini	SENTINT,;
+nonono	SENTINT,;
+osj	SENTINT,;
+pepepe	SENTINT,;
+pfi	SENTINT,;
+piti	SENTINT,;
+pram-pram	SENTINT,;
+ps	SENTINT,;
+ráb	SENTINT,;
+rf	SENTINT,;
+rosseb	SENTINT,;
+sic	SENTINT,;
+sscc	SENTINT,;
+ss	SENTINT,;
+ssss	SENTINT,;
+ssz	SENTINT,;
+szentségit	SENTINT,;
+sz	SENTINT,;
+tak-tak	SENTINT,;
+tá	SENTINT,;
+tökmindegy	SENTINT,;
+topp	SENTINT,;
+top	SENTINT,;
+tudomistenem	SENTINT,;
+ukk-mukk-fukk	SENTINT,;
+upre	SENTINT,;
+uramisten	SENTINT,;
+úristenit	SENTINT,;
+vaj	SENTINT,;
+vakapád	SENTINT,;
+vau	SENTINT,;
+zümi-zümi	SENTINT,;
+zu	SENTINT,;
+ok	SENTINT,;
+oké	SENTINT,;
+rendben	SENTINT,;
+jó	SENTINT,;
+szívesen	SENTINT,;
+figyelem	SENTINT,;
+odas	SENTINT,;
+odasüss	SENTINT,;
+le	SENTINT,;
+#???	SENTINT,;
+csend	SENTINT,;
+csönd	SENTINT,;
+egy-kettõ	SENTINT,;
+fel	SENTINT,;
+vigyázat	SENTINT,;
+mindenségit	SENTINT,;
+dehát	SENTINT,;
+vazze	SENTINT,;
+vazzer	SENTINT,;
+bakker	SENTINT,;
+bamme	SENTINT,;
+### TCG ##
+áhh 	SENTINT,;

@@ -1,0 +1,13 @@
+a
+    FREE: true
+    TAG: /ART
+    EXTRA: "ARTICLETYPE=definite"
+, a, az
+;
+
+egy
+    FREE: true
+    TAG: /ART
+    EXTRA: "ARTICLETYPE=indefinite"
+,
+; 

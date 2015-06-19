@@ -1,0 +1,442 @@
+hp 2006.05.10
+> elõttre
+UNKNOWN
+> alattam
+UNKNOWN
+> Elõttük
+UNKNOWN
+> Körülötte
+UNKNOWN
+> alattam
+UNKNOWN
+
+---------
+
+3.-as pont valami miatt nem megy, valószínûleg ez is valahol a kiejtésnél buherálódott meg.
+6-os pont a jelenlegi morphdb-ben nem megoldható, de talán nincs is rá igazi igény.
+Meg kell szütetni azt, hogy összetett szó része lehessen rövidítés
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+birtokos problémák
+
+csupor	NOUN epenthetic SRC: el fkp mi ,;
+
+el kell intézni, hogy az epenthetikusok szintetikus töve kapja meg a
+poss_A jegyet és az analitikus ne kapjon semmit. 
+Defaultból csak a véghangzó számít. A lexikonban is meg lehet
+egyszerûen adni, hogy poss_A vagy a POSSESSIVE filtert kell 
+élesíteni.
+teljesen ugyanez:
+*kenyérje (kenyere);
+a tõalternatívák elõállításakor 
+Q: van-e olyan eset amikor a tõváltakozás kötelezõ, de mégis
+megengedett (vagy kötelezõ az analitikus -ja possessive)
+pl. hipotetikus burok, burkok, *burka burokja 
+ekkor a szótárban meg lehet adni a poss_optional vagy poss_jA
+jegyeket, opcionális epentézis esetén ez nem fontos.
+
+
+*gyárja (gyára); fala, stb.
+sajnos az r-es és l-es alakok nagyon ingadoznak. 
+Illetve a legtöbb kivételes és vagy rövid l/r-es tõ poss_A
+mivel a default a ja (POSSESSIVE filter), ezt jelölni kell.
+ezeknek a szótárakból ki kellett volna jönniük 
+
+Az fkp-nél sokszor nincs feltüntetve ez az info emiatt összeejtés nem
+volt lehetséges és duplikátumok jöttek létre
+Sajnálatosan a duplikátumsz?réskor valaki szisztematikusan a rosszat
+választotta a legtöbb általam megnézett esetben. 
+Egy csomót kézzel visszajavítottam, de ez egy nagyon fájó csúnya pont.
+
+Esetleg lehetne azt mondani, hogy a tõváltakozást mutató igék mind 
+poss_A-t. Ez egy bonyolultabb megoldásra váró feladat, addig, tessék
+szépen bevezetni a jegyet a lexiconba és akkor jó lesz minden.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+L: > házt
+ház/NOUN<CAS<ACC>>
+
+V: általában is a lowering és a bareT közötti viszonyt tisztázni kellene
+véglegesen 
+én a bareT-t kvázi függetlennek tekintettem az oldal és 
+számos melléknév mintájára (savanyút, savanyúak)
+gondoltam esetleg beépíthetõ, hogy fõnév esetén a nyitás magaután vonja a
+bareT-t talán ez a legkorrektebb, de valójában a nyitás mindig 
+magaután vonhatja a kötõhangzót, amennyiben nem írjuk expliciten felül
+a felülírás a szokásos, tehát 
+az opcionalitás itt továbbra is mindkét jegy megadásával kell, hogy történjen.
+oldal NOUN low bareT,;
+ez nem fogja elfogadni az oldalat alakot.
+késõbb említed az oldalat szót
+az alakot egyre gyakrabban hallom, de ha kell, akkor
+oldal NOUN low bareT non_bareT,;
+
+ezt most meg is tettem, ld. NOM_LOWERING_FILTER
+ami most egz kicsit bonyolultabb lett.
+Tehát a kötõhangzó jelenléte nyitás és nem nyitás esetén is egyaránt:
+1) tilos ha a szó magánhangzóra végzõdik (nem így pl. a többesszámnál)
+2) engedélyezett, ha non_bareT jegy van
+3) nem kell ha bareT jelen van
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+L:
+*jóbb;
+
+V: általában nem jeggyel kezelt kivételeket ki kell szedni a lexiconból
+ez nem szabadna, hogy nagy feladat legyen. 
+A jóbb (ilyen még a szebb) egy kicsit talán lehezebb 
+ki kell szedni az aff_bb jegyet, erre legjobb megoldás, ha a
+DERIVATION_FILTER-beli jegyeket makrókkal helyettesítjük. 
+Ezek ekkor hivatkozhatók a szótárban valami ilyesmi tehát:
+jó ADJ
+, defective_derivation all_adj_derivations !aff_bb
+, jo defective_inflection defective_derivation aff_bb
+;
+TODO
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+*parázslj (parázsolj)
+az ún defektív igék kezelése nagyon szépen meg van oldva,
+gyakorlatilag direkte implementálja Rebrus Törkenczy elemzését,
+miszerint ezeknek a töveknek nincsen analitikus alakjuk
+szimplán a synthetic_verb jegymakróval jelölendõk
+
+...
+
+késõbb
+*habzz (habozz); 
+uaz
+
+VP:
+habzik	VERB synthetic_verb ,; ez igy nem mukodik, pl: *habozz
+gondolkodunk rajta.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+L: 
+*emberente, *kellendõ, *bokrol
+
+V: ezek sajnos a fõkategóránál finomabb képzõengedélyezési mechanizmust
+kívánnak meg. 
+Ha van ilyenünk akkor az egyes képzések korlátozhatók
+ha nincs akkor megfontolandó, hogy az adott képzést nem tekintjük
+produktívnak 
+VP,RUNGA: esetleg bizonyos kepzok utan letiltjuk az ando/endo
+
+%%%%%%%%%%%%%%%%%%%%%
+
+L: ömleném
+V: nem értem ez lehet tárgyas?
+
+amúgy a tárgyasság terén nagy katyvasz van sajnos. 
+Még mindig nincs teljesen kitalálva mit tegyünk azokkal az esetekkel,
+amikor egy határozottan tárgyatlan alapige igekötõsen tárgyas is. 
+valójában ilyenkor be kellene vezetni egy tárgyas verziót az
+alapigére, de jelölni, hogy ez csak igekötõvel (mely igekötõkkel)
+lehet  tárgyas.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+L: Nincsenek a Magyar Ispelléhez hasonló
+megszorítások az erõforrásban. Hiba, hogy
+az *egyenlõre az egyelõréhez hasonlóan
+határozószóként van felvéve.
+
+L: ez lexikonbeli jegyek átvitelét igényli
+az egyenlõre USAGE: substandard_orth
+minõsítéssel van felvéve ADV-ként tehát elvileg csak robusztus 
+üzemmódban üzemel.
+persze emiatt az egyenlõre (mint egyenlõ/ADJ<CAS<SBL>>)
+mindig el lesz fogadva. 
+Ez és hasonlók kiküszöbölésére lett kitalálva a tiltott szóalak flag
+a hunspellben, ha jól gondolom.
+ennek a kezelése a hunlexben még nincs korrektül megoldva de minden
+további nélkül megoldható
+
+Laci kérlek nyugodtan vegyél fel ilyen entriket a lexikonba pl.
+egyenlõre   FORBIDDEN,;
+lásd még 
+csábit, öblit;  visszairt
+tiz 
+t?ntet és sz?ntet
+amiket a dokumentumban említesz ugyanígy
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+L: Az összetettszó-túlképzés
+eredményezte hibás szavakat a CHECKCOMPOUNDREP
+funkcióval ismeri fel, és tiltja le:
+ *telitett,  *elitélt,  *színt?;  *labdarugócsapat,
+ harangbugás,  lámpabúra
+...
+A hibás szavak
+egy része túlképzés eredményeként áll el o:
+*felöl, *különb oz o. Érdemes a CHECKCOMPOUNDREP
+funkciót (és társait) bekapcsolni
+a helyesírás-ellen orz ohöz készített szótárakban,
+
+V: ezt nem értem, kérlek Laci magyarázd meg hogy ez mit jelent 
+CHECKCOMPOUNDREP funkcióról én most hallok elõször
+
+%%%%%%%%%%%%%%%%%%
+
+
+
+L: Meg kell jelölni nem köznyelviként és a helyesírási szótárhoz
+sz?rni.
+
+VP,RUNGA: sí a rí mintajara back v_stem felveendo.
+
+%%%%%%%%%%%%%%%%%%
+L: Elfogadásra kerül a *hiu, *hamú, *hu, *hü, *derülátó stb.
+
+V: nem tudom mi a hiu 
+a hamú egy csúnya bug volt javítottam
+a hu, hü gondolom tisztességes interjekciók, nem? mi a baj velük?
+a derülátó hiba, de igazából típushiba és ezért 
+felveendõ USAGE: substandard_orth jeggyel
+ezt megtettem, de hát ilyenek bizony lesznek, szisztematikusabb sz?rés
+kell majd.
+késõbb is említett irogat, hivat, stb.
+
+%%%%%%%%%%%%%%
+
+L: A szabályos váltakozást mutató szavak eset
+ében súlyos hiba mutatkozik az I/3. birtokos
+személyragos alak plusz birtokjel toldalékol
+ásában: *t uzéé (tüzéé, t uzé); *kézéé (kezéé,
+kézé) stb., de birtokjel nélkül is: *kéze (keze),
+*kézek, *kéz u, *kezi; *t uze (tüze), *t uzömr ol
+(tüzemr ol), *tüzi; *sz uzek, *sz uzem (szüzem)
+stb. Hibás -on, -en, -ön toldalékolású alakokat
+is elfogad: *hidon (hídon); *kezen (ké-
+zen); *tüzön (t uzön), *uton. Az -i esetén néhol
+csak a hibás alakot kezeli: *hidi (:::: hídi), *utilag
+(:::::: útilag).
+
+V: ez az összehasonlítás nagyon jól mutatja mennyire nem 
+így kéne ezt megfogni a morphdb számára.
+Látszik, hogy a kéz és tûz szó egyszerûen nem rövidülõként is fel van véve. 
+Megnézem a szótárban és lám tényleg. 
+kéz	NOUN low shortening SRC: el mi ,;
+kéz	NOUN shortening SRC: fkp ,;
+kéz	NOUN SRC: fkp ,;
+
+látszik, hogy a helyes entry is ott van azt kell meghagyni a többit
+kivágni.
+ekkor ugyanúgy fog viselkedni mint a híd stb ami még mindig valóban hibás
+pontosan úgy ahogy a csupor, kenyér, stb lásd fent 
+mert mintkét tövük engedni fogja a poss_A jegyet. 
+TODO
+VP: részben DONE
+
+Kicsit hasonló probléma van a véltakozó v tövek múltidejével, 
+ha jól gondolom elfogadjuk azt, hogy növött (nõtt mellett) 
+ezt az epentetikusokhoz hasonlóan kellene megoldani
+és a posszesszív filternél is bizony figyelembe kell venni a
+váltakozást
+TODO
+
+V: a kezi, tüzi esetet sajnos nekem nem sikerült kielégítõen megoldanom
+nem világos az -i toldalék analitikussága ls, havi tavi de toroki
+fájdalom nyári, stb
+most opcionális az i-nél az analitikusság, vagyis 
+a t?zi és kézi is jók lesznek viszont a hídi már elfogadva.
+Ez nyilván nem kielégítõ, sürgõs megoldást várok.
+De elõször egy leírást Rebrustól.
+
+V: a superessivusznál a rövidülést is megengedõ alak az ismert 
+szenen kívül létezõ példák miatt vitatható. 
+De valóban nem lenne szerencsés általánosan megengedni
+most már szerintem korrekt
+
+%%%%%%%%%%%%%%%%%%%%%%
+L: A kultúra szó származtatott alakjait helytelen
+ül kezeli: *kultúrál (kulturál), *kultúrált (kultur
+ált), *kultúrálatlan (kulturálatlan). 
+
+V: ez szerintem a helyesírási szabályzat hibájaként értelmezhetõ.
+Ha megengedjük a -l produktív szuffixumot, semmi okunk nincs
+letiltani ezeket az alakokat.
+esetleg a tiltott szavas megoldást javaslom
+
+%%%%%%%%%%%%
+L: Hibás az öcs kezelése: :::::: öcsém, *öccsém, :::::: öcséd, *öccséd, *öcse,
+::::::: öcsénk,:::::::: öcsétek, *öcsük.
+
+V: megoldva, de hiányzik öccs, öccse, stb, lásd non_poss + mint anya
+TODO
+
+%%%%%%%%%%%%%%
+
+L:
+Hasonlóan, de a magánhangzót követ o t-re
+végzõdõ szavakhoz hibásan -at, -et járul a -tat,
+-tet helyett: :::::: nyittat, ::::: fûttet és *nyitat, *f utet stb.
+Elfogadja az -szt vég u igéknél a hibás -tat, -tet
+toldalékot: *akaszttat, *függeszttet stb.
+
+
+V: igen ez eléggé elnagyolt
+ok akkor ezt eg kéne fixelni az AFF_TAT nál
+lehet, hogy kellene egy filter mert már így is a syllable count
+filterben van hivatkozás ha jól emlékszem
+
+%%%%%%%%%%%%%%%%%%
+L: 
+A néma h-ra végzõdõ szavaknál csak a helyes-
+írás szerint hibás alakokat fogadja el:8
+:::::::: csehvel,
+::::::: pléhvé és *csehhel, *pléhhé. 
+
+V: kiejtéssel kezelendõ
+de én pl a düh szóban opcionálisan használom a h-t ezért 
+lehet h is esetleg substandard_orth, így:
+
+düh	NOUN SRC: el mi , düh/dü, düh USAGE: substandard_orth;
+
+a többi TODO
+
+%%%%%%%%%%%%%%%%%%%
+L: Idegen szavaknál
+rossz, illetve hiányos a toldalékolás: *Anonymussal,
+
+V: ez szótári dolog, tessék kiejtést felvenni
+hasonlóan ahogy a proper_noun_geo.lexicon-ban láttam, de 
+ott is sok s veg?, sz kiejtés? szó (buenos aires) nincs kezelve.
+TODO
+
+ugyanitt rengeteg tulajdonnév szigetek, államok, eleve többesszám.
+Kérdés, legyen letiltva eleve a földrajzi nevek többesszáma?
+Ekkor a proper noun helyett kell egy másik jegy is.
+vö. Péterek, Németországok
+
+%%%%%%%%%%%%%%
+L: kódexszel,
+V: nekem megy mindkét hangrend, de biztos van néhány hangrendi baki a
+szótárban fõleg megint a default duplikátumok bennmaradta miatt
+kódexszal
+> kódexszal
+kódex/NOUN<CAS<INS>>
+kódexszel
+> kódexszel
+kódex/NOUN<CAS<INS>>
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Nem ismeri a következõ alakváltozatokat:
+bocsátlak,
+bocsátsz,
+bocsáttok stb;
+ok
+
+
+
+%%%%%%%%%%%%%%
+L: 
+esküsznek stb.;
+V: 
+todo
+
+L: 
+nyomakszom stb.;
+V: hm nem tûnik normának de ??? lásd tülekedik
+
+todo
+
+%%%%%%%%%%%%%%
+L: 
+::::::: tellene stb; 
+V: semmilyen autentikus forrás nem tartalmazza a tellik igét ezért 
+vagyok zavarban
+TODO 
+
+%%%%%%%%%
+L: 
+::::::: légzem, ::::::: légzed stb. 
+V: ???
+
+%%%%%%%%%%%%%%
+L: 
+Elfogadja az *alssza (alussza); *feksszük (feküdjük); 
+V: todo	
+(megkérdezhetem, hogy ezt milyen módszerrel fedezted fel?)
+
+%%%%%%%%%%%%%%%%%%
+
+L: *halltam (hallottam); 
+V: de mint a hallik ige múltja nem a hall-é, ami viszont 
+morfoszintaktikailag defektív...
+todo
+
+L: 
+*csukljon
+(:::::::::: csukoljon); 
+defektív lásd fent
+
+*bátrt (bátrat); 
+V: jaj
+TODO gondolom az ACC_FILTER csak a véghangzót ellenõrzi az r-nél nem hogy
+Vr vagy Cr vég?-e a szó
+
+%%%%%%%%%%
+L: Hiányoznak a javaslattevést beállító paraméterek
+az affixumállományból.
+
+V: lásd HunlexMakefile, csak be kell rakni az állományokat és nevet adni neki.
+
+%%%%%%%%%%%
+L: A rövidítésekhez köt ojel nélkül kapcsolja a
+toldalékokat: *Fttal, *kmre (helyesen :::::: Ft-tal,
+:::::: km-re).
+
+V: 
+hyphen jegy felvétele, pl.
+Ft	NOUN ABBR hyphen, Ft/forint RESOLVED: forint;
+megcsináltam a Ft, km, cm, db 
+ez pótlandó és kell egy abbr.lexicon 
+az acro.lexicon valszeg a named-entity-vel együtt kezelendõ
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+2006.03.13 fala, álla
+
+> Igen, ez le van írva a nyelvtanban, csak a Füredi
+> szótárban nem volt jelölve a szükséges adat (vagy
+> nem került át). Az összes ilyet le fogom ellenõrizni (még a
+> hangrend adja a legtöbb hibát ezen kívül).
+
+irregulars from peeta.lexicon
+    jön
+    tesz vesz
+    eszik iszik
+    hisz visz
+    alszik fekszik nyugszik 
+
+melléknevek ellenörzése a missing lexicon és máshol
+low non_low bareT non_bareT
+
+tags to supply in num.lexicon
+	, hármójuk  FREE: true TAG: /NUM
+	, hármótok  FREE: true TAG: /NUM
+	, hármónk  FREE: true TAG: /NUM
+	, hármuk  FREE: true TAG: /NUM
+	, hármotok  FREE: true TAG: /NUM
+	, hármunk  FREE: true TAG: /NUM
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+42-es!
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hp: 2006.08.14
+
+hp@krusovice:~/Work/clef2006 $ ocamorph --bin ~/Work/lexicons/morphdb.hu/out/morphdb_hu.bin 
+gázok
+> gázok
+UNKNOWN
+füstgáz
+> füstgáz
+füstgáz/NOUN
+
+es ha osszetettszoval elemzes, akkor ez most nekem nagy szivast okozott

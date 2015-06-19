@@ -1,0 +1,45 @@
+""
+	DET_NOM
+	DISTAL
+	PSEUDO_LEMMA: DET_PRON
+
+, egyazon
+, egyugyanazon
+, ugyanazon
+, azon	
+, mindazon
+, ama 
+, mindama	
+;
+
+""
+	DET_NOM
+	PROXIMAL
+	PSEUDO_LEMMA: DET_PRON
+, ezen	 
+, mindezen
+, ugyanezen
+, eme
+, e
+, mindeme
+;
+
+""
+	DET
+	DISTAL
+	PSEUDO_LEMMA: DET_PRON
+, az	
+, amaz	
+, mindaz
+, ugyanaz
+;
+
+""
+	DET
+	PROXIMAL
+	PSEUDO_LEMMA: DET_PRON
+, ez	
+, emez	
+, mindez
+, ugyanez
+;

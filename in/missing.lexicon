@@ -1,0 +1,1661 @@
+dematerializál	VERB STR: de@materializál, de@materializál,;
+óriáscég	NOUN STR: óriás@cég, óriás@cég,;
+törzstõke	NOUN STR: törzs@tõke, törzs@tõke,;
+tõkepiac	NOUN STR: tõke@piac, tõke@piac,;
+záróérték	NOUN STR: záró@érték, záró@érték,;
+bázispont	NOUN STR: bázis@pont, bázis@pont,;
+alapértelmezés	NOUN STR: alap@értelmezés, alap@értelmezés,;
+részvénypiac	NOUN STR: részvény@piac, részvény@piac,;
+részvényindex	NOUN STR: részvény@index, részvény@index,;
+brókercég	NOUN STR: bróker@cég, bróker@cég,;
+osztalékelsõbbség	NOUN STR: osztalék@elsõbbség, osztalék@elsõbbség,;
+szavazatelsõbbség	NOUN STR: szavazat@elsõbbség, szavazat@elsõbbség,;
+jogutódlás	NOUN STR: jog@utódlás, jog@utódlás,;
+jogkezelés	NOUN STR: jog@kezelés, jog@kezelés,;
+joggyakorlás	NOUN STR: jog@gyakorlás, jog@gyakorlás,;
+joggyakorlat	NOUN STR: jog@gyakorlat, jog@gyakorlat,;
+díjfizetés	NOUN STR: díj@fizetés, díj@fizetés,;
+anyavállalat	NOUN STR: anya@vállalat, anya@vállalat,;
+végelszámoló	NOUN STR: vég@el@számoló, vég@el@számoló,;
+tõzsdezárás	NOUN STR: tõzsde@zárás, tõzsde@zárás,;
+autóipar	NOUN STR: autó@ipar, autó@ipar,;
+kincstárügyi	ADJ STR: kincstár@ügyi, kincstár@ügyi,;
+kamatcsökkentés	NOUN STR: kamat@csökkentés, kamat@csökkentés,;
+internetkapcsolat	NOUN STR: internet@kapcsolat, internet@kapcsolat,;
+érdek-képviselet	NOUN,;
+vagyonhányad	NOUN STR: vagyon@hányad, vagyon@hányad,;
+tõkeemelés	NOUN STR: tõke@emelés, tõke@emelés,;
+perindítás	NOUN STR: per@indítás, per@indítás,;
+cégforma	NOUN STR: cég@forma, cég@forma,;
+cégcsoport	NOUN STR: cég@csoport, cég@csoport,;
+pótbefizetés	NOUN STR: pót@befizetés, pót@befizetés,;
+mobilinternet	NOUN STR: mobil@internet, mobil@internet,;
+gigabájt	NOUN STR: giga@bájt, giga@bájt,;
+kincstárjegy	NOUN STR: kincstár@jegy, kincstár@jegy,;
+árfolyamsáv	NOUN STR: árfolyam@sáv, árfolyam@sáv,;
+mûpéldány	NOUN STR: mû@példány, mû@példány,;
+részvénycsomag	NOUN STR: részvény@csomag, részvény@csomag,;
+hitelkamat	NOUN STR: hitel@kamat, hitel@kamat,;
+vállalatközi	NOUN STR: vállalat@közi, vállalat@közi,;
+törzsvásárló	NOUN STR: törzs@vásárló, törzs@vásárló,;
+ügyvezetés	NOUN STR: ügy@vezetés, ügy@vezetés,;
+tulajdonságlap	NOUN STR: tulajdonság@lap, tulajdonság@lap,;
+áramszolgáltató	NOUN STR: áram@szolgáltató, áram@szolgáltató,;
+szuperállam	NOUN STR: szuper@állam, szuper@állam,;
+számlavezetõ	NOUN STR: számla@vezetõ, számla@vezetõ,;
+régensherceg	NOUN STR: régens@herceg, régens@herceg,;
+piackutató	NOUN STR: piac@kutató, piac@kutató,;
+igazgatótanács	NOUN STR: igazgató@tanács, igazgató@tanács,;
+gerinchálózat	NOUN STR: gerinc@hálózat, gerinc@hálózat,;
+diszpozitív	ADJ low non_low,;
+bankszektor	NOUN STR: bank@szektor, bank@szektor,;
+mérleg@fõösszeg	NOUN STR: mérleg@fõ@összeg, mérleg@fõ@összeg,;
+médiacsoport	NOUN STR: média@csoport, média@csoport,;
+lakáshitel	NOUN STR: lakás@hitel, lakás@hitel,;
+mûsorsugárzó	NOUN STR: mûsor@sugárzó, mûsor@sugárzó,;
+likvidáció	NOUN,;
+koordinatív	ADJ low non_low,;
+információtechnológia	NOUN STR: információ@technológia, információ@technológia,;
+ajánlattétel	NOUN STR: ajánlat@tétel, ajánlat@tétel,;
+tulajdonrész	NOUN STR: tulajdon@rész, tulajdon@rész,;
+szándéknyilatkozat	NOUN STR: szándék@nyilatkozat, szándék@nyilatkozat,;
+cégnév NOUN low shortening STR: cég@név, cég@név,;
+cégvezetés	NOUN STR: cég@vezetés, cég@vezetés,;
+alapkamat	NOUN STR: alap@kamat, alap@kamat,;
+kisbefektetõ	NOUN STR: kis@befektetõ, kis@befektetõ,;
+kisrészvényes	NOUN STR: kis@részvényes, kis@részvényes,;
+brókerház	NOUN STR: bróker@ház, bróker@ház,;
+átlaghozam	NOUN STR: átlag@hozam, átlag@hozam,;
+kamatszint	NOUN STR: kamat@szint, kamat@szint,;
+jobbközép	ADJ NOUN STR: jobb@közép, jobb@közép,;
+elnök-vezérigazgató	NOUN,;
+engedélyköteles	ADJ bareT non_bareT STR: engedély@köteles	, engedély@köteles	,;
+mûsorszolgáltató	NOUN STR: mûsor@szolgáltató, mûsor@szolgáltató,;
+agrártárca	NOUN STR: agrár@tárca, agrár@tárca,;
+adósságállomány	NOUN STR: adósság@állomány, adósság@állomány,;
+nullszaldó	NOUN STR: null@szaldó, null@szaldó,;
+miniszterelnök-helyettes	NOUN,;
+lakáscélú	ADJ low,;
+kutatás-fejlesztés	NOUN,;
+károkozás	NOUN STR: kár@okozás, kár@okozás,;
+karacsáj	NOUN,;
+kétirányú	ADJ low STR: két@irányú, két@irányú,;
+ingatlanfejlesztés	NOUN STR: ingatlan@fejlesztés, ingatlan@fejlesztés,;
+megabit	NOUN STR: mega@bit, mega@bit,;
+rasszista	ADJ,;
+magamfajta	ADJ,;
+lakópark	NOUN STR: lakó@park, lakó@park,;
+lapértesülés	NOUN STR: lap@értesülés, lap@értesülés,;
+közszféra	NOUN STR: köz@szféra, köz@szféra,;
+kógencia	NOUN,;
+kodifikáció	NOUN,;
+kiskor	NOUN STR: kis@kor, kis@kor,;
+idõarányos	ADJ low STR: idõ@arányos, idõ@arányos,;
+hírmagazin	NOUN STR: hír@magazin, hír@magazin,;
+gyorsítótár	NOUN STR: gyorsító@tár, gyorsító@tár,;
+yacht		NOUN,yacht/jaht;
+szülinap	NOUN STR: szüli@nap, szüli@nap,;
+törvénysértõ	ADJ low STR: törvény@sértõ, törvény@sértõ,;
+allokáció	NOUN,;
+elektromechanikus	ADJ low non_low STR: elektro@mechanikus, elektro@mechanikus,;
+hétvég	NOUN STR: hét@vég, hét@vég,;
+focipálya	NOUN STR: foci@pálya, foci@pálya,;
+hektikus	NOUN,;
+száloptika	NOUN STR: szál@optika, szál@optika,;
+térinformatika	NOUN STR: tér@informatika, tér@informatika,;
+szponzoráció	NOUN,;
+taxatív		ADJ low non_low,;
+tûzzománc	NOUN STR: tûz@zománc, tûz@zománc,;
+esetenkénti	ADJ,;
+haptikus	ADJ,;
+fõszabály	NOUN STR: fõ@szabály, fõ@szabály,;
+fotómûvész	NOUN STR: fotó@mûvész, fotó@mûvész,;
+hordónkénti	ADJ,;
+kábeltévé	NOUN STR: kábel@tévé, kábel@tévé,;
+többszemélyes	ADJ STR: több@személyes, több@személyes,;
+államokbeli	ADJ,;
+üzemmód	NOUN STR: üzem@mód, üzem@mód,;
+kismértékû	ADJ low STR: kis@mértékû, kis@mértékû,;
+különbségtétel	NOUN STR: különbség@tétel, különbség@tétel,;
+osztálykirándulás	NOUN STR: osztály@kirándulás, osztály@kirándulás,;
+unokatesó	NOUN STR: unoka@tesó, unoka@tesó,;
+bevásárlóközpont	NOUN STR: bevásárló@központ, bevásárló@központ,;
+négyhengeres		ADJ bareT non_bareT low non_low STR: négy@hengeres, négy@hengeres,;
+napközbeni	ADJ low,;
+konverzió	NOUN,;
+kormányõr	NOUN STR: kormány@õr, kormány@õr,;
+konjunkturális	ADJ low non_low,;
+know-how	NOUN, know-how/nóhá,;
+üzletvezetés	NOUN STR: üzlet@vezetés, üzlet@vezetés,;
+üzletpolitika	NOUN STR: üzlet@politika, üzlet@politika,;
+vagyonvédelem	NOUN STR: vagyon@védelem, vagyon@védelem,;
+vallástörténet	NOUN STR: vallás@történet, vallás@történet,;
+vallástörténész	NOUN STR: vallás@történész, vallás@történész,;
+többszerzõs	ADJ low non_low bareT non_bareT STR: több@szerzõs, több@szerzõs,;
+tördeltségmentesítõ	NOUN STR: tördeltség@mentesítõ, tördeltség@mentesítõ,;
+töredezettségmentesítõ	NOUN STR: töredezettség@mentesítõ, töredezettség@mentesítõ,;
+tõzsdefelügyelet	NOUN STR: tõzsde@felügyelet, tõzsde@felügyelet,;
+tõzsdeindex	NOUN STR: tõzsde@index, tõzsde@index,;
+refinanszíroz	VERB STR: re@finanszíroz, re@finanszíroz,;
+pakett	NOUN,;
+össz@névérték	NOUN STR: össz@név@érték, össz@név@érték,;
+pénzbetét	NOUN STR: pénz@betét, pénz@betét,;
+összforgalom	NOUN STR: össz@forgalom, össz@forgalom,;
+objektumorientált	ADJ low STR: objektum@orientált, objektum@orientált,;
+parancsgomb	NOUN STR: parancs@gomb, parancs@gomb,;
+szoftvergyártó	NOUN STR: szoftver@gyártó, szoftver@gyártó,;
+tervezõmûvészet	NOUN STR: tervezõ@mûvészet, tervezõ@mûvészet,;
+szabadprogram	NOUN STR: szabad@program, szabad@program,;
+sajtóosztály	NOUN STR: sajtó@osztály, sajtó@osztály,;
+rendszermérnök	NOUN STR: rendszer@mérnök, rendszer@mérnök,;
+telepítõlemez	NOUN STR: telepítõ@lemez, telepítõ@lemez,;
+végfelhasználó	NOUN STR: vég@fel@használó, vég@fel@használó,;
+adatvesztés	NOUN STR: adat@vesztés, adat@vesztés,;
+adathordozó	NOUN STR: adat@hordozó, adat@hordozó,;
+hacker	NOUN,;
+hibatûrõ	ADJ low non_low STR: hiba@tûrõ, hiba@tûrõ,;
+hibajavító	ADJ low non_low STR: hiba@javító, hiba@javító,;
+keresõmotor	NOUN STR: keresõ@motor, keresõ@motor,;
+párbeszéddoboz	NOUN STR: pár@beszéd@doboz, pár@beszéd@doboz,;
+alapértelmezett	ADJ low STR: alap@értelmezett, alap@értelmezett,;
+gigahertz	NOUN, gigahertz/gigaherc;
+alaptõke	NOUN STR: alap@tõke, alap@tõke,;
+webhely	NOUN low non_bareT STR: web@hely, web@hely,;
+hivatalbóli	ADJ low,;
+kábeltelevízió	NOUN STR: kábel@televízió, kábel@televízió,;
+megabájt	NOUN STR: mega@bájt, mega@bájt,;
+rádiógomb	NOUN STR: rádió@gomb, rádió@gomb,;
+rendszergazda	NOUN STR: rendszer@gazda, rendszer@gazda,;
+merevlemez	NOUN STR: merev@lemez, merev@lemez,;
+hitelminõsítõ	NOUN STR: hitel@minõsítõ, hitel@minõsítõ,;
+részvénykönyv	NOUN STR: részvény@könyv, részvény@könyv,;
+sávszélesség	NOUN STR: sáv@szélesség, sáv@szélesség,;
+tintasugaras	ADJ low non_low bareT non_bareT  STR: tinta@sugaras, tinta@sugaras,;
+mobilszolgáltató	NOUN STR: mobil@szolgáltató, mobil@szolgáltató,;
+euróövezet	NOUN STR: euró@övezet, euró@övezet,;
+valósidejû	ADJ low STR: valós@idejû, valós@idejû,;
+Szovjetunió	NOUN proper_noun ,;
+adatvédelem	NOUN epenthetic  STR: adat@védelem, adat@védelem,;
+kapcsolattartás	NOUN STR: kapcsolat@tartás, kapcsolat@tartás,;
+tömegközlekedés	NOUN STR: tömeg@közlekedés, tömeg@közlekedés,;
+gyámhivatal	NOUN STR: gyám@hivatal, gyám@hivatal,;
+élõhely	NOUN low non_bareT  STR: élõ@hely, élõ@hely,;
+emberközpontú	ADJ low  STR: ember@központú, ember@központú,;
+pénzmosás	NOUN STR: pénz@mosás, pénz@mosás,;
+célcsoport	NOUN STR: cél@csoport, cél@csoport,;
+cikkíró	ADJ STR: cikk@író, cikk@író,;
+gázai	ADJ low,;
+osztályfõnöki	NOUN STR: osztály@fõnöki, osztály@fõnöki,;
+használó	NOUN,;
+római	ADJ low,;
+kubai	ADJ low,;
+kelta	NOUN,;
+távbeszélõ	ADJ STR: táv@beszélõ, táv@beszélõ,;
+átirányító	NOUN STR: át@irányító, át@irányító,;
+viszontbiztosító	NOUN STR: viszont@biztosító, viszont@biztosító,;
+hollandiai	NOUN low,;
+játékterem	NOUN STR: játék@terem, játék@terem,;
+kínai	NOUN low,;
+küldõ	NOUN,;
+kormány@szóvivõ	NOUN STR: kormány@szó@vivõ, kormány@szó@vivõ,;
+felnövekvõ	ADJ low STR: fel@növekvõ, fel@növekvõ,;
+légúti	ADJ low STR: lég@úti, lég@úti,;
+makrogazdasági	ADJ low STR: makro@gazdasági, makro@gazdasági,;
+alkotóközösség	NOUN STR: alkotó@közösség, alkotó@közösség,;
+web	NOUN,;
+weblap	NOUN STR: web@lap, web@lap,;
+bíra	NOUN,;
+szakképzõ	NOUN STR: szak@képzõ, szak@képzõ,;
+válaszadó	NOUN STR: válasz@adó, válasz@adó,;
+részvényfajta	NOUN STR: részvény@fajta, részvény@fajta,;
+törvénymódosítás	NOUN STR: törvény@módosítás, törvény@módosítás,;
+többéves	ADJ low non_low STR: több@éves, több@éves,;
+kormányközi	ADJ low non_low STR: kormány@közi, kormány@közi,;
+családügyi	ADJ low non_low STR: család@ügyi, család@ügyi,;
+mentális	ADJ low non_low,;
+intézményrendszer	NOUN STR: intézmény@rendszer, intézmény@rendszer,;
+szövegmezõ	NOUN STR: szöveg@mezõ, szöveg@mezõ,;
+hexadecimális	ADJ low non_low STR: hexa@decimális, hexa@decimális,;
+aktiváció	NOUN,;
+webmester	NOUN STR: web@mester, web@mester,;
+webcím	NOUN STR: web@cím, web@cím,;
+tárhely	NOUN low STR: tár@hely, tár@hely,;
+webszerver	NOUN STR: web@szerver, web@szerver,;
+felhasználónév	NOUN shortening STR: felhasználó@név, felhasználó@név,;
+kezelõfelület	NOUN STR: kezelõ@felület, kezelõ@felület,;
+online	ADJ, online/onlájn;
+on-line	ADJ, on-line/onlájn;
+offline	ADJ, offline/offlájn;
+off-line	ADJ, off-line/offlájn;
+távoktatás	NOUN STR: táv@oktatás, táv@oktatás,;
+kétszintes	ADJ low non_low bareT non_bareT STR: két@szintes, két@szintes,;
+életminõség	NOUN STR: élet@minõség, élet@minõség,;
+üzenetküldés	NOUN STR: üzenet@küldés, üzenet@küldés,;
+fájl	NOUN bareT non_bareT,;
+jogalkotó	NOUN STR: jog@alkotó, jog@alkotó,;
+jogtulajdonos	NOUN STR: jog@tulajdonos, jog@tulajdonos,;
+én		NOUN,; # ez nagyon kell? vp
+árbevétel	NOUN poss_A STR: ár@be@vétel, ár@be@vétel,;
+telekommunikáció	NOUN STR: tele@kommunikáció, tele@kommunikáció,;
+munkavégzés	NOUN STR: munka@végzés, munka@végzés,;
+infó	NOUN,;
+munkavállalás	NOUN STR: munka@vállalás, munka@vállalás,;
+alapképzés	NOUN STR: alap@képzés, alap@képzés,;
+piacvezetõ	ADJ STR: piac@vezetõ, piac@vezetõ,;
+limit	NOUN,;
+képviselõtestület	NOUN STR: képviselõ@testület, képviselõ@testület,;
+egészségkárosító	ADJ low non_low STR: egészség@károsító, egészség@károsító,;
+egészségkárosodott	ADJ low STR: egészség@károsodott, egészség@károsodott,;
+cégvezetõ	NOUN ADJ STR: cég@vezetõ, cég@vezetõ,;
+beosztott	NOUN low STR: be@osztott, be@osztott,;
+belga	NOUN,;
+zarándokló	NOUN,;
+vízválasztó	NOUN STR: víz@választó, víz@választó,;
+példaértékû	ADJ STR: példa@értékû, példa@értékû,;
+paradox	ADJ,;
+városvezetés	NOUN STR: város@vezetés, város@vezetés,;
+részarány	NOUN STR: rész@arány, rész@arány,;
+frakcióvezetõ	NOUN STR: frakció@vezetõ, frakció@vezetõ,;
+termékismertetõ	NOUN STR: termék@ismertetõ, termék@ismertetõ,;
+fogyasztóvédelem	NOUN epenthetic STR: fogyasztó@védelem, fogyasztó@védelem,;
+tûzvédelem	NOUN epenthetic STR: tûz@védelem, tûz@védelem,;
+szövegértés	NOUN STR: szöveg@értés, szöveg@értés,;
+százalékpont	NOUN STR: százalék@pont, százalék@pont,;
+minõségbiztosítás	NOUN STR: minõség@biztosítás, minõség@biztosítás,;
+környezetkímélõ	ADJ STR: környezet@kímélõ, környezet@kímélõ,;
+környezetvédõ	NOUN ADJ STR: környezet@védõ, környezet@védõ,;
+környezetszennyezés	NOUN STR: környezet@szennyezés, környezet@szennyezés,;
+mûsorvezetõ	NOUN STR: mûsor@vezetõ, mûsor@vezetõ,;
+hagyományõrzõ	NOUN STR: hagyomány@õrzõ, hagyomány@õrzõ,;
+hagyományõrzõ	ADJ low non_low STR: hagyomány@õrzõ, hagyomány@õrzõ,;
+díjazott	NOUN low,;
+góllövõ	NOUN STR: gól@lövõ, gól@lövõ,;
+angolai	ADJ low,;
+felnõttkor	NOUN STR: felnõtt@kor, felnõtt@kor,;
+távirányító	NOUN STR: táv@irányító, táv@irányító,;
+összetett	NOUN STR: össze@tett, össze@tett,;
+kötvényfajta	NOUN STR: kötvény@fajta, kötvény@fajta,;
+kijelzõ	NOUN STR: ki@jelzõ, ki@jelzõ,;
+internetezõ	NOUN,;
+netezõ	NOUN,;
+csatoló	NOUN,;
+érzékelõ	NOUN,;
+bevándorló	NOUN STR: be@vándorló, be@vándorló,;
+átruházó	NOUN STR: át@ruházó, át@ruházó,;
+átellenes	ADJ low bareT non_bareT STR: át@ellenes, át@ellenes,;
+állatfajta	NOUN STR: állat@fajta, állat@fajta,;
+tévés	NOUN,;
+telefonkezelõ	NOUN STR: telefon@kezelõ, telefon@kezelõ,;
+társkeresõ	NOUN STR: társ@keresõ, társ@keresõ,;
+tálib	ADJ,;
+résztvevõ	ADJ STR: részt@vevõ, részt@vevõ,;
+renitens	ADJ,;
+picinyke	ADJ,;
+osztrák-magyar	ADJ,;
+nulla	NOUN,;
+nagydarab	NOUN STR: nagy@darab, nagy@darab,;
+mûködtetõ	NOUN,;
+mobil	NOUN,;
+mesztic	NOUN,;
+megalkotó	NOUN STR: meg@alkotó, meg@alkotó,;
+mániákus	NOUN,;
+locsolkodó	NOUN,;
+középfokú	NOUN STR: közép@fokú, közép@fokú,;
+konkurens	NOUN,;
+légiós	NOUN,;
+bunkó	ADJ low,;
+költségtérítés	NOUN STR: költség@térítés, költség@térítés,;
+teljeskörû	ADJ STR: teljes@körû, teljes@körû,;
+alapszintû	ADJ STR: alap@szintû, alap@szintû,;
+középszintû	ADJ STR: közép@szintû, közép@szintû,;
+kisvállalkozás	NOUN STR: kis@vállalkozás, kis@vállalkozás,;
+középvállalkozás	NOUN STR: közép@vállalkozás, közép@vállalkozás,;
+kormányváltás	NOUN STR: kormány@váltás, kormány@váltás,;
+döntéshozatal	NOUN STR: döntés@hozatal, döntés@hozatal,;
+alkalmassági	NOUN,;
+gazdaságkutató	NOUN ADJ STR: gazdaság@kutató, gazdaság@kutató,;
+tároló	NOUN,;
+nagyi	NOUN,;
+muzulmán	NOUN,;
+mexikói	ADJ low,;
+lopakodó	NOUN,;
+lerakó	NOUN,;
+kivitelezõ	NOUN,;
+kidolgozó	NOUN STR: ki@dolgozó, ki@dolgozó,;
+kábszeres	NOUN,;
+kábítószeres	NOUN STR: kábító@szeres, kábító@szeres,;
+hív	NOUN,;
+hál	NOUN defective_inflection sing non_poss cas_nom,;
+erõskék	ADJ STR: erõs@kék, erõs@kék,;
+elhíresült	ADJ low STR: el@híresült, el@híresült,;
+keletnémet	NOUN STR: kelet@német, kelet@német,;
+fagyizó	NOUN,;
+aktivizál	VERB trans,;
+hibernál	VERB trans,;
+munka@erõpiac	NOUN STR: munka@erõ@piac, munka@erõ@piac,;
+kormányközi	ADJ low STR: kormány@közi, kormány@közi,;
+szexualitás	NOUN,;
+kreativitás	NOUN,;
+site	NOUN, site/szájt;
+mobiltelefon	NOUN STR: mobil@telefon, mobil@telefon,;
+fõállás	NOUN STR: fõ@állás, fõ@állás,;
+szélessáv	NOUN STR: széles@sáv, széles@sáv,;
+csengõhang	NOUN STR: csengõ@hang, csengõ@hang,;
+vidékfejlesztés	NOUN STR: vidék@fejlesztés, vidék@fejlesztés,;
+menüpont	NOUN STR: menü@pont, menü@pont,;
+informális	ADJ low non_low bareT non_bareT,;
+tudásszint	NOUN STR: tudás@szint, tudás@szint,;
+hibaüzenet	NOUN STR: hiba@üzenet, hiba@üzenet,;
+világháló	NOUN STR: világ@háló, világ@háló,;
+net	NOUN,;
+diszkriminatív	ADJ low non_low,;
+ügyfélszolgálat	NOUN STR: ügyfél@szolgálat, ügyfél@szolgálat,;
+pályakezdõ	ADJ STR: pálya@kezdõ, pálya@kezdõ,;
+copyright	NOUN, copyright/kopirájt;
+esélyegyenlõség	NOUN STR: esélyegy@enlõség, esélyegy@enlõség,;
+döntéshozó	NOUN STR: döntés@hozó, döntés@hozó,;
+egészségbiztosítás	NOUN STR: egészség@biztosítás, egészség@biztosítás,;
+piacgazdaság	NOUN STR: piac@gazdaság, piac@gazdaság,;
+szaktárca	NOUN STR: szak@tárca, szak@tárca,;
+konszenzus	NOUN,;
+alkotmánybíróság	NOUN STR: alkotmány@bíróság, alkotmány@bíróság;
+modul	NOUN,;
+trend	NOUN,;
+stressz	NOUN,;
+hanghordozó	NOUN STR: hang@hordozó, hang@hordozó;
+nonprofit	ADJ STR: non@profit, non@profit,;
+domain	NOUN , domain/domén;
+e-mail	NOUN , e-mail/ímél;
+email	NOUN , email/ímél;
+mail	NOUN , mail/mél;
+adatlap	NOUN STR: adat@lap, adat@lap;
+igen	NOUN,;
+némely	ADJ low bareT non_bareT EXTRA: "ADJTYPE=quantifier",;
+területfejlesztés	NOUN STR: terület@fejlesztés, terület@fejlesztés;
+környezetbarát	ADJ low non_low STR: környezet@barát, környezet@barát;
+mûködõképes	ADJ low non_low STR: mûködõ@képes, mûködõ@képes;
+interaktív	ADJ low non_low STR: inter@aktív, inter@aktív,;
+hosszantartó	ADJ low non_low STR: hosszan@tartó, hosszan@tartó,;
+elkövetkezendõ	ADJ low bareT STR: el@következendõ, el@következendõ,;
+klikkel	VERB,;
+licenszel	VERB trans,;
+nyitólap	NOUN, STR: nyitó@lap, nyitó@lap;
+kezdõlap	NOUN, STR: kedzõ@lap, kezdõ@lap;
+kezdõoldal	NOUN bareT non_bareT low poss_A, STR: kedzõ@oldal, kezdõ@oldal;
+szakirány	NOUN, STR: szak@irány, szak@irány;
+tag	NOUN, tag/teg;
+sorminta	NOUN, STR: sor@minta, sor@minta;
+közbeszerzés	NOUN, STR: köz@beszerzés, köz@beszerzés;
+nemkívánt	ADJ STR: nem@kívánt, nem@kívánt,;
+avatar	NOUN USAGE: substandard_orth,;
+avatár	NOUN,;
+emotikon	NOUN,;
+széleskörû	ADJ low bareT STR: széles@körû, széles@körû,;
+hírlevél	NOUN shortening STR: hír@levél, hír@levél,;
+internet	NOUN,;
+honlap	NOUN,;
+weboldal	NOUN low bareT non_bareT poss_A STR: web@oldal, web@oldal;
+della	NOUN SRC: vd,;
+csákeszmákesz	SENTINT SRC: vd,;
+kircsi	ADJ SRC: hp,;
+szkript	NOUN,;
+agora	NOUN ,;
+akrobatika	NOUN ,;
+biomassza	NOUN  STR: bio@massza, bio@massza,;
+biotechnológia	NOUN  STR: bio@technológia, bio@technológia,;
+blues	NOUN hyphen ,blues/blúz;
+body	NOUN hyphen ,body/bádi;
+bónusz	NOUN ,;
+building	NOUN ,building/bilding;
+casco	NOUN hyphen ,casco/kaszkó;
+audio	NOUN,;
+centrálzár	NOUN  STR: centrál@zár, centrál@zár,;
+cirkó	NOUN ,;
+concerto	NOUN hyphen ,concerto/koncsertó;
+csomagkapcsolt	NOUN  STR: csomag@kapcsolt, csomag@kapcsolt,;
+Dante	NOUN proper_noun hyphen ,;
+dél	ADJ ,;
+delirium	NOUN	 ,delirium/delírium;
+design	NOUN hyphen ,design/dizájn;
+diabetes	NOUN hyphen ,diabetes/diabétesz;
+dietetikus	NOUN ,;
+díjkiosztó	ADJ  STR: díj@kiosztó, díj@kiosztó,;
+display	NOUN hyphen ,display/diszpléj;
+diszciplináris	ADJ ,;
+dízel	NOUN ADJ,;
+dízelmotor	NOUN  STR: dízel@motor, dízel@motor,;
+donna	NOUN ,;
+editor	NOUN ,;
+Eger	NOUN proper_noun ,;
+egyenkénti	ADJ ,;
+elektrosztatikus	ADJ  STR: elektro@sztatikus, elektro@sztatikus,;
+emberfeletti	ADJ  STR: ember@feletti, ember@feletti,;
+emblematikus	ADJ ,;
+empatikus	ADJ ,;
+entitás	NOUN ,;
+epidemiológia	NOUN ,;
+esszenciális	ADJ ,;
+észak	ADJ ,;
+eutanázia	NOUN ,;
+fehérbor	NOUN  STR: fehér@bor, fehér@bor,;
+fogvatart	VERB  STR: fogva@tart, fogva@tart,; #?
+fókuszál	VERB ,;
+fölsõ	ADJ ,;
+fundamentalista	ADJ ,;
+futamidõ	NOUN oa_stem  STR: futam@idõ, futam@idõ,;
+guru	NOUN ,;
+gyarapszik	VERB sz-d_stem ,;
+gyógytornász	NOUN  STR: gyógy@tornász, gyógy@tornász,;
+használatbavétel	NOUN  STR: használatba@vétel, használatba@vétel,;
+hepatitis	NOUN hyphen ,hepatitis/hepatitisz;
+hormonális	ADJ ,;
+hõszigetelt	ADJ  STR: hõ@szigetelt, hõ@szigetelt,;
+hulladéklerakó	NOUN  STR: hulladék@lerakó, hulladék@lerakó,;
+humánpolitika	NOUN  STR: humán@politika, humán@politika,;
+immunrendszer	NOUN  STR: immun@rendszer, immun@rendszer,;
+infrastrukturális	ADJ ,;
+interakció	NOUN  STR: inter@akció, inter@akció,;
+interdiszciplináris	ADJ  STR: inter@diszciplináris, inter@diszciplináris,;
+interperszonális	ADJ  STR: inter@perszonális, inter@perszonális,;
+intranet	NOUN  STR: intra@net, intra@net,;
+jogharmonizáció	NOUN  STR: jog@harmonizáció, jog@harmonizáció,;
+karate	NOUN ,;
+katalitikus	ADJ ,;
+katartikus	ADJ ,;
+kelvin	NOUN ,;
+Kelvin	NOUN proper_noun ,;
+keresztyén	NOUN ,;
+kihasználtság	NOUN  STR: ki@használtság, ki@használtság,;
+kognitív	ADJ ,;
+koncepcionális	ADJ ,;
+könnyûszerkezet		NOUN  STR: könnyû@szerkezet	, könnyû@szerkezet	,;
+kontaktlencse	NOUN  STR: kontakt@lencse, kontakt@lencse,;
+konzulens	NOUN ,;
+kulcsrakész	ADJ  STR: kulcsra@kész, kulcsra@kész,;
+külgazdaság	NOUN  STR: kül@gazdaság, kül@gazdaság,;
+különdíj	NOUN  STR: külön@díj, külön@díj,;
+látássérült	NOUN  STR: látás@sérült, látás@sérült,;
+légiforgalom	NOUN	  STR: légi@forgalom	NOUN, légi@forgalom	NOUN,;
+likviditás	NOUN ,;
+Linux	NOUN proper_noun ,;
+logopédus	NOUN  STR: logo@pédus, logo@pédus,;
+magáncél	NOUN  STR: magán@cél, magán@cél,;
+magánkezdeményezés	NOUN  STR: magán@kezdeményezés, magán@kezdeményezés,;
+maja	NOUN ,;
+mélygarázs	NOUN  STR: mély@garázs, mély@garázs,;
+mélynyomó	NOUN  STR: mély@nyomó, mély@nyomó,;
+mentálhigiéné	NOUN  STR: mentál@higiéné, mentál@higiéné,;
+#messzebb	ADV ,;
+moderátor	NOUN poss_A,;
+mol	NOUN ,;
+moldvai	ADJ NOUN ,;
+monetáris	ADJ ,;
+monogám	ADJ NOUN,;
+mozgássérült	NOUN  STR: mozgás@sérült, mozgás@sérült,;
+multidiszciplináris	ADJ  STR: multi@diszciplináris, multi@diszciplináris,;
+multifunkcionális	ADJ  STR: multi@funkcionális, multi@funkcionális,;
+multikulturális	ADJ  STR: multi@kulturális, multi@kulturális,;
+multimédia	NOUN  STR: multi@média, multi@média,;
+multinacionális	ADJ  STR: multi@nacionális, multi@nacionális,;
+nagynyomású	ADJ  STR: nagy@nyomású, nagy@nyomású,;
+neoklasszikus	ADJ  STR: neo@klasszikus, neo@klasszikus,;
+neoliberális	ADJ  STR: neo@liberális, neo@liberális,;
+nyugat	ADJ ,;
+nyüzsgõ	ADJ ,;
+olajár	NOUN low  STR: olaj@ár, olaj@ár,;
+öregszik	VERB sz-d_stem ,;
+összegez	VERB epenthetic ,;
+összeurópai	ADJ  STR: össz@európai, össz@európai,;
+össztermék	NOUN  STR: össz@termék, össz@termék,;
+palesztin	NOUN ADJ ,;
+parallel	NOUN ,;
+paranoid	ADJ ,;
+partnerség	NOUN ,;
+pedofil	ADJ ,;
+penny	NOUN hyphen nohyphen ,penny/peni;
+pentagon	NOUN ,;
+Pentagon	NOUN proper_noun ,;
+percenkénti	ADJ,;
+manõver	NOUN ,;
+pompázatos	ADJ,;
+pizzéria	NOUN ,;
+pluralizmus	NOUN ,;
+polipropilén	NOUN ADJ STR: poli@propilén, poli@propilén,;
+politológia	NOUN ,;
+politológus	NOUN ,;
+populista	ADJ ,;
+populáris	ADJ low non_low bareT non_bareT,;
+bináris	ADJ low non_low bareT non_bareT,;
+portfólió	NOUN ,;
+posztgraduális	ADJ non_low low bareT non_bareT STR: poszt@graduális, poszt@graduális,;
+graduális	ADJ non_low low bareT non_bareT,;
+problémamegoldó	ADJ  STR: probléma@megoldó, probléma@megoldó,;
+profitorientált	ADJ low STR: profit@orientált, profit@orientált,;
+projekt	NOUN ,;
+pszichoszomatikus	ADJ low STR: pszicho@szomatikus, pszicho@szomatikus,;
+punk	NOUN , punk/pánk;
+Quijote	NOUN proper_noun ,;
+reálérték	NOUN  STR: reál@érték, reál@érték,;
+referendum	NOUN ,;
+relaxáció	NOUN ,;
+reproduktív	ADJ  STR: re@produktív, re@produktív,;
+#restaurant	 ,;
+részmunkaidõs	ADJ  STR: rész@munkaidõs, rész@munkaidõs,;
+#reszt	NOUN ,; #?
+Rió	NOUN	proper_noun ,;
+rock	NOUN ,rock/rokk;
+rockzene	NOUN  STR: rock@zene, rock@zene,;
+sapiens	NOUN , sapiens/szapiensz;
+Schengen	NOUN proper_noun ,;
+Siemens	NOUN proper_noun ,;
+síita	NOUN ,;
+skizofrén	ADJ ,;
+song	NOUN ,song/szong;
+sosem	NEG ADV ,;
+spin	NOUN ,;
+status	NOUN hyphen ,status/sztátusz;
+svédasztal	NOUN  STR: svéd@asztal, svéd@asztal,;
+szabadkereskedelem	NOUN  STR: szabad@kereskedelem, szabad@kereskedelem,;
+szocializáció	ADJ ,;
+szülõatya	NOUN  STR: szülõ@atya, szülõ@atya,;
+technokrata	NOUN ,;
+telepszik	VERB sz-d_stem ,;
+telítetlen	ADJ ,;
+tetõ	NOUN oa_stem ,;
+trade	NOUN ,trade/tréd;
+transzvesztita	NOUN ,;
+turbódízel	NOUN ,;
+uniform	NOUN ,;
+unit	NOUN ,;
+videofelvétel	NOUN  STR: video@felvétel, video@felvétel,;
+vörösvérsejt	NOUN  STR: vörös@vérsejt, vörös@vérsejt,;
+whisky	NOUN nohyphen hyphen ,whisky/viszki;
+whiskey	NOUN nohyphen hyphen ,whiskey/viszki;
+Windows	NOUN nohyphen hyphen ,Windows/vindóz;
+Word	NOUN nohyphen hyphen ,Word/vörd;
+York	NOUN nohyphen hyphen ,York/jork;
+animáció	NOUN,;
+racionalitás	NOUN,;
+fergeteg	NOUN,;
+fergeteges	ADJ,;
+kompatibilis	ADJ front ,;
+kredit	NOUN,;
+karizmatikus	NOUN,;
+populáció	NOUN,;
+motiváció	NOUN,;
+leszbikus	NOUN ADJ,;
+konvergencia	NOUN,;
+empátia	NOUN,;
+pénisz	NOUN,;
+befektetõ	NOUN STR: be@fektetõ, be@fektetõ;
+szolgáltató	NOUN ,;
+tisztségviselõ	NOUN STR: tisztség@viselõ, tisztség@viselõ;
+fejlesztõ	NOUN ,;
+böngészõ	NOUN ,;
+elkövetõ	NOUN  STR: el@követõ, el@követõ,;
+forgalmazó	NOUN ,;
+beszállító	NOUN  STR: be@szállító, be@szállító,;
+modem	NOUN ,;
+partíció	NOUN ,;
+terminál	NOUN ,;
+zloty	NOUN nohyphen hyphen, zloty/zlotyi ;
+z³oty	NOUN nohyphen hyphen, z³oty/zlotyi ;
+fax	NOUN nohyphen , fax/faksz ;
+recesszió	NOUN ,;
+igyekszik	VERB ,;
+tálib	NOUN ,;
+port	NOUN ,;
+rogy	VERB,;
+tudatosul	VERB,;
+bíztat	VERB USAGE: substandard_orth ,;
+ziherejsztû	NOUN USAGE: substandard_orth ,;
+mindenkori	ADJ,;
+féle	NOUN USAGE: substandar_orth,; #kulonirva nem letezik ez a szo
+
+#################
+#irregular words#
+#################
+
+kis	front non_round C_final synthetic_noun lengthened cas_nom analytic non_lengthened cas_nom
+	CAS_NOM AFF_BB AFF_LEGBB AFF_LEGESLEGBB AFF_BBIK AFF_LEGBBIK AFF_LEGESLEGBBIK
+	aff_ság aff_bb
+	TAG: /ADJ SRC: fkp ,;
+
+többiek	tagged NOUN	
+	defective_inflection sing non_poss case
+	TAG: /NOUN<PLUR> 
+,;
+többek tagged NOUN
+	defective_inflection sing non_poss case
+	TAG: /NOUN<PLUR>
+,;
+
+nagy
+        ADJ defective_inflection defective_derivation aff_bb 
+	lengthened
+, nagyo
+;
+
+szép
+        ADJ defective_inflection defective_derivation aff_bb lengthened
+, sze
+;
+
+jó	ADJ 
+   aff_ság
+,;
+
+jó
+        ADJ defective_derivation aff_bb 
+	lengthened
+, jo	
+;
+
+ifjú	NOUN
+, ifj	back low 
+  	defective_inflection non_poss plur case 
+	defective_derivation
+;
+ifjú	ADJ
+, ifj	back low 
+  	defective_inflection non_poss plur case
+	defective_derivation aff_bb aff_an
+;
+hosszú
+        ADJ defective_inflection defective_derivation aff_bb aff_an
+, hossz
+;
+könnyû
+        ADJ defective_inflection defective_derivation aff_bb aff_an lengthened
+, könny
+;
+lassú
+        ADJ defective_inflection defective_derivation aff_bb aff_an lengthened
+, lass
+;
+
+#utolsó	ADJ defective_derivation,;
+
+utolsó	TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE] OUT: ADJ
+defective_derivation, legutolsó;
+elsõ		TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE] OUT: ADJ defective_derivation, legelsõ;
+felsõ	TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE] OUT: ADJ defective_derivation, legfelsõ;
+alsó		TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE] OUT: ADJ defective_derivation, legalsó;
+hátsó	TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE] OUT: ADJ defective_derivation, leghátsó;
+belsõ		TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE] OUT: ADJ defective_derivation,legbelsõ ;
+külsõ		TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE] OUT: ADJ defective_derivation,legkülsõ;
+elülsõ		TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE] OUT: ADJ defective_derivation,legelülsõ;
+
+korai	ADJ
+	,korábbi	defective_derivation TAG: /ADJ RTAG: [COMPAR] FULL_RTAG: [COMPARATIVE]
+	,legkorábbi	defective_derivation TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE]
+	,legeslegkorábbi	defective_derivation TAG: /ADJ RTAG: [SUPERSUPERLAT] FULL_RTAG: [SUPERSUPERLATIVE] 
+;
+régi	ADJ
+	,régebbi	defective_derivation TAG: /ADJ RTAG: [COMPAR] FULL_RTAG: [COMPARATIVE]
+	,legrégebbi	defective_derivation TAG: /ADJ RTAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE]
+	,legeslegrégebbi	defective_derivation TAG: /ADJ RTAG: [SUPERSUPERLAT] FULL_RTAG: [SUPERSUPERLATIVE]  
+;
+távoli	ADJ
+	,távolabbi	defective_derivation TAG: /ADJ RTAG: [COMPAR] FULL_RTAG: [COMPARATIVE]
+	,legtávolabbi	defective_derivation TAG: /ADJ TAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE]
+	,legeslegtávolabbi	defective_derivation TAG: /ADJ RTAG: [SUPERSUPERLAT] FULL_RTAG: [SUPERSUPERLATIVE] 
+;
+közeli	ADJ
+	,közelebbi	defective_derivation TAG: /ADJ RTAG: [COMPAR] FULL_RTAG: [COMPARATIVE]
+	,legközelebbi	defective_derivation TAG: /ADJ TAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE]
+	,legeslegközelebbi	defective_derivation TAG: /ADJ RTAG: [SUPERSUPERLAT] FULL_RTAG: [SUPERSUPERLATIVE] 
+;
+messzi	ADJ
+	,messzebbi	defective_derivation TAG: /ADJ RTAG: [COMPAR] FULL_RTAG: [COMPARATIVE]
+	,legmesszebbi	defective_derivation TAG: /ADJ TAG: [SUPERLAT] FULL_RTAG: [SUPERLATIVE]
+	,legeslegmesszebbi	defective_derivation TAG: /ADJ RTAG: [SUPERSUPERLAT] FULL_RTAG: [SUPERSUPERLATIVE] 
+;
+
+teher	NOUN
+, terh synthetic_noun
+, teher	analytic
+;
+
+kehely	NOUN
+, kelyh synthetic_noun
+, kehely analytic
+;
+
+pehely	NOUN
+, pelyh synthetic_noun
+, pehely analytic
+;
+
+tudta	NOUN defective_derivation defective_inflection poss sing case poss_A,
+tudt ;
+eleje  	NOUN defective_derivation defective_inflection poss sing case
+, elej
+;
+hátulja  	NOUN defective_derivation defective_inflection poss sing case
+, hátulj
+;
+belseje  	NOUN defective_derivation defective_inflection poss sing case
+, belsej
+;
+külseje  	NOUN defective_derivation defective_inflection poss sing case
+, külsej
+;
+legeleje  	NOUN defective_derivation defective_inflection poss sing case
+, legelej
+;
+leghátulja  	NOUN defective_derivation defective_inflection poss sing case
+, leghátulj
+;
+legbelseje  	NOUN defective_derivation defective_inflection poss sing case
+, legbelsej
+;
+legkülseje  	NOUN defective_derivation defective_inflection poss sing case
+, legkülsej
+;
+alja  	NOUN defective_derivation defective_inflection poss sing case
+, alj
+;
+legalja  	NOUN defective_derivation defective_inflection poss sing case
+, legalj
+;
+eltelte  	NOUN defective_derivation defective_inflection poss sing case
+, eltelt	poss_A
+;
+lejárta  	NOUN defective_derivation defective_inflection poss sing case
+, lejárt	poss_A
+;
+befejezte  	NOUN defective_derivation defective_inflection poss sing case
+, befejezt	poss_A
+;
+létrejötte  	NOUN defective_derivation defective_inflection poss sing case
+, létrejött	poss_A
+;
+megtörténte  	NOUN defective_derivation defective_inflection poss sing case
+, megtörtént	poss_A
+;
+vége  	NOUN defective_derivation defective_inflection poss sing case
+, vég	poss_A
+;
+legvége  	NOUN defective_derivation defective_inflection poss sing case
+, legvég	poss_A
+;
+kellete  	NOUN defective_derivation defective_inflection poss sing case
+, kellet	poss_A
+;
+
+apa	NOUN, apa, ap defective_derivation defective_inflection poss sing plur case poss_jA analytic;
+keresztapa	NOUN, keresztapa, keresztap defective_derivation defective_inflection poss sing plur case poss_jA analytic;
+nagyapa	NOUN, nagyapa, nagyap defective_derivation defective_inflection poss sing plur case poss_jA analytic;
+
+anya	NOUN, anya, any defective_derivation defective_inflection poss sing plur case poss_jA analytic; 
+nagyanya	NOUN, nagyanya, nagyany defective_derivation defective_inflection poss sing plur case poss_jA analytic; 
+keresztanya	NOUN, keresztanya, keresztany defective_derivation defective_inflection poss sing plur case poss_jA analytic; 
+
+báty	NOUN, bátya, báty defective_derivation defective_inflection poss sing plur case poss_jA analytic,; 
+öccs	NOUN, öccs, öcse synthetic_noun defective_derivation defective_inflection poss sing plur case;
+
+unokabáty	NOUN, unokabáty, unokabátya defective_derivation defective_inflection poss sing plur case poss_jA analytic,; 
+unokaöccs	NOUN, unokaöccs, unokaöcse synthetic_noun defective_derivation defective_inflection poss sing plur case;
+
+nagybáty	NOUN, nagybáty, nagybátya defective_derivation defective_inflection poss sing plur case poss_jA analytic,; 
+
+atya	NOUN, atya, aty defective_derivation defective_inflection poss sing plur case poss_jA analytic; 
+
+édesapa	NOUN, édesapa, édesap defective_derivation defective_inflection poss sing plur case poss_jA analytic;
+édesatya	NOUN, édesatya, édesaty defective_derivation defective_inflection poss sing plur case poss_jA analytic;
+édesanya	NOUN, édesanya, édesany defective_derivation defective_inflection poss sing plur case poss_jA analytic;
+ 
+fiú	NOUN
+, fi	back low poss_A C_final
+	defective_inflection poss number case 
+	defective_derivation
+;
+kisfiú	NOUN
+, kisfi	back low poss_A C_final
+	defective_inflection poss number case 
+	defective_derivation
+;
+nagyfiú	NOUN
+, nagyfi	back low poss_A C_final
+	defective_inflection poss number case 
+	defective_derivation
+;
+
+száj	NOUN low , száj , szá defective_derivation defective_inflection poss sing case ;
+
+kevesell VERB trans PRES_COND  PAST_INDIC INF
+, kevesell SUBJ-IMP PRES_INDIC AFF_HAT AFF_HATNEK AFF_GAT AFF_HATATLAN AFF_TT AFF_VA AFF_VÁN AFF_TAT AFF_HATÓ
+, kevesl  PRES_INDIC_DEF_SG_1 PRES_INDIC_DEF_SG_2 PRES_INDIC_DEF_SG_3 PRES_INDIC_DEF_PL_1 PRES_INDIC_DEF_PL_2 PRES_INDIC_DEF_PL_3 PRES_INDIC_INDEF AFF_ÓDIK AFF_ÁS AFF_Ó AFF_ANDÓ AFF_TT AFF_ATLAN
+;
+
+kicsinyell VERB trans PRES_COND  PAST_INDIC INF
+, kicsinyell SUBJ-IMP PRES_INDIC AFF_HAT AFF_HATNEK AFF_GAT AFF_HATATLAN AFF_TT AFF_VA AFF_VÁN AFF_TAT AFF_HATÓ
+, kicsinyl  PRES_INDIC_DEF_SG_1 PRES_INDIC_DEF_SG_2 PRES_INDIC_DEF_SG_3 PRES_INDIC_DEF_PL_1 PRES_INDIC_DEF_PL_2 PRES_INDIC_DEF_PL_3 PRES_INDIC_INDEF AFF_ÓDIK AFF_ÁS AFF_Ó AFF_ANDÓ AFF_TT AFF_ATLAN
+;
+
+kétell VERB trans PRES_COND  PAST_INDIC INF
+, kétell SUBJ-IMP PRES_INDIC AFF_HAT AFF_HATNEK AFF_GAT AFF_HATATLAN AFF_TT AFF_VA AFF_VÁN AFF_TAT AFF_HATÓ
+, kétl  PRES_INDIC_DEF_SG_1 PRES_INDIC_DEF_SG_2 PRES_INDIC_DEF_SG_3 PRES_INDIC_DEF_PL_1 PRES_INDIC_DEF_PL_2 PRES_INDIC_DEF_PL_3 PRES_INDIC_INDEF AFF_ÓDIK AFF_ÁS AFF_Ó AFF_ANDÓ AFF_TT AFF_ATLAN
+;
+
+vénell VERB trans PRES_COND  PAST_INDIC INF
+, vénell SUBJ-IMP PRES_INDIC AFF_HAT AFF_HATNEK AFF_GAT AFF_HATATLAN AFF_TT AFF_VA AFF_VÁN AFF_TAT AFF_HATÓ
+, vénl  PRES_INDIC_DEF_SG_1 PRES_INDIC_DEF_SG_2 PRES_INDIC_DEF_SG_3 PRES_INDIC_DEF_PL_1 PRES_INDIC_DEF_PL_2 PRES_INDIC_DEF_PL_3 PRES_INDIC_INDEF AFF_ÓDIK AFF_ÁS AFF_Ó AFF_ANDÓ AFF_TT AFF_ATLAN
+;
+
+nehezell VERB trans PRES_COND  PAST_INDIC INF
+, nehezell SUBJ-IMP PRES_INDIC AFF_HAT AFF_HATNEK AFF_GAT AFF_HATATLAN AFF_TT AFF_VA AFF_VÁN AFF_TAT AFF_HATÓ
+, nehezl  PRES_INDIC_DEF_SG_1 PRES_INDIC_DEF_SG_2 PRES_INDIC_DEF_SG_3 PRES_INDIC_DEF_PL_1 PRES_INDIC_DEF_PL_2 PRES_INDIC_DEF_PL_3 PRES_INDIC_INDEF AFF_ÓDIK AFF_ÁS AFF_Ó AFF_ANDÓ AFF_TT AFF_ATLAN
+;
+
+hallatszik verb_indef SRC: fkp el
+, hallatszik VERB
+, hallas SUBJ-IMP back analytic d_add ik_basic TAG: /VERB
+;
+
+látszik verb_indef SRC: fkp el
+, látszik VERB
+, lás SUBJ-IMP back analytic d_add ik_basic TAG: /VERB USAGE: literary
+;
+
+metsz   trans SRC: fkp el
+, metsz VERB
+, mes SUBJ-IMP front analytic d_add non_round TAG: /VERB USAGE: literary
+;
+
+nyû     VERB trans shortening v_stem
+, nyû
+, nyûv synthetic_verb USAGE: substandard_orth
+;
+
+tetszik verb_indef SRC: fkp el
+, tetszik VERB
+, tes SUBJ-IMP front analytic d_add non_round ik_basic TAG: /VERB
+, tessem FREE: true TAG: /VERB<SUBJUNC-IMP><PERS<1>>
+;
+
+
+
+####
+# HP100 nehany szava RP alapjan, amiket eddig nem (vagy nem csak ilyen szofajkent) ismertunk.
+###
+
+
+BÉT	NOUN hyphen proper_noun ,;
+BUX	NOUN hyphen proper_noun ,;
+egyéb	NOUN shortening ,;
+elõállító	NOUN  STR: elõ@állító, elõ@állító,;
+felhasználó	NOUN  STR: fel@használó, fel@használó,;
+külföldi	NOUN low  STR: kül@földi, kül@földi,;
+Szepetneki	NOUN proper_noun ,;
+Almira	NOUN proper_noun ,;
+záró	NOUN ,;
+kötvényes	NOUN ,;
+meghajtó	NOUN  STR: meg@hajtó, meg@hajtó,;
+foglalt	NOUN low ,;
+helyi	NOUN front low ,;
+kívülálló	NOUN  STR: kívül@álló, kívül@álló,;
+üzemeltetõ	NOUN ,;
+közremûködõ	NOUN  STR: közre@mûködõ, közre@mûködõ,;
+jogsértõ	ADJ  STR: jog@sértõ, jog@sértõ,;
+döntéshozó	ADJ  STR: döntés@hozó, döntés@hozó,;
+csomagkapcsolt	ADJ low  STR: csomag@kapcsolt, csomag@kapcsolt,;
+parkoló	NOUN ,;
+-e	TAG: /E ,;
+roma	ADJ,;
+pénzügy	NOUN,;
+küldött	NOUN low,;
+licit	NOUN,;
+csávó	NOUN,;
+szimuláció	NOUN,;
+gráf	NOUN,;
+jazz	NOUN, jazz/dzsez;
+ment	ADJ ,;
+bennszülött	NOUN low ,;
+azonosító	NOUN ,;
+behatoló	NOUN ,;
+mitévõ		NOUN ,;
+tini		NOUN ADJ ,;
+cunami	NOUN ,;
+kukszli	NOUN ,;
+neutrínó	NOUN ,;
+neutrinó	NOUN USAGE: substandard_orth ,;
+tíkfa	NOUN ,;
+tikfa	NOUN USAGE: substandard_orth ,;
+szferikus	NOUN ,;
+szférikus	NOUN USAGE: substandard_orth ,;
+devizapiac	NOUN STR: deviza@piac , deviza@piac;
+jogkezelõ	NOUN ADJ STR: jog@kezelõ , jog@kezelõ;
+bankközi	ADJ STR: bank@közi , bank@közi;
+fusiban	M_ADV ,;
+
+# mispellbol nehany jel, nemtom kell-e.
+#°	NOUN , °/fok;
+#§	NOUN , §/paragrafus;
+#%	NOUN , %/százalék;
+#°C	NOUN , °C/celziuszfok, STR celziusz@fok, celziusz@fok;
+
+sí	VERB back v_stem SRC: el mi ,;
+mp3	NOUN epenthetic low hyphen, mp3/empéhárom ,;
+sms	NOUN hyphen, sms/esemes;
+
+#dani 0815
+
+programcsomag	NOUN STR: program@csomag, program@csomag,;
+tûrõképesség	NOUN STR: tûrõ@képesség, tûrõ@képesség,;
+nagysikerû	ADJ STR: nagy@sikerû, nagy@sikerû,;
+tárgyelem	NOUN STR: tárgy@elem, tárgy@elem,;
+adatátvitel	NOUN STR: adat@átvitel, adat@átvitel,;
+edzésprogram	NOUN STR: edzés@program, edzés@program,;
+távmunka	NOUN STR: táv@munka, táv@munka,;
+szerepjáték	NOUN STR: szerep@játék, szerep@játék,;
+anime	NOUN ,;
+ajánlatkérõ	NOUN STR: ajánlat@kérõ, ajánlat@kérõ,;
+témaváltás	NOUN STR: téma@váltás, téma@váltás,;
+
+
+# eleonora2 alapjan felveve:
+
+alkonyulat	NOUN poss_A,;
+analfabétizmus	NOUN ,;
+dioxid	NOUN ,;
+flanel	NOUN ,;
+jáde	NOUN back,;
+kamásni	NOUN USAGE: substandard,;
+klozet	NOUN ,;
+manõver	NOUN poss_optional,;
+masli	NOUN USAGE: substandard ,;
+plazmid NOUN ,;
+rezorpció NOUN ,;
+skarabeusz NOUN USAGE: substandart_orth,;
+snaucer	NOUN USAGE: substandart_orth,;
+schnauzer	NOUN ,;
+sparherd	NOUN USAGE: substandard_orth,;
+kernel	NOUN poss_optional,;
+reprint	NOUN ,;
+gagyi	ADJ ,;
+floppy	NOUN , floppy/flopi ;
+flopi	NOUN ,;
+pixel	NOUN poss_optional ,;
+diszk	NOUN poss_jA ,;
+ergo	CONJ ,;
+random	ADJ poss_jA ,;
+ciki	NOUN ADJ ,;
+kamu	NOUN ,;
+aura	NOUN ,;
+mutáns	NOUN ADJ ,;
+bio	ADJ ,;
+
+# someone else should approve these as well:
+
+#mondá	grammarben kell megoldani
+#WC szotrban van de nem mukodik
+#antivírus	
+#citrus
+#gyed
+#KRESZ
+
+progi	NOUN ,;
+print	NOUN ,;
+moment	SENTINT ,;
+demó	NOUN ADJ ,;
+demo	NOUN ADJ USAGE: substandard_orth,;
+Sir	NOUN , Sir/szõr;
+ser	NOUN , USAGE: substandard;
+PB-gáz NOUN ,;
+bimetál	NOUN ADJ USAGE: substandard_orth,;
+bimetall	NOUN ADJ ,;
+monó    NOUN ADJ ,;
+mono    NOUN ADJ USAGE: substandard_orth,; 
+mega	NOUN ,;
+mix	NOUN ,;
+#minor	ADJ ,;
+multi	NOUN ADJ ,;
+vinyó	NOUN ,;
+homo	ADJ NOUN ,;
+oh	SENTINT ,;
+spéci	ADJ ,;
+lobby	NOUN , lobby/lobbi ;
+fuzzy	ADJ , fuzzy/fázzi ;
+biszex	ADJ ,;
+randa	ADJ USAGE: substandard,;
+token	NOUN ,;
+darts	NOUN , darts/darc ;
+#nuku	ADJ SENTINT ,;#??
+lambda	NOUN ,;
+genyó	ADJ ,;
+imázs	NOUN ,;
+verda	NOUN ,;
+bézs	ADJ ,;
+talján	NOUN ADJ ,;
+frigó	NOUN ,;
+cukkini	NOUN ,;
+szunya	NOUN ,;
+spániel	NOUN ,;
+dualista ADJ ,;
+dzsumbuj	NOUN ,;
+maoista	ADJ ,;
+ammónium NOUN ,;
+szimplex NOUN ADJ ,;
+biennále	NOUN ,;
+polaroid	NOUN ADJ ,;
+spangli	NOUN ,;
+avokádó	NOUN ,;
+neutrínó NOUN ,;
+rekurzió	NOUN ,;
+epszilon	NOUN ,;
+sztyeppe	NOUN ,;
+perdület NOUN ,;
+addiktív	ADJ low ,;
+exoterm	ADJ ,;
+endoterm	ADJ ,;
+promenád	NOUN ,;
+abakusz	NOUN ,;
+transzfer	NOUN ,;
+numerikus	NOUN ADJ low ,;
+adaptáció	NOUN ,;
+flexibilis	ADJ ,;
+multiplex	NOUN ,;
+koaxiális	ADJ low ,;
+bakteriális	ADJ ,;
+antioxidáns	NOUN ADJ ,;
+aszinkron	ADJ ,;
+katekézis	NOUN ,;
+szürreális	ADJ low ,;
+attraktív	ADJ low ,;
+esztétikum	NOUN ,;
+meditatív	ADJ low ,;
+snowboard	NOUN , snowboard/sznóbórd ;
+növekmény	NOUN ,;
+galaktikus	ADJ ,;
+asztronauta	NOUN ,;
+prediktív	ADJ ,;
+dominancia	NOUN ,;
+poliuretán	NOUN ,;
+lipid	NOUN ,;
+debil	NOUN ADJ ,;
+gimi	NOUN USAGE: substandard ,;
+ovi	NOUN USAGE: substandard ,;
+müzli	NOUN ,;
+cerka	NOUN  USAGE: substandard ,;
+peptid	NOUN ,;
+folsav	NOUN ,;
+skalár	NOUN ADJ ,;
+banzáj	NOUN ,;
+kagán	NOUN ,;
+lemma	NOUN ,;
+agapé	NOUN ,;
+koala	NOUN ,;
+bacon	NOUN , bacon/békön ;
+etanol	NOUN ,;
+polisz	NOUN ,;
+gnózis	NOUN ,;
+wok	NOUN ,;
+jány	NOUN USAGE: substandard ,;
+kuki	NOUN ,;
+szikh	NOUN , szikh/szik ;
+biogén	ADJ ,;
+árnika	NOUN ,;
+klafa	ADJ ,;
+flúgos	ADJ ,;
+kappa	NOUN ,;
+pulzár	NOUN ,;
+szupernóva	NOUN USAGE: substandard_orth,;
+klotyó	NOUN ,;
+tatu	NOUN ,;
+storno	NOUN USAGE: substandard_orth,;
+stornó	NOUN USAGE: substandard_orth,;
+affin	ADJ ,;
+bekk	NOUN ,;
+stift	NOUN ,;
+anómia	NOUN ,;
+ánusz	NOUN ,;
+#ávó
+bovden	NOUN ,;
+#brumma
+buzuki	NOUN ,;
+cézium	NOUN ,;
+chat	NOUN , chat/cset ;
+cset	NOUN ,;
+coitus	NOUN , coitus/koitusz ;
+koitusz	NOUN USAGE: substandard_orth,;
+csetel	VERB ,;
+dadus	NOUN ,;
+deista	NOUN ,;
+dinka	ADJ ,;
+dugalj	NOUN ,;
+éta	NOUN ,;
+#expo
+#expó
+fölség	NOUN USAGE: substandard_orth,;
+freon	NOUN ,;
+gój	NOUN ADJ ,;
+inzert	NOUN ,;
+ivrit	NOUN ADJ ,;
+jani	NOUN ,;
+jatt	NOUN ,;
+kanül	NOUN ,;
+kazakh	NOUN ADJ , kazakh/kazah ;
+keki	NOUN USAGE: substandard_orth,;
+#kelmed
+makákó	NOUN ,;
+módusz	NOUN ,;
+neogót	NOUN STR: neo@gót , neo@gót ;
+pikírt	ADJ ,;
+rádzsa	NOUN ,;
+revans	NOUN USAGE: substandard_orth,;
+röfi	NOUN ,;
+séró	NOUN ,;
+sovén	ADJ ,;
+szárd	NOUN ADJ ,;
+téta	NOUN USAGE: substandard_orth,;
+théta	NOUN ,;
+vej	NOUN ,;
+zaba	NOUN ,;
+#addíció
+addikció	NOUN ,;
+antibébi	ADJ ,;
+antihõs	NOUN STR: anti@hõs , anti@hõs ;
+areális	ADJ ,;
+askenázi	NOUN ADJ ,;
+#atyádfia
+beretva	NOUN USAGE: substandard,;
+#biennálé
+bioaktív	NOUN STR: bio@aktív , bio@aktív;
+brojler	NOUN ,;
+buldózer	NOUN ,;
+#caritas
+#cicamica
+#corvina
+#csetelés
+dilinyós	ADJ ,;
+diszperz	ADJ ,;
+diszperzit	NOUN ,;
+dualitás	ADJ ,;
+dzsigoló	NOUN ,;
+editál	VERB trans ,;
+editálás	NOUN ,;
+#égigérõ
+#éhenhal
+#elõttig
+emergens	ADJ ,;
+#érkezte
+esszénus	ADJ ,;
+#észbekap
+europid	ADJ ,;
+#ezerfelé
+filózik	VERB ,;
+fixáció	NOUN ,;
+födetlen	ADJ USAGE: substandard,;
+fokális	ADJ ,;
+fölöttes	ADJ ,;
+#föntebbi
+#ginzeng	NOUN ,; #ginseng
+glaukóma	NOUN ,;
+glutamát	NOUN ,;
+#go-kart
+grizzly	NOUN ADJ ,;
+#higít
+#hozsánna
+hübrisz	NOUN ,;
+ikebana	NOUN ,;
+#izotróp
+kajálda	NOUN ,;
+káldeus	ADJ ,;
+karoling	ADJ ,;
+#kendtek
+kesudió	NOUN STR: kesu@dió , kesu@dió;
+#Knesszet
+#kolonna
+komancs	NOUN ADJ ,;
+#kõmíves
+#kubikus
+#kumráni
+#lecitin
+#levantei
+#lim-lom
+lukacsos	ADJ ,;
+magnezit	NOUN ,;
+mancsaft	NOUN ,;
+#maronita
+mimézis	NOUN ,;
+#mostanig
+multicég	NOUN STR: multi@cég , multi@cég;
+#orániai
+#osztatú
+#parthus
+#párthus
+passzázs	NOUN ,;
+#pfennig
+#placebó
+#pliocén
+poligám	ADJ ,;
+#pompeji
+#pontifex
+ravioli	NOUN ,;
+reduktor	NOUN ,;
+rudazat	NOUN ,;
+#serfõzõ
+snooker	NOUN , snooker/sznúker;
+#sokfelõl
+statútum	NOUN ,;
+steward	NOUN , steward/sztyuárd ;
+stewardess	NOUN , stewardess/sztyuárdessz ;
+szantál	ADJ ,;
+#szökell
+#szoliter
+#sztarec
+#szuvenír
+#tadzsik
+tappancs	NOUN ,;
+tejbetök	NOUN ,;
+#tenmagad
+tenzor	NOUN ,;
+#tévéshow
+toccata	NOUN , toccata/tokkáta;
+tórusz	NOUN ,;
+trachea	NOUN ,;
+tüchtig	ADJ ,;
+túláram	NOUN STR: túl@áram , túl@áram ;
+#virális
+zelóta	NOUN ADJ ,;
+zippel	VERB ,;
+zsozsó	NOUN ,;
+
+
+csokker	NOUN ,;
+nyugger	NOUN ,;
+pálesz	NOUN ,;
+nyomesz ADJ ,;
+lújzer	NOUN ADJ ,;
+lúzer	NOUN ADJ,;
+tatter	NOUN ,;
+mammer	NOUN ,;
+takker	NOUN ,;
+alkesz  NOUN ADJ ,;
+amfesz NOUN ,;
+bratyesz NOUN ,;
+brokesz NOUN ,;
+bulesz NOUN ,;
+bulkesz NOUN ,;
+bunyesz NOUN ,;
+cigesz NOUN ,;
+cikesz NOUN ,;
+csacsesz NOUN ,;
+csávesz NOUN ,;
+csocsesz ADJ ,;
+csokesz NOUN ,;
+csóresz NOUN ADJ ,;
+dákesz NOUN ,;
+depresz ADJ ,;
+dogesz NOUN ,;
+dzsodzsesz NOUN ,;
+dugesz NOUN ,;
+fütyesz NOUN ,;
+gagyesz ADJ ,;
+gatyesz NOUN ,;
+goresz NOUN ,;
+hapesz NOUN ,;
+havesz NOUN ,;
+kajesz NOUN ,;
+kakesz NOUN ,;
+kurvesz NOUN ,;
+labdesz NOUN ,;
+macsesz NOUN ,;
+macskesz NOUN ,;
+maresz NOUN ,;
+mogyesz NOUN ,;
+mütyesz NOUN ,;
+nyalesz NOUN ,;
+nyanyesz NOUN ,;
+piesz NOUN ,;
+pijesz NOUN ,;
+pöresz NOUN ,;
+pronyesz ADJ ,;
+puszesz NOUN ,;
+rakesz NOUN ,;
+sapesz NOUN ,;
+satyesz NOUN ,;
+spangesz NOUN ,;
+szatyesz NOUN ,;
+talesz NOUN ,;
+tatyesz NOUN ,;
+tyukesz NOUN ,;
+vagesz ADJ ,;
+zacsesz NOUN ,;
+zsidesz NOUN ,;
+kaller NOUN ,;
+sztyuvi	NOUN ,;
+gól    NOUN SRC: el fkp mi ,;
+góól    NOUN SRC: el fkp mi ,;
+góóól    NOUN SRC: el fkp mi ,;
+góóóól    NOUN SRC: el fkp mi ,;
+góóóóól    NOUN SRC: el fkp mi ,;
+góóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+góóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóóól    NOUN SRC: el fkp mi ,;
+szarrágó    ADJ SRC: el fkp mi ,;
+szarrágás    NOUN SRC: el fkp mi ,;
+Auersperg    NOUN proper_noun ,;
+Majláni    NOUN proper_noun  ,;
+Guzics    NOUN proper_noun  ,;
+Guzich    NOUN proper_noun  ,Guzich/guzics;
+Guzits    NOUN proper_noun ,Guzits/guzics;
+Maupassant    NOUN proper_noun hyphen SRC: mi ,Maupassant/mopasszan;
+ajvár	NOUN,;
+baklava	NOUN,;
+kebab	NOUN,;
+sangria	NOUN,;
+tequila	NOUN,;
+becherovka	NOUN,;
+fernet	NOUN,;
+gyros	NOUN,;
+tofu	NOUN,;
+szeitán	NOUN,;
+pita	NOUN,;
+tapas	NOUN,;
+lime	NOUN hyphen ,lime/lájm;
+burghul	NOUN,;
+pesto	NOUN,;
+sambuca	NOUN,;
+cachaca	NOUN ,;
+caipirinha	NOUN ,;
+mojito	NOUN ,;
+bullfrog	NOUN ,;
+diabolo	NOUN ,;
+galliano	NOUN ,;
+campari	NOUN ,;
+grappa	NOUN ,;
+limoncello	NOUN ,;
+amaretto	NOUN ,;
+akvavit	NOUN ,;
+angostura	NOUN ,;
+cassis	NOUN ,;
+cinzano	NOUN ,;
+martini	NOUN ,;
+grenadine	NOUN hyphen ,grenadine/grenadin;
+hubertus	NOUN ,hubertus/hubertusz;
+jägermeister	NOUN , jägermeister/jégermájszter;
+jagermeister	NOUN  USAGE: substandard_orth , jagermeister/jégermájszter;
+metaxa	NOUN ,;
+ouzo	NOUN ,;
+pernod	NOUN ,;
+sherry	NOUN ,sherry/serri;
+Sambuca	NOUN,;
+Cachaca	NOUN ,;
+Caipirinha	NOUN ,;
+Mojito	NOUN ,;
+Bullfrog	NOUN ,;
+Diabolo	NOUN ,;
+Galliano	NOUN ,;
+Campari	NOUN ,;
+Grappa	NOUN ,;
+Limoncello	NOUN ,;
+Amaretto	NOUN ,;
+Akvavit	NOUN ,;
+Angostura	NOUN ,;
+Cassis	NOUN ,;
+Cinzano	NOUN ,;
+Martini	NOUN ,;
+Grenadine	NOUN hyphen ,Grenadine/grenadin;
+Hubertus	NOUN ,Hubertus/hubertusz;
+Jägermeister	NOUN , jägermeister/jégermájszter;
+Jagermeister	NOUN  USAGE: substandard_orth , jagermeister/jégermájszter;
+Metaxa	NOUN ,;
+Ouzo	NOUN ,;
+Pernod	NOUN ,;
+Sherry	NOUN ,Sherry/serri;
+tortilla	NOUN ,;
+fado	NOUN ,;
+calvados	NOUN ,calvados/kalvadosz;
+Calvados	NOUN ,Calvados/kalvadosz;
+önfentartó ADJ ,;
+agrárium NOUN ,;
+nemlineáris ADJ ,;
+míves ADJ ,;
+duplex ADJ,;
+fizikális ADJ ,;
+szubszidiaritás NOUN ,;
+kontrolling NOUN ,;
+rekreációs ADJ ,;
+natív ADJ ,;  
+bátyó NOUN ,;   
+habilitációs ADJ ,;
+adaptív ADJ ,; 
+külhoni ADJ ,;  
+autista ADJ ,;
+agenda NOUN ,; 
+apropó NOUN ,; 
+inaktív ADJ ,;
+idõbeni ADJ ,;   
+légkondi NOUN ,; 
+mindösszesen   Q_ADV,;
+szlogen NOUN ,; 
+doktorandusz    NOUN ,;
+kompatibilitás  NOUN ,;
+asztrális ADJ,;
+rasszizmus NOUN ,;
+modernizáció NOUN ,;
+bájt NOUN ,;
+bit NOUN ,;
+riói  ADJ,; #temporal solution
+egypár ADJ,;
+avantgárd       NOUN ,;
+moduláris       ADJ ,;
+beat ADJ ,;
+specifikáció    NOUN,;
+shop NOUN,;
+kárpátaljai  ADJ,; #temporal solution
+minor   ADJ,;
+chip NOUN,;
+logó NOUN,;
+kaliforniai   ADJ,; #temporal solution
+nyugat-európai ADJ,; #temporal solution
+romániai        ADJ,; #temporal solution
+IP-cím NOUN,;
+hírkeresõ NOUN proper_noun,;
+szlovákiai ADJ,; #temporal solution
+kéró NOUN,;
+EU-ban TAG: /NOUN<CAS<INE>> FREE: true,; #temporal solution
+O'Brien NOUN proper_noun,; 
+engedélyezési ADJ,;
+koszovói ADJ,; #temporal solution
+vöröskarom NOUN STR: vörös@karom, vörös@karom,;
+Waldheim NOUN proper_noun,; 
+Oracle NOUN proper_noun,; 
+Synergon NOUN proper_noun,; 
+közkereseti ADJ STR: köz@kereseti, köz@kereseti,; 
+Millicent NOUN proper_noun,;
+Irving NOUN proper_noun,;
+egérgomb NOUN STR: egér@gomb, egér@gomb,;
+szállásmester NOUN STR: szállás@mester, szállás@mester,;
+jelölõnégyzet NOUN STR: jelölõ@négyzet, jelölõ@négyzet,;
+izraeli ADJ,; #temporal solution
+Parsons NOUN proper_noun,;
+díjigény NOUN STR: díj@igény, díj@igény,;
+Gould NOUN proper_noun,;
+webkiszolgáló NOUN STR: web@kiszolgáló, web@kiszolgáló,;
+vagyonmérleg NOUN STR: vagyon@mérleg, vagyon@mérleg,;
+törzsbetét NOUN STR: törzs@betét, törzs@betét,;
+Network NOUN proper_noun,;
+Intel NOUN proper_noun,;
+Cégközlöny NOUN proper_noun,;
+Syme NOUN proper_noun,;
+Gondolatrendõrség NOUN proper_noun,;
+Goldstein NOUN proper_noun,;
+konszernjogi ADJ STR: konszern@jogi, konszern@jogi,; 
+Fernandez NOUN proper_noun,;
+Ellesley NOUN proper_noun hyphen ,Ellesley/ellizli;
+útválasztó NOUN STR: út@választó, út@választó,;
+lemezterület NOUN STR: lemez@terület, lemez@terület,;
+mellékszolgáltatás NOUN STR: mellék@szolgáltatás, mellék@szolgáltatás,;
+Charrington NOUN proper_noun,;
+felhasználócsoport NOUN STR: felhasználó@csoport, felhasználó@csoport,;
+újbeszél NOUN STR: új@beszél, új@beszél,;
+jogintézmény NOUN STR: jog@intézmény, jog@intézmény,;
+forgalomképes NOUN STR: forgalom@képes, forgalom@képes,;
+felügyelõbizottság NOUN STR: felügyelõ@bizottság, felügyelõ@bizottság,;
+Vodafone NOUN proper_noun,;
+Katharine NOUN hyphen proper_noun,Katharine/ketrin;
+többfunkciós ADJ STR: több@funkciós, több@funkciós,;
+protokollrendszer NOUN STR: protokoll@rendszer, protokoll@rendszer,;
+kógens ADJ,;
+iraki ADJ,; #temporal solution
+WorldCom NOUN proper_noun,;
+Vannina NOUN proper_noun,;
+Mortier NOUN proper_noun,;
+telekép NOUN STR: tele@kép, tele@kép,;
+Greenwood NOUN proper_noun,;
+bejelentkezési ADJ STR: be@jelentkezési, be@jelentkezési,;
+Smith NOUN proper_noun,;
+Fred NOUN proper_noun,;
+állományrendszer NOUN STR: állomány@rendszer, állomány@rendszer,;
+részvényokirat NOUN STR: részvény@okirat, részvény@okirat,;
+jogkimerülés NOUN STR: jog@kimerülés, jog@kimerülés,;
+Starbucks NOUN proper_noun,;
+file NOUN ,file/fájl;
+hídlakó NOUN STR: híd@lakó, híd@lakó,;
+Yahoo NOUN proper_noun,;
+Warins NOUN proper_noun,;
+vadsuhanc NOUN STR: vad@suhanc, vad@suhanc,;
+Pinochet NOUN proper_noun hyphen,Pinochet/pinocsé;
+Pinochet NOUN proper_noun ,Pinochet/pinocset;
+Mbyte NOUN,Mbyte/megabájt;
+Foligno NOUN proper_noun,;
+tv2 NOUN proper_noun,tv2/tévé@kettõ;
+rendszerleíró NOUN STR: rendszer@leíró, rendszer@leíró,;
+könyvtármegosztás NOUN STR: könyvtár@megosztás, könyvtár@megosztás,;
+kisjogos ADJ STR: kis@jogos, kis@jogos,;
+Voxline NOUN proper_noun,;
+Ulpius NOUN proper_noun,;
+Sammy NOUN proper_noun,Sammy/szemmi;
+Anati NOUN proper_noun,;
+állománynév NOUN STR: állomány@név, állomány@név,;
+többszörözési ADJ ,;
+szingapúri ADJ,; #temporal solution
+hagyatékátadó NOUN STR: hagyaték@átadó, hagyaték@átadó,;
+jövedelemszerzés NOUN STR: jövedelem@szerzés, jövedelem@szerzés,;
+jogszerzõ NOUN STR: jog@szerzõ, jog@szerzõ,;
+internetszolgáltató NOUN STR: internet@szolgáltató, internet@szolgáltató,;
+internetelérési ADJ STR: internet@elérési, internet@elérési,;
+csúcstechnológiai ADJ STR: csúcs@technológiai, csúcs@technológiai,;
+boszniai ADJ,; #temporal solution
+Shell NOUN proper_noun,;
+QoS NOUN proper_noun,;
+Gubbió NOUN proper_noun,;
+gombperec NOUN STR: gomb@perec, gomb@perec,;
+átroamingol VERB STR: át@roamingol, át@roamingol,;
+meg-megrándul VERB, ;
+fentforog VERB STR: fent@forog, fent@forog,;
+begyúratik VERB defective_derivation STR: be@gyúratik, be@gyúratik,;
+csurdogál VERB,;
+úszómenü NOUN STR: úszó@menü, úszó@menü,;
+osztályközösség NOUN STR: osztály@közösség, osztály@közösség,;
+webböngészõ NOUN STR: web@böngészõ, web@böngészõ,;
+jogvesztõ ADJ STR: jog@vesztõ, jog@vesztõ,;
+megfilmesítési ADJ STR: meg@filmesítési, meg@filmesítési,;
+lemezkezelés NOUN STR: lemez@kezelés, lemez@kezelés,;
+levelezõprogram NOUN STR: levelezõ@program, levelezõ@program,;
+csatolókártya NOUN STR: csatoló@kártya, csatoló@kártya,;
+részvényjegyzõ NOUN STR: részvény@jegyzõ, részvény@jegyzõ,;
+vállalatirányítási ADJ STR: vállalat@irányítási, vállalat@irányítási,;
+részvénysorozat NOUN STR: részvény@sorozat, részvény@sorozat,;
+jövedelemfokozás NOUN STR: jövedelem@fokozás, jövedelem@fokozás,;
+jogszabályhely NOUN STR: jog@szabály@hely, jog@szabály@hely,;
+rendszermappa NOUN STR: rendszer@mappa, rendszer@mappa,;
+másolatkészítés NOUN STR: másolat@készítés, másolat@készítés,;
+jognyilatkozat NOUN STR: jog@nyilatkozat, jog@gnyilatkozat,;
+hitelezõvédelmi ADJ STR: hitelezõ@védelmi, hitelezõ@védelmi,;
+fideszes ADJ,;
+Winston NOUN proper_noun,;
+bunyós NOUN ADJ,;
+melír NOUN,;
+totálkáros NOUN STR: totál@káros, totál@káros,;
+nagyhírû NOUN STR: nagy@hírû, nagy@hírû,;
+dramatikus ADJ,;
+küls?dleges ADJ,;
+helyenkénti ADJ,;
+náciellenes ADJ,;
+szexi ADJ,;
+exhibicionista ADJ,;
+önmegtartóztató ADJ,;
+csonakázó NOUN ADJ,;
+örömteljes ADJ STR: öröm@teljes, öröm@teljes,;
+balhés NOUN,;
+tré ADJ,;
+mélynövés? ADJ,;
+Rh-negatív ADJ,;
+Rh-pozitív ADJ,;
+pesszimisztikus ADJ,;
+miskolci ADJ,; #temporal solution
+debilis ADJ,;
+kisstílû ADJ STR: kis@stílû, kis@stílû,;
+kisiskolás ADJ STR: kis@iskolás, kis@iskolás,;
+hosszúcs?r? ADJ STR: hosszú@cs?r?, hosszú@cs?r?,;
+szolvens ADJ,;
+rézfaszú ADJ STR: réz@faszú, réz@faszú,;
+dinka ADJ,;
+domesztikálatlan ADJ,;
+extraklasszis ADJ,;
+kulminációs ADJ,;
+picinke ADJ,;
+
+### TCG ##
+#CO2 		NOUN hyphen ,CO2/széndioxid ; # not working
+széndioxid 	NOUN hyphen nohyphen ,;
+tuberkolózis 	NOUN ,;
+totalitáriánizmus 	NOUN,;
+totalitariánizmus 	NOUN,;
+totalitarianizmus 	NOUN,;
+totalitárianizmus 	NOUN,;
+bipartizán 	NOUN,; 
+gyakorol	VERB trans ,; # non-epenthetic version needed
+méter	NOUN poss_A , m. ABBR ;
+milligramm NOUN poss_jA , miligramm USAGE: substandard_orth , milligram USAGE: substandard_orth, miligram USAGE: substandard_orth, mg. ABBR ;
+liter	NOUN poss_optional , l. ABBR ;
+blog NOUN poss_jA ,;
+nulla	, nulla NUM defective_derivation aff_szor aff_s , nullad	AFF_D_DIK AFF_D_DIKA AFF_D_FRACTION AFF_D_SZOR AFF_D_SZORRA aff_d synthetic_noun back  , nullaszor ADV TAG: /NUM[MULTIPL-ITER] , nullaszoros ADJ poss_sg_A poss_pl_A low defective_derivation aff_ság aff_an TAG: /NUM[MULTIPL_ATTRIB] ;
+tellik VERB ,; ## ?? 
+vizualitás NOUN ,;
+### TCG-hez specialis ##
+900-1000 NUM_NUM,;
+32-40 NUM_NUM,;
+1000x NUM hyphen, 1000x/ezerszer ,;
+A-típusos ADJ ,;
+némi NUM ,;
+sátor NOUN poss_A ,; # sátora verziot felismerje. 

@@ -1,0 +1,176 @@
+# contents
+
+# productive from elekfi
+# productive not in elekfi (variants)
+# ?productive from elekfi
+# comparatives (not spellt in one word)
+# surely not productive, spellt in one word (some uncertain)
+# not productive, officially not spellt in one word (traditionally not preverbs)
+
+###########################
+# productive
+# separable 
+# also always spellt in one word with verbs
+# in decreasing order of type frequency in elekfi
+meg	PREV,;
+el	PREV,;
+ki	PREV,;
+le	PREV,;
+fel	PREV,;
+be	PREV,;
+össze	PREV,;
+át	PREV,;
+vissza	PREV,;
+szét	PREV,;
+oda	PREV,;
+végig	PREV,;
+elõ	PREV,;
+túl	PREV,;
+félre	PREV,;
+körül	PREV,;
+hátra	PREV,;
+haza	PREV,;
+ide	PREV,;
+keresztül	PREV,;
+tele	PREV,;
+egybe	PREV,;
+agyon	PREV,;
+elõre	PREV,;
+széjjel	PREV,;
+ketté	PREV,;
+helyre	PREV,;
+közbe	PREV,;
+tovább	PREV,;
+szembe	PREV,;
+újjá	PREV,;
+újra	PREV,;
+tönkre	PREV,;
+tova	PREV,;
+külön	PREV,;
+félbe	PREV,;
+által	PREV,;
+benn	PREV,;
+körbe	PREV,;
+
+
+# variants
+föl	PREV,;
+bé	PREV	USAGE: archaic ,;
+rajt	PREV	USAGE: dialectal ,;
+teli	PREV	USAGE: dialectal ,;
+
+
+# productive???
+alul	PREV	GOV: marad exponál teljesít vállal ígér múl,;
+felül	PREV	GOV: bélyegez bírál ígér emelkedik múl üt vizsgál,;
+fölül	PREV	GOV: bélyegez bírál ígér emelkedik múl üt vizsgál,;
+együtt	PREV	GOV: érez mûködik jár,;
+
+# productive separable?
+után	PREV	GOV: rendel GOV: nyom GOV: vételez,;
+
+# productive
+# maybe not spelt in one word??? 
+# but certainly productive
+kinn	PREV,;
+kint	PREV,;
+bent	PREV,;
+
+# comparatives 
+# probably not spelt in one word?
+# but should accept
+arrébb	PREV,;
+összébb	PREV,;
+széjjelebb	PREV,;
+odább	PREV,;
+odébb	PREV,;
+idébb	PREV,;
+kijjebb	PREV,;
+beljebb	PREV,;
+lejjebb	PREV,;
+feljebb	PREV,;
+följebb	PREV,;
+
+
+# inflected ones: not spellt in one word
+rá	PREV,;
+rajta	PREV,;
+bele	PREV,;
+benne	PREV,;
+hozzá	PREV,;
+neki	PREV,;
+alá	PREV,;
+utána	PREV,;
+fölé	PREV,;
+közé	PREV,;
+mellé	PREV,;
+mögé	PREV,;
+elé	PREV,;
+
+# those absolutely not productive 
+# '?' not sure if spellt in one word?
+
+jóvá	PREV	GOV: hagy ír tesz,;
+helyt	PREV	GOV: áll ?ad,;
+közre	PREV	GOV: ad bocsát fog hat játszik mûködik vesz,;
+szerte	PREV	GOV: ágazik foszlat foszlik szór néz,;
+rajta	PREV	GOV: csíp kap ér üt veszt,;
+ott	PREV	GOV: veszik marad hagy feled felejt,;
+itt	PREV	GOV: veszik marad hagy feled felejt,;
+fenn	PREV	GOV: áll akad forog marad tart,;
+# also
+fönn	PREV	GOV: áll akad forog marad tart,;
+észre	PREV	GOV: vesz vetet vétet ?tér,;
+viszont	PREV	GOV: szeret lát ?válaszol,;
+kölcsön	PREV	GOV: ad GOV: vesz GOV: kap GOV: kér,;
+jól	PREV	GOV: lakik lakat tart esik,;
+ellen	PREV	GOV: vet jegyez áll szegül,;
+cserben	PREV	GOV: hagy,;
+egyet	PREV	GOV: ért,;
+alább	PREV	GOV: hagy száll,;
+szemre	PREV	GOV: vételez,;
+síkra	PREV	GOV: száll,;
+útba	PREV	GOV: ejt ?igazít,;
+szörnyet	PREV	GOV: hal,;
+utol	PREV	GOV: ér,;
+# also
+utól	PREV	GOV: ér USAGE: substandard_orth,;
+közzé	PREV	GOV: tesz,;
+nyilván	PREV	GOV: tart,;
+létre	PREV	GOV: hoz jön hív,;
+nagyot	PREV	GOV: hall,;
+ellent	PREV	GOV: mond,;
+karban	PREV	GOV: tart,;
+végbe	PREV	GOV: visz megy	 ,;
+véghez	PREV	GOV: visz,;
+végre	PREV	GOV: hajt,;
+rendre	PREV	GOV: utasít,;
+jót	PREV	GOV: áll,;
+közben	PREV	GOV: jár,;
+abba	PREV	GOV: hagy marad fejez,;
+helyben	PREV	GOV: hagy ,;
+õrizetlenül	PREV	GOV: hagy,;
+õrizetlen	PREV	GOV: hagy,;
+csurig	PREV	GOV: tölt,;
+
+# most probably spellt in separate words but should be accepted
+# spellt in one word in robust mode
+
+torkig	PREV	GOV: van,;
+észhez	PREV	GOV: tér,;
+földet	PREV	GOV: ér,;
+nyugton	PREV	GOV: hagy marad,;
+békén	PREV	GOV: hagy marad,;
+pofon	PREV	GOV: vág üt,;
+szabadjára	PREV	GOV: enged,;
+szabadlábra	PREV	GOV: helyez,;
+zokon	PREV	GOV: vesz,;
+hoppon	PREV	GOV: marad,;
+tudtul 	PREV	GOV: ad,;
+tudomásul	PREV	GOV: vesz,;
+óva	PREV	GOV: int,;
+pórul	PREV	GOV: jár,;
+szemügyre	PREV	GOV: vesz,;
+zöldágra	PREV	GOV: vergõdik,;
+számba	PREV	GOV: vesz,;
+kétségbe	PREV	GOV: von,;

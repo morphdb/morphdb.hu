@@ -1,0 +1,34 @@
+###################
+# IRREGULAR VERBS #
+###################
+
+# see paradigms in grammar file
+
+"" IRREGULAR_VERB ,;
+
+nincs	
+	FREE: true
+	TAG: /VERB
+, nincs	
+, nincsen
+, nincsenek	TAG: <PLUR>
+		FS: VERB<PLUR>
+;
+
+sincs	
+	FREE: true
+	TAG: /VERB
+, sincs	
+, sincsen
+, sincsenek	TAG: <PLUR>
+		FS: VERB<PLUR>
+;
+
+sosincs
+	FREE: true
+	TAG: /VERB
+, sosincs	
+, sosincsen
+, sosincsenek	TAG: <PLUR>
+		FS: VERB<PLUR>
+;

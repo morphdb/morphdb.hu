@@ -1,0 +1,2364 @@
+# abbiz
+# abbizony
+abszolúte	A_ADV	ADV,;
+# also
+abszolút	A_ADV	ADV,;
+# addig	S_ADV DEM
+# addig	T_ADV DEM
+# addig-addig	T_ADV 
+addig-ameddig	T_ADV 	ADV,;
+addiglan	T_ADV	ADV,;
+# afelett	POSTP
+# afelõl	POSTP
+agyba-fõbe	C_ADV	ADV,;
+agyonra	C_ADV	ADV,;
+# ?ahajt
+# ahelyett POSTP
+# ahogy	M_ADV PRON
+# ahogyan	M_ADV PRO
+# ahol	S_ADV PRON
+# ahonnan	S_ADV PRON
+# ahonnét	S_ADV PRON
+# ahova		S_ADV PRON
+ajakbiggyesztve	M_ADV	ADV,;
+# akár	CONJ PREP
+akaratlan	C_ADV	ADV,;
+akaratlanul	C_ADV	ADV,;
+# akárhogy	M_ADV PRON
+# akárhol	S_ADV PRON
+# akárhonnan	S_ADV PRON
+# akárhonnét	S_ADV PRON
+# akárhova	S_ADV PRON
+# akármeddig	ST_ADV PRON
+# akármennyire	A_ADV PRON
+# akármerre	S_ADV PRON
+# akármerrõl	S_ADV PRON
+# akármiképpen	C_ADV PRON
+# akármikor	T_ADV PRON
+# akármint	T_ADV PRON
+akarva-akaratlan	C_ADV	ADV,;
+akarva-akaratlanul	C_ADV	ADV,;
+# akként	M_ADV PRON
+# akképpen	M_ADV PRON
+# akkor	T_ADV PRON
+# akkorára	A_ADV PRON
+# akkoriban	T_ADV PRON
+# akkoron	T_ADV PRON
+# akkortájban	T_ADV PRON
+# akkortájt	T_ADV PRON
+# akörül	POSTP
+# aközben	POSTP
+# aközött	POSTP
+# alá	POSTP
+alább	S_ADV	ADV,;
+aláfelé	S_ADV	ADV,;
+# alája POSTP
+alant	S_ADV	ADV,;
+alássan	C_ADV ADV GOV: kér,;
+# alatt POSTP
+# alatta POSTP
+alattomban	C_ADV	ADV,;
+alig	A_ADV	ADV,;
+alig-alig	A_ADV	ADV,;
+aligha	E_ADV	ADV,;
+# alighanem CONJ
+# alighogy CONJ
+alkalmasint	T_ADV	ADV,;
+alkalomadtán	T_ADV	ADV,;
+alkonyattájt	T_ADV	ADV,;
+alkonyattájban	T_ADV	ADV,;
+alkonyodófélben	T_ADV	ADV,;
+alkonytájt	T_ADV	ADV,;
+alkonytájban	T_ADV	ADV,;
+allegro	M_ADV	ADV,;
+állítólag	E_ADV	ADV,;
+állitólag	E_ADV 	ADV USAGE: substandard_orth,;
+# alóla POSTP
+# általa POSTP
+általában	T_ADV	ADV,;
+általánosságban	E_ADV	ADV,;
+alul	S_ADV	ADV,;
+alulra	S_ADV	ADV,;
+alulról	S_ADV	ADV,;
+legalul	S_ADV	ADV,;
+legalulra	S_ADV	ADV,;
+legalulról	S_ADV	ADV,;
+# ám CONJ
+# amakkor	T_ADV PRON
+# amarra	S_ADV PRON
+# amarról	S_ADV PRON
+# ameddig ST PRON
+# amellett POSTP
+# amerre	S_ADV PRON
+# amerrõl	S_ADV PRON
+# amiatt POSTP
+# amidõn CONJ
+# amiért	 C_ADV PRON
+# amíg CONJ
+# amiként	 C_ADV PRON
+# amiképpen	 C_ADV PRON
+# amikor  CONJ
+# amikor 	T_ADV PRON
+# amint CONJ
+# amióta ? CONJ 
+# amióta	T_ADV PRON
+# amoda	S_ADV PRON
+# amonnan	S_ADV PRON
+# amonnét	S_ADV PRON
+# amott	S_ADV PRON
+# amögé	 POSTP
+# amögött POSTP
+# amúgy CONJ
+# amúgy	 M_ADV PRON
+andante	M_ADV	ADV,;
+# anélkül POSTP
+# annál
+anno	T_ADV	ADV,;
+# ? antul
+annyira-amennyire	A_ADV	ADV,;
+áperte	?_ADV 	ADV,;
+ápertén	?_ADV 	ADV,;
+apránként	Q_ADV	ADV,;
+apriori	T_ADV	ADV,;
+apródonként	Q_ADV	ADV,;
+# apropó CONJ
+# apróra 
+aránylag	A_ADV	 I_ADV	ADV,;
+# arra	S_ADV PRON
+# arrább	S_ADV PRON
+# also
+# arrébb	S_ADV PRON
+# arrafelé	S_ADV PRON
+# ambiguous
+# arról	S_ADV PRON
+# arról POSTP
+# aszerint POSTP
+# át POSTP
+# át PREV
+át	T_ADV	ADV,;
+átabotában	?_ADV  ADV USAGE: substandard,;
+#=felületesen
+átaljában	T_ADV  ADV USAGE: archaic,;
+#=általában
+átellen	 S_ADV	ADV USAGE: archaic,;
+átellenben	S_ADV 	ADV,;
+#átellen+ben
+átellenében	S_ADV  	ADV,;
+#átellen+POSS+ben
+átlag	Q_ADV	ADV,;
+# attól POSTP
+# avégbõl	 M_ADV PRON
+# avégett POSTP
+# avégre	 M_ADV PRON
+#avval	T_ADV
+# azalatt POSTP
+# azáltal POSTP
+# ambiguous:
+#azelõtt 	T_ADV
+# azért POSTP
+# azért CONJ
+# aziránt POSTP
+aznap	T_ADV	ADV,;
+# azon DEM_PRON
+# azon CONJ
+# azonfelül CONJ
+# azonképpen	 M_ADV PRON
+# azonkívül CONJ
+#azonközben	T_ADV PRON
+#azonmód	T_ADV PRON
+azonnal	T_ADV	ADV,;
+# azontúl	 T_ADV
+# azontúl CONJ
+# azóta POSTP
+# as adverbial variant of azután 
+#aztán	T_ADV PRON
+# azután PRON
+#azzal	T_ADV
+azsúr	?_ADV 	ADV,;
+balkézrõl	S_ADV	ADV,;
+baloldalt	S_ADV	ADV,;
+# bár CONJ
+# bárcsak CONJ
+# bárha CONJ
+# bárhogy	 M_ADV PRON
+# bárhol	S_ADV PRON
+# bárhonnan	S_ADV PRON
+# bárhonnét	S_ADV PRON
+# bárhova	S_ADV PRON
+# bármeddig ST_ADV PRON
+# bármennyire	 A_ADV PRON
+# bármerre	S_ADV PRON
+# bármerrõl	S_ADV PRON
+# bármikor	T_ADV PRON
+# bármint C PRON
+# be PREV
+be	I_ADV	ADV,;
+# bé PREV
+bejövet	ST_ADV	ADV,;
+# bele	 S_ADV
+beljebb	S_ADV	ADV,;
+legbeljebb	S_ADV	ADV,;
+# belõle POSTP
+belül	S_ADV	ADV,;
+belülre	S_ADV	ADV,;
+belülrõl	S_ADV	ADV,;
+legbelül	S_ADV	ADV,;
+legbelülre	S_ADV	ADV,;
+legbelülrõl	S_ADV	ADV,;
+bemenet	ST_ADV	ADV,;
+benn	S_ADV 	ADV,;
+# benne	S_ADV PREV
+bent	S_ADV 	ADV,;
+bentebb	S_ADV 	ADV,;
+legbentebb	S_ADV 	ADV,;
+bentre	S_ADV 	ADV,;
+bentebbre	S_ADV 	ADV,;
+legbentebbre	S_ADV 	ADV,;
+bentrõl	S_ADV	ADV,;
+bentebbrõl	 S_ADV	ADV,;
+legbentebbrõl	 S_ADV	ADV,;
+bérmentve	M_ADV	ADV,;
+betéve	M_ADV ADV GOV: tud ,;
+bévül	?_ADV 	ADV,;
+# bezárólag	POSTP
+# bezzeg CONJ
+biz	E_ADV	ADV,;
+bizony	E_ADV	ADV,;
+bizonyára	E_ADV	ADV,;
+bizonnyal	E_ADV	ADV,;
+# also 
+bizonyosan	E_ADV	ADV,;
+bizton	E_ADV	ADV,;
+bízvást	E_ADV	ADV,;
+blindre	M_ADV	ADV,;
+borzasztó	I_ADV	ADV,;
+borzasztóan	A_ADV	 I_ADV 	ADV,;
+# ? bosszulatlan
+bõvében	Q_ADV	ADV,;
+bõven	Q_ADV COP	ADV,;
+bruttó	Q_ADV	ADV,;
+büntetlen	C_ADV	ADV,;
+büntetlenül	C_ADV	ADV,;
+caklipakli	Q_ADV	ADV,;
+cakompakk	Q_ADV	ADV,;
+cakpakk	Q_ADV	ADV,;
+céltalan	C_ADV	ADV,;
+céltalanul	C_ADV	ADV,;
+cirka	N_ADV	ADV,;
+# csak REST
+csak-csak	A_ADV	ADV,;
+csakhamar	T_ADV	ADV,;
+# csakhogy CONJ
+# csakis 
+# csaknem
+csakúgy	C_ADV	ADV,;
+csakugyan	E_ADV	ADV,;
+csehül	C_ADV	ADV,;
+csínján	M_ADV ADV GOV: bánik ,;
+csordultig	QA_ADV COP	ADV,;
+csõstül	Q_ADV	ADV,;
+csupa	NMOD	 I_ADV	ADV,;
+csupádon-csupa	?_ADV	ADV USAGE: archaic,;
+# csupán REST
+# csupáncsak	REST
+dafke	C_ADV	ADV,;
+# de CONJ
+de	I_ADV	ADV,;
+# dehogy REST
+# dehogyis 	REST
+# dehogynem	REST
+# dejszen CONJ
+délelõtt	T_ADV	ADV,, de. ABBR;
+déltájt		T_ADV	ADV,;
+déltájban	T_ADV	ADV,;
+déltájon	T_ADV	ADV,;
+déltájt	T_ADV	ADV,;
+délután	T_ADV	ADV,, du. ABBR;
+derûre-borúra	T_ADV	ADV,;
+dettó	C_ADV	ADV,;
+díjátalányozva	M_ADV	ADV,;
+direkt	C_ADV	ADV,;
+direkte	C_ADV	ADV,;
+dolgavégezetlen	C_ADV	ADV,;
+dolgavégezetlenül	C_ADV	ADV,;
+doszt	?_ADV	 C_ADV	ADV,;
+dosztig	?_ADV	 C_ADV	ADV,;
+dugig	QA_ADV COP	ADV,;
+# dugva
+# -e
+ébren	C_ADV COP	ADV,;
+# eddig ST_ADV PRON
+# eddigelé ST_ADV PRON
+# efelé POSTP
+# efelett	POSTP
+# efelõl	POSTP
+egész	I_ADV	ADV,;
+egészen	A_ADV	 I_ADV	ADV,;
+égvilágon	A_ADV	ADV,;
+#'körülbelül' értelemben, pl.: Lehet egy tíz méterre.
+egy	 N_ADV 	ADV,;
+# egyáltalában REST
+# egyáltalán REST
+# egyaránt REST
+egyben	Q_ADV	ADV,;
+# egyben	CONJ
+egybõl	T_ADV	ADV,;
+#egyébiránt CONJ
+#egyébként CONJ
+egyébkor	T_ADV	ADV,;
+egyebünnen	S_ADV	ADV,;
+egyebünnét	S_ADV	ADV,;
+egyebütt	S_ADV	ADV,;
+egyebüvé	S_ADV	ADV,;
+egyedül	Q_ADV	ADV,;
+egyelõre	T_ADV	ADV,;
+# also
+egyenlõre	T_ADV 	ADV USAGE: substandard_orth,;
+egyenesen	E_ADV	ADV,;
+egyenesen	S_ADV	ADV,;
+egyenest	 M_ADV	ADV,;
+egyenest	S_ADV	ADV,;
+egyénileg	Q_ADV	ADV,;
+egyenként	Q_ADV	ADV,;
+egyenlõképpen	C_ADV	ADV,;
+egyenlõképp	 C_ADV	ADV,;
+egyes-egyedül	Q_ADV	ADV,;
+# egyetemben POSTP
+egyetemleg	 A_ADV	ADV,;
+egyfelé	S_ADV	ADV,;
+# egyfelõl	CONJ
+egyfelõl	 S_ADV	ADV,;
+egyfolytában	T_ADV	ADV,;
+egyhamar	T_ADV	ADV,;
+egyhuzamban	T_ADV	ADV,;
+egyhúztomban	T_ADV	ADV,;
+# egyidejû ADJ
+egyidejûleg	T_ADV	ADV,;
+egyként	Q_ADV	ADV,;
+egyképpen	Q_ADV	ADV,;
+egyképp	 Q_ADV	ADV,;
+egykettõre	T_ADV	ADV,;
+egykor	T_ADV	ADV,;
+egykoron	T_ADV	ADV,;
+egykönnyen	M_ADV	ADV,;
+egynémelykor	T_ADV	ADV,;
+egyre	T_ADV	ADV,;
+egyre-másra	T_ADV	ADV,;
+# egyrészrõl CONJ
+egyrészrõl	 S_ADV	ADV,;
+# egyrészt CONJ
+egyszer	T_ADV	ADV,;
+egyszer	Q_ADV	ADV,;
+egyszer-egyszer	T_ADV	ADV,;
+egyszeriben	T_ADV	ADV,;
+egyszer-kétszer	T_ADV	ADV,;
+egyszer-máskor	T_ADV	ADV,;
+egyszer-másszor	T_ADV	ADV,;
+egyszerre	T_ADV	ADV,;
+egyszerre	M_ADV	ADV,;
+egyszersmind	C_ADV	ADV,;
+egyszercsak	T_ADV	ADV,;
+# egyszóval CONJ
+egyszóval	 M_ADV	ADV,;
+# egyúttal CONJ
+egyúttal	 T_ADV	ADV,;
+együtt	Q_ADV	ADV,;
+együttvéve	Q_ADV	ADV,;
+együvé	?_ADV	 Q_ADV	ADV,;
+egyvégben	T_ADV	ADV,;
+egyvégtében	T_ADV	ADV,;
+#ehejt	S_ADV PRON
+# also
+#ehelyt	S_ADV PRON
+#ehelyütt	S_ADV PRON
+helyütt	S_ADV	ADV,;
+# ehelyett	POSTP
+éhen	C_ADV	ADV,;
+éhen-szomjan	C_ADV	ADV,;
+#ehol	S_ADV PRON
+éhomra	C_ADV	ADV,;
+# éjente 
+éjféltájban	T_ADV	ADV,;
+éjféltájt	T_ADV	ADV,;
+éjjel	T_ADV	ADV,;
+éjjel-nappal	T_ADV	ADV,;
+éjszaka	T_ADV	ADV,;
+éjten-éjjel	 T_ADV	ADV,;
+# ekként	 M_ADV PRON
+# ekképpen	 M_ADV PRON
+# ekkor	T_ADV PRON
+# ekkorára A PRON
+# ekkoriban	T_ADV PRON
+# ekkoron	T_ADV PRON
+# ekkortájban	T_ADV PRON
+# ekkortájt	T_ADV PRON
+# eköré POSTP
+# ekörül POSTP
+közben	T_ADV 	ADV,;
+#eközben	T_ADV 
+mindeközben	T_ADV	ADV,;
+# éktelen ADJ
+# el PREV
+el	 S_ADV	ADV,;
+eladdig		T_ADV	ADV,;
+elannyira		E_ADV	ADV,;
+# elé POSTP
+elébb	T_ADV	ADV,;
+legelébb	T_ADV	ADV,;
+# elébe POSTP
+eleddig	T_ADV	ADV,;
+elég	COP	ADV,;
+elég	I_ADV	ADV,;
+eléggé	E_ADV	 I_ADV	ADV,;
+elégszer	T_ADV	ADV,;
+eleinte	T_ADV	ADV,;
+eleintén	T_ADV	ADV,;
+elejbe	POSTP	ADV,;
+# eléje POSTP
+életfogytig	T_ADV	ADV,;
+életfogytiglan	T_ADV	ADV,;
+élethosszig	T_ADV	ADV,;
+élethossziglan	T_ADV	ADV,;
+eleve		E_ADV	ADV,;
+elfelé	S_ADV	ADV,;
+elfele	S_ADV	ADV,;
+#elhagyatva	C_ADV
+elibe	POSTP	ADV,;
+# ellene POSTP
+# ellenébe POSTP
+# ellenében POSTP
+# ellenére POSTP
+# ellenesetben CONJ
+elmenet	T_ADV	ADV,;
+# elõ REST
+elõbb	T_ADV	ADV,;
+elõbbre	ST_ADV	ADV,;
+elõbbrõl	ST_ADV	ADV,;
+legelõbb	T_ADV	ADV,;
+elõbb-utóbb	T_ADV	ADV,;
+# elõle POSTP
+elõre	S_ADV	ADV,;
+elõrébb	S_ADV	ADV,;
+legelõrébb	S_ADV	ADV,;
+elõrefelé	S_ADV	ADV,;
+elõrefele	S_ADV	ADV,;
+elõre-hátra	S_ADV	ADV,;
+elõreláthatólag	E_ADV	ADV,;
+elõször	T_ADV	ADV,;
+legelõször	T_ADV	ADV,;
+# elõtte POSTP
+elõzõleg	T_ADV	ADV,;
+elragadtatva	C_ADV	ADV,;
+# elsõbb ADJ
+elsõbben	 T_ADV	ADV,;
+# elsõsorban	CONJ
+elsõsorban	 R_ADV	ADV,;
+elöl	S_ADV	ADV,;
+elölre	S_ADV	ADV,;
+elölrõl	S_ADV	ADV,;
+legelöl	S_ADV	ADV,;
+legelölre	S_ADV	ADV,;
+legelölrõl	S_ADV	ADV,;
+elül	S_ADV	ADV USAGE: substandard,;
+elülre	S_ADV	ADV USAGE: substandard,;
+elülrõl	S_ADV	ADV USAGE: substandard,;
+legelül	S_ADV	ADV USAGE: substandard,;
+legelülre	S_ADV	ADV USAGE: substandard,;
+legelülrõl	S_ADV	ADV USAGE: substandard,;
+elöl-hátul	S_ADV	ADV,;
+elül-hátul	S_ADV	ADV USAGE: substandard,;
+elvágólag	?_ADV	 C_ADV	ADV,;
+# elvégre CONJ
+elvétve		T_ADV	ADV,;
+# ? emberül
+# emellett POSTP
+# emerre	S_ADV PRON
+# emiatt POSTP
+# emide	S_ADV PRON
+# emígy	M_ADV PRON
+# eminnen	S_ADV PRON
+# eminnét	S_ADV PRON
+# emitt	S_ADV PRON
+# emögé POSTP
+# emögött POSTP
+# én-
+# enélkül POSTP
+épkézláb	C_ADV	ADV,;
+épp	T_ADV	ADV,;
+éppen	T_ADV	ADV,;
+# éppenséggel CONJ
+éppenséggel	 T_ADV	ADV,;
+# éppígy	M_ADV PRON
+# éppoda	S_ADV PRON
+# éppúgy	M_ADV PRON
+eredetileg		E_ADV	ADV,;
+érintetlen	C_ADV ADV GOV: hagy ,;
+érintetlenül	C_ADV ADV GOV: hagy ,;
+# erre	S_ADV PRON
+erre-amarra	S_ADV 	ADV,;
+erre-arra	S_ADV 	ADV,;
+# errébb	S_ADV PRON
+# errefelé	S_ADV PRON
+# errõl	S_ADV PRON
+# érte POSTP
+esetleg	E_ADV	ADV,;
+este	T_ADV	ADV,;
+estefelé	T_ADV	ADV,;
+estefele	T_ADV	ADV,;
+estenden	T_ADV	ADV USAGE: archaic,;
+esténként	T_ADV	ADV,;
+# eszerint POSTP
+étlen	C_ADV	ADV,;
+étlen-szomjan	C_ADV	ADV,;
+# ettõl POSTP
+# evégbõl	 M_ADV PRON
+# evégett POSTP
+# evégre	 M_ADV PRON
+évenként	T_ADV	ADV,;
+évente	T_ADV	ADV,;
+évszámra	T_ADV	ADV,;
+explicite	E_ADV	ADV,;
+expressz	M_ADV	ADV,;
+# ezalatt POSTP
+# ezalól POSTP
+# ezáltal POSTP
+# ezelõl POSTP
+# ezelõtt POSTP
+# ezenfelül CONJ
+# ezenképpen	M_ADV PRON
+# ezenkívül CONJ
+#ezenközben	T_ADV
+#ezennel	T_ADV	E_ADV
+# ezentúl CONJ
+# ezer
+ezerszerte	?_ADV 	ADV,;
+# ezért POSTP
+# eziránt POSTP
+# ezóta POSTP
+#eztán	T_ADV
+# ezután POSTP
+# ezúton	M_ADV PRON
+# ezúttal		 T_ADV 
+# ezzel	
+faluszerte	S_ADV	ADV,;
+fejcsóválva	M_ADV	ADV,;
+fejenként	Q_ADV	ADV,;
+# fel PREV
+fel-alá	S_ADV	ADV,;
+félbe-szerbe	Q_ADV	ADV,;
+# felé POSTP
+# feléje POSTP
+felerészben	Q_ADV	ADV,;
+felette	I_ADV	ADV,;
+# felette POSTP
+felettébb	I_ADV	ADV,;
+fölöttébb	I_ADV	ADV,;
+felfelé	S_ADV	ADV,;
+fölfelé	S_ADV	ADV,;
+felfele	S_ADV	ADV,;
+fölfele	S_ADV	ADV,;
+felibe	QA_ADV	ADV,;
+# felibe
+felibe-harmadába	QA_ADV	ADV,;
+félig	A_ADV	ADV,;
+félig-meddig	A_ADV	ADV,;
+feljebb	S_ADV	ADV,;
+legfeljebb	S_ADV	ADV,;
+legföljebb	S_ADV	ADV,;
+feljövet	ST_ADV	ADV,;
+felmenet	ST_ADV	ADV,;
+féloldalt	S_ADV	ADV,;
+# felõle POSTP
+# felõle POSTP
+félre	S_ADV	ADV,;
+# félre	PREV
+feltétlen	E_ADV	ADV,;
+feltétlenül	E_ADV	ADV,;
+# feltéve
+felül	S_ADV	ADV,;
+felülre	S_ADV	ADV,;
+felülrõl	S_ADV	ADV,;
+legfelül	S_ADV	ADV,;
+legfelülre	S_ADV	ADV,;
+legfelülrõl	S_ADV	ADV,;
+félvállra	C_ADV	ADV  GOV: vesz,;
+félvállról	C_ADV	ADV  GOV: vesz,;
+felváltva	Q_ADV	ADV,;
+fenekestül	A_ADV	ADV,;
+fenemód	A_ADV	 I_ADV	ADV,;
+fenn	S_ADV	ADV,;
+fennen	M_ADV	ADV,;
+fennhangon	M_ADV	ADV,;
+fennszóval	M_ADV	ADV,;
+fent	S_ADV	ADV,;
+fentebb	S_ADV	ADV,;
+legfentebb	S_ADV	ADV,;
+fentre	S_ADV	ADV,;
+fentebbre	S_ADV	ADV,;
+legfentebbre	S_ADV	ADV,;
+fentrõl	S_ADV	ADV,;
+fentebbrõl	S_ADV	ADV,;
+legfentebbrõl	S_ADV	ADV,;
+feszt	?_ADV	 C_ADV	ADV,;
+fogcsikorgatva	M_ADV	ADV,;
+foghegyrõl	M_ADV	ADV,;
+fogvacogva	M_ADV	ADV,;
+fogvicsorítva	M_ADV	ADV,;
+fogytig	C_ADV	ADV,;
+folytatólag	T_ADV	ADV,;
+# also
+folytatólagosan	T_ADV	ADV,;
+folyton	T_ADV	ADV,;
+folyton-folyvást	T_ADV	ADV,;
+folyvást	T_ADV	ADV,;
+fordítva	M_ADV	ADV,;
+# forralatlan
+forte	M_ADV	ADV,;
+fortissimo	M_ADV	ADV,;
+# fõként REST
+# fõképpen REST
+# föl PREV
+# fölé POSTP
+# fölébe POSTP
+# fõleg REST
+# föléje POSTP
+# fölibe POSTP
+föl-le	S_ADV	ADV,;
+# also
+fel-le	S_ADV	ADV,;
+# fölüle POSTP
+fölül	S_ADV	ADV,;
+fölülre	S_ADV	ADV,;
+fölülrõl	S_ADV	ADV,;
+legfölül	S_ADV	ADV,;
+legfölülre	S_ADV	ADV,;
+legfölülrõl	S_ADV	ADV,;
+fönn	S_ADV	ADV,;
+fönt	S_ADV	ADV,;
+föntebb	S_ADV	ADV,;
+legföntebb	S_ADV	ADV,;
+# frankó ADJ
+frissiben	T_ADV	ADV,;
+# also
+frissibe	T_ADV	ADV,;
+furtonfurt	T_ADV	ADV,;
+futólag	M_ADV	ADV,;
+futtában	T_ADV	ADV,;
+garral	?_ADV 	ADV,;
+gazdátlan	C_ADV	ADV,;
+gazdátlanul	C_ADV	ADV,;
+gondolomformán	C_ADV	ADV,;
+gondolomra	C_ADV	ADV,;
+# gondtalan	
+grátisz	C_ADV	ADV,;
+guggon	C_ADV	ADV,;
+gyakorta	T_ADV	ADV,;
+gyakran	T_ADV	ADV,;
+gyakrabban	T_ADV	ADV,;
+leggyakrabban	T_ADV	ADV,;
+gyalog	M_ADV	ADV,;
+gyalogszerrel	M_ADV	ADV,;
+gyanútlan	M_ADV	ADV,;
+gyanútlanul	M_ADV	ADV,;
+# ha CONJ
+# hadd	CONJ
+hagyatva	M_ADV	ADV,;
+# hagyján CONJ
+hajadonfõtt	C_ADV	ADV,;
+hajadonfõvel	C_ADV	ADV,;
+hajdan	T_ADV	ADV,;
+hajdanában	T_ADV	ADV,;
+# also
+hajdanában-danában	T_ADV	ADV,;
+hajdanán	T_ADV	ADV,;
+hajdanta	T_ADV	ADV,;
+hajnaltájt	T_ADV	ADV,;
+hajnaltájban	T_ADV	ADV,;
+halkal	?_ADV	ADV USAGE: archaic,;
+# hallatlan	ADJ
+hallgatólagosan	C_ADV	ADV,;
+hamar	T_ADV	ADV,;
+hamarabb	T_ADV	ADV,;
+hamarább	T_ADV	ADV,;
+leghamarabb	T_ADV	ADV,;
+leghamarább	T_ADV	ADV,;
+hamarjában	T_ADV	ADV,;
+hamarosan	T_ADV	ADV,;
+# also
+hamarost	T_ADV	ADV,;
+hányadán	?_ADV	 Q_ADV	ADV,;
+hanyatt	S_ADV	ADV,;
+hanyatt-homlok	M_ADV	ADV,;
+hanyatthomlok	M_ADV	ADV,;
+haóta	?_ADV	ADV USAGE: archaic,;
+haránt	S_ADV	ADV,;
+harmadízben	T_ADV	ADV,;
+harmadíziglen	?_ADV 	ADV,;
+harmadjára	T_ADV	ADV,;
+harmadkézbõl	C_ADV	ADV,;
+harmadnap	T_ADV	ADV,;
+hasmánt	S_ADV	ADV,;
+hasztalan	C_ADV	ADV,;
+hasztalanul	C_ADV	ADV,;
+# hát CONJ
+# hátha CONJ
+hátra	S_ADV	ADV,;
+hátrább	S_ADV	ADV,;
+leghátrább	S_ADV	ADV,;
+hátrébb	S_ADV	ADV,;
+leghátrébb	S_ADV	ADV,;
+hátrafelé	S_ADV	ADV,;
+hátrafele	S_ADV	ADV,;
+hátramenet	ST_ADV	ADV,;
+hatszemközt	Q_ADV	ADV,;
+hátul	S_ADV	ADV,;
+hátulra	S_ADV	ADV,;
+hátulról	S_ADV	ADV,;
+leghátul	S_ADV	ADV,;
+leghátulra	S_ADV	ADV,;
+leghátulról	S_ADV	ADV,;
+havonta	T_ADV	ADV,;
+haza	S_ADV	ADV,;
+hazafelé	S_ADV	ADV,;
+hazafelé	ST_ADV	ADV,;
+hazafele	S_ADV	ADV,;
+hazafele	ST_ADV	ADV,;
+hazajövet	ST_ADV	ADV,;
+hazamenet	ST_ADV	ADV,;
+hazulról	S_ADV	ADV,;
+hébe-hóba	T_ADV	ADV,;
+hébe-korba	T_ADV	ADV,;
+# hegyibe
+hegyibe	?_ADV 	ADV,;
+helyenként	S_ADV	ADV,;
+# helyette POSTP
+hellyel-közzel	A_ADV	ADV,;
+hermetice	M_ADV	ADV,;
+hetedíziglen	?_ADV 	ADV,;
+hetente	T_ADV	ADV,;
+hétköznap	T_ADV	ADV,;
+hétrét	Q_ADV	ADV,;
+hevenyében	M_ADV	ADV,;
+hevenyébõl	M_ADV	ADV,;
+hevenyén	M_ADV	ADV,;
+hiába	C_ADV	ADV,;
+hihetetlen	I_ADV	E_ADV	ADV,;
+hihetetlenül	I_ADV	E_ADV	ADV,;
+hirtelen	T_ADV	ADV,;
+hirtelenében	T_ADV	ADV,;
+# also
+hirtelenjében	T_ADV	ADV,;
+# hiszen CONJ
+hivatva	COP	ADV,;
+# hogy	 M_ADV PRON
+# hogyan	 M_ADV PRON
+# hogyhogy	E_ADV PRON
+# hogyisne INT
+# hogymint	 M_ADV PRON
+# hogyne INT
+hókon	S_ADV	ADV,;
+# hol	S_ADV PRON
+holnap	T_ADV	ADV,;
+holnapután	T_ADV	ADV,;
+# holott CONJ
+homlokegyenest	E_ADV	ADV,;
+honn	S_ADV 	ADV,;
+# honnan	S_ADV PRON
+# honnét	S_ADV PRON
+hosszában	S_ADV	ADV,;
+hosszant	S_ADV	ADV,;
+# hova	S_ADV PRON
+# hovatovább CONJ
+hozomra	C_ADV	ADV,;
+# hozzá POSTP
+# hozzád POSTP
+# hozzája POSTP
+hozzávetõleg	E_ADV	 N_ADV	ADV,;
+# hun	S_ADV PRON
+# idáig	S_ADV PRON
+# idáig	T_ADV PRON
+# ide	S_ADV PRON
+# ideát	S_ADV PRON
+# idébb	S_ADV PRON
+idébb-odább	S_ADV	ADV USAGE: substandard,;
+# idebe	S_ADV PRON
+# idebenn	S_ADV PRON
+# idefel	S_ADV PRON
+# idefelé	ST_ADV PRON
+# idefenn	S_ADV PRON
+# idehaza	S_ADV PRON
+ideig	T_ADV	ADV,;
+ideig-óráig	T_ADV	ADV,;
+idejekorán	T_ADV	ADV,;
+# idejövet	ST_ADV PRON
+# ideki	S_ADV PRON
+# idekinn	S_ADV PRON
+# idele	S_ADV PRON
+# idelenn	S_ADV PRON
+idén		T_ADV	ADV,;
+ide-oda	S_ADV 	ADV,;
+idestova	N_ADV	ADV,;
+# idétlen ADJ
+idõközben	T_ADV	ADV,;
+idõnként	T_ADV	ADV,;
+idõvel	T_ADV	ADV,;
+ifjonta	T_ADV	ADV,;
+igazában	E_ADV	ADV,;
+# also (also conj)
+igazából	E_ADV	ADV,;
+igazán	A_ADV	 I_ADV	ADV,;
+# igen
+igen	A_ADV	 I_ADV	ADV,;
+igencsak	A_ADV	 I_ADV	ADV,;
+igen-igen	A_ADV	 I_ADV	ADV,;
+igenis	E_ADV	ADV,;
+# így	 M_ADV PRON
+# ígyen	 M_ADV PRON
+így-úgy	M_ADV	ADV,;
+# ihol	S_ADV PRON
+# illetõleg	CONJ
+# illetõleg	POSTP
+# ilyenformán	M_ADV PRON
+# ilyenképpen	M_ADV PRON
+# ilyenkor	T_ADV PRON
+# ilyentájban	T_ADV PRON
+# ilyentájt	T_ADV PRON
+# ilyeténképpen	M_ADV PRON
+# ilyképpen	M_ADV PRON
+imént	T_ADV	ADV,;
+imette	M_ADV	ADV USAGE: archaic,;
+#=ébren
+imetten	M_ADV	ADV USAGE: archaic,;
+#=ébren
+ímhol	S_ADV	ADV,;
+imide-amoda	S_ADV	ADV,;
+# imígy	M_ADV PRON
+imígy-amúgy	M_ADV 	ADV,;
+# imigyen	M_ADV PRON
+iminnen-amonnan	S_ADV 	ADV,;
+# imitt	S_ADV PRON
+imitt-amott	S_ADV	 T_ADV	ADV,;
+immár	T_ADV	ADV USAGE: literary,;
+immáron	T_ADV	ADV USAGE: archaic literary,;
+ímmel-ámmal	M_ADV	ADV,;
+implicite	E_ADV	ADV,;
+inaszakadtáig	M_ADV	ADV,;
+# indíttatva	POSTP
+ingyen	C_ADV	ADV,;
+ingyért	C_ADV	ADV,;
+# inkább REST
+inkluzíve		E_ADV	ADV,;
+inkognitó	C_ADV	ADV,;
+# also
+inkognitóban	C_ADV	ADV,;
+# innen 	S_ADV PRON
+innen-amonnan	S_ADV	ADV,;
+innen-onnan	S_ADV	ADV,;
+# innét	S_ADV PRON
+interurbán	M_ADV	ADV,;
+# iránta POSTP
+irdatlan	I_ADV	ADV,;
+irgalmatlan	A_ADV	 I_ADV	ADV,;
+irgalmatlanul	A_ADV	 I_ADV	ADV,;
+irtó	I_ADV	ADV,;
+# also
+irtóra	A_ADV	 I_ADV	ADV,;
+# is REST
+ismét	T_ADV	ADV,;
+istenigazában	A_ADV	ADV,;
+istenigazából	A_ADV	ADV,;
+istentelen	A_ADV	 I_ADV	ADV,;
+# also
+istentelenül	A_ADV	 I_ADV	ADV,;
+# itt	S_ADV PRON
+# itten	S_ADV PRON
+itthon	S_ADV	ADV,;
+itthonra	S_ADV	ADV,;
+itthonról	S_ADV	ADV,;
+itt-ott	S_ADV 	ADV,;
+ízibe	T_ADV	ADV,;
+# also
+izibe	T_ADV	ADV USAGE: substandard_orth,;
+iziben	T_ADV	ADV USAGE: substandard_orth,;
+ízig-vérig	A_ADV	ADV,;
+izromban	?_ADV 	ADV,;
+ízzé-porrá	QA_ADV	ADV,;
+játszva	M_ADV	ADV,;
+javában	T_ADV	ADV,;
+javarészben	Q_ADV	ADV,;
+javarészt	Q_ADV	ADV,;
+# jelen
+jelenleg	T_ADV	ADV,;
+# jelesen CONJ
+# jelesül CONJ
+# jobb
+# jobbadán
+# jobban
+jobbára	R_ADV 	ADV,;
+jobbkézt	S_ADV	ADV,;
+jobboldalt	S_ADV	ADV,;
+jobbra	S_ADV	ADV,;
+balra	S_ADV	ADV,;
+jobbrább	S_ADV	ADV,;
+balrább	S_ADV	ADV,;
+legjobbrább	S_ADV	ADV,;
+legbalrább	S_ADV	ADV,;
+jobbra-balra	S_ADV	ADV,;
+jobbhíján	R_ADV	ADV USAGE: substandard_orth,;
+jócskán	Q_ADV	ADV,;
+jóformán	E_ADV	 I_ADV	ADV,;
+jókor	T_ADV	ADV,;
+jól	A_ADV	ADV,;
+jobban	A_ADV	ADV,;
+legjobban	A_ADV	ADV,;
+jól	COP	ADV,;
+jobban	COP	ADV,;
+legjobban	COP	ADV,;
+jól-rosszul	M_ADV	ADV,;
+jórészben	A_ADV	ADV,;
+jórészt	A_ADV	ADV,;
+jószerével	A_ADV	ADV,;
+# also
+jószerivel	A_ADV	ADV,;
+jószerint	A_ADV	ADV,;
+jövet	ST_ADV	ADV,;
+jövet-menet	ST_ADV	ADV,;
+jövõre	T_ADV	ADV,;
+juszt	C_ADV	ADV,;
+kalaplevéve	C_ADV	ADV,;
+kápé	C_ADV	ADV,;
+karonfogva	M_ADV	ADV,;
+karöltve	C_ADV	ADV,;
+kedvtelve	C_ADV	ADV,;
+kegyetlen	I_ADV	 A_ADV	ADV,;
+kegyetlenül	I_ADV	 A_ADV	ADV,;
+kénytelen-kelletlen	E_ADV	ADV,;
+# képtelen	
+keresztbe	S_ADV	ADV,;
+keresztben	S_ADV	ADV,;
+keresztül-kasul	S_ADV	ADV,;
+kéretlen	C_ADV	ADV,;
+kéretlenül	C_ADV	ADV,;
+késõ	COP	ADV,;
+késõbb	T_ADV	ADV,;
+legkésõbb	T_ADV	ADV,;
+késõre	COP	ADV,;
+késõbbre	T_ADV	ADV,;
+legkésõbbre	T_ADV	ADV,;
+késõig	COP	ADV,;
+késõbbig	T_ADV	ADV,;
+legkésõbbig	T_ADV	ADV,;
+késõtõl	COP	ADV,;
+késõbbtõl	T_ADV	ADV,;
+legkésõbbtõl	T_ADV	ADV,;
+késõn	T_ADV	ADV,;
+késõbben	T_ADV	ADV,;
+legkésõbben	T_ADV	ADV,;
+# also
+késõbbiekben	T_ADV	ADV,;
+kész	COP	ADV,;
+jelen	COP	ADV,;
+másként	M_ADV	ADV,;
+annyiban	E_ADV	ADV,;
+készakarattal	C_ADV	ADV,;
+készakarva	C_ADV	ADV,;
+készületlen	C_ADV	ADV,;
+készületlenül	C_ADV	ADV,;
+kétfelé	QA_ADV	ADV,;
+kétfelé	S_ADV	ADV,;
+kétfele	QA_ADV	ADV,;
+kétfele	S_ADV	ADV,;
+kétfelõl	S_ADV	ADV,;
+kétoldalt	S_ADV	ADV,;
+kétrét	QA_ADV	ADV,;
+kétségkívül	E_ADV	ADV,;
+kettecskén	Q_ADV	ADV,;
+kevésbé	A_ADV	ADV,;
+legkevésbé	A_ADV	ADV,;
+kevéssé	A_ADV	ADV,;
+legkevéssé	A_ADV	ADV,;
+kézen-közön	C_ADV	ADV,;
+kézzel-lábbal	M_ADV	ADV,;
+# ki PREV
+ki-be	S_ADV	ADV,;
+kicsinyég	A_ADV	 I_ADV	ADV,;
+kicsinyenként	Q_ADV	ADV,;
+befelé	S_ADV	ADV,;
+kifelé	S_ADV	ADV,;
+befele	S_ADV	ADV,;
+kifele	S_ADV	ADV,;
+kijjebb	S_ADV	ADV,;
+legkijjebb	S_ADV	ADV,;
+kijövet	ST_ADV	ADV,;
+kimenet	ST_ADV	ADV,;
+kinn	S_ADV	ADV,;
+kint	S_ADV	ADV,;
+kintrõl	S_ADV	ADV,;
+kintre	S_ADV	ADV,;
+kintebb	S_ADV	ADV,;
+legkintebb	S_ADV	ADV,;
+kismértékben	A_ADV	ADV,;
+kissé	A_ADV	 I_ADV	ADV,;
+kisvártatva	T_ADV	ADV,;
+# kivált REST
+# kiváltképpen REST
+# kivéve CONJ
+kivilágos-kivirradtig	T_ADV	ADV,;
+kivirradtig	T_ADV	ADV,;
+kívül	 S_ADV	ADV,;
+kívülre	 S_ADV	ADV,;
+kívülrõl	 S_ADV	ADV,;
+legkívül	 S_ADV	ADV,;
+legkívülre	 S_ADV	ADV,;
+legkívülrõl	 S_ADV	ADV,;
+kívül-belül	S_ADV	ADV,;
+# kívüle  POSTP
+# kizárólag REST
+# kontra PREP INT
+# kora
+koránra	T_ADV COP	ADV,;
+korábbanra	T_ADV COP	ADV,;
+legkorábbanra	T_ADV COP	ADV,;
+korán	T_ADV COP	ADV,;
+korábban	T_ADV COP	ADV,;
+legkorábban	T_ADV COP	ADV,;
+koránt	T_ADV	ADV,;
+korántsem	E_ADV	ADV,;
+kölcsön	C_ADV	ADV,;
+# also
+kölcsönbe	C_ADV	ADV,;
+kölcsön	C_ADV 	ADV,;
+# also  PREV GOV: ad GOV: vesz
+könnyedén	M_ADV	ADV,;
+könnyedébben	M_ADV	ADV,;
+legkönnyedébben	M_ADV	ADV,;
+könnyûszerrel	M_ADV	ADV,;
+# köré POSTP
+# köréje POSTP
+# köribe POSTP
+körmeszakadtáig	M_ADV	ADV,;
+körömszakadtáig	M_ADV	ADV,;
+körömszakadtig	M_ADV	ADV,;
+körös-körül	S_ADV	ADV,;
+# körötte POSTP
+# körül POSTP
+körülbelül	E_ADV	ADV,,kb. ABBR, kábé USAGE: substandard ;
+körülbelül	N_ADV	ADV,,kb. ABBR, kábé USAGE: substandard ;
+# körüle POSTP
+# körülötte POSTP
+# következõleg POSTP
+# következtében POSTP
+# közbe POSTP
+közbe-közbe	M_ADV	ADV,;
+# közben POSTP
+közbül	?_ADV	 S_ADV	ADV,;
+# közé POSTP
+# közéje POSTP
+közelesen	?_ADV	 S_ADV	ADV,;
+# közepett POSTP
+középen	S_ADV	ADV,;
+legközépen	S_ADV	ADV,;
+középütt	S_ADV	ADV,;
+legközépütt	S_ADV	ADV,;
+# közibe POSTP
+# közte POSTP
+# közüle POSTP
+közvetlen	C_ADV	ADV,;
+közvetlenül	C_ADV	ADV,;
+közvetlenebbül	C_ADV	ADV,;
+legközvetlenebbül	C_ADV	ADV,;
+közvetve	C_ADV	ADV,;
+kukkra	M_ADV	ADV,;
+kurtán-furcsán	M_ADV	ADV,;
+kutyafuttában	M_ADV	ADV,;
+külön	Q_ADV COP	ADV,;
+# különben CONJ
+külön-külön	Q_ADV	ADV,;
+# különösen REST
+# kvázi CONJ
+largo	?_ADV 	ADV,;
+lassacskán	T_ADV	ADV,;
+lassacskábban	T_ADV	ADV,;
+lassanként	T_ADV	ADV,;
+lassan-lassan	T_ADV	ADV,;
+látszólag	E_ADV	ADV,;
+# le PREV
+lefelé	S_ADV	ADV,;
+lefele	S_ADV	ADV,;
+le-föl	S_ADV	ADV,;
+legalább	N_ADV	ADV,;
+# legalább CONJ
+# legalábbis CONJ
+# legfeljebb CONJ
+legfeljebb	N_ADV	ADV,;
+legitt	?_ADV 	ADV,;
+legközelebb	T_ADV	ADV,;
+legott	T_ADV	ADV,;
+legutóbb	T_ADV	ADV,;
+lehetõleg	E_ADV	ADV,;
+lejjebb	S_ADV	ADV,;
+leglejjebb	S_ADV	ADV,;
+lejövet	ST_ADV	ADV,;
+lélegzet-visszafojtva	M_ADV	ADV,;
+lélekszakadva	M_ADV	ADV,;
+lemenet	ST_ADV	ADV,;
+lenn	S_ADV	ADV,;
+lent	S_ADV	ADV,;
+lentebb	 S_ADV	ADV,;
+leglentebb	 S_ADV	ADV,;
+lentrõl	S_ADV	ADV,;
+lentebbrõl	 S_ADV	ADV,;
+leglentebbrõl	 S_ADV	ADV,;
+lentre	S_ADV	ADV,;
+lentebbre	 S_ADV	ADV,;
+leglentebbre	 S_ADV	ADV,;
+lépten-nyomon	T_ADV	ADV,;
+lóhalálában	M_ADV	ADV,;
+loppal	M_ADV	ADV,;
+lopva	M_ADV	ADV,;
+ma	T_ADV	ADV,;
+maga	Q_ADV	ADV,;
+magában	Q_ADV	ADV,;
+magánkívül	C_ADV	ADV,;
+# magányos	
+# magyarán	CONJ
+magyarmiskásan	?_ADV	 M_ADV	ADV,;
+maholnap	T_ADV	ADV,;
+majd	T_ADV	ADV,;
+majd	A_ADV	ADV,;
+# majd REST
+majdan	T_ADV	ADV,;
+majdhogy	A_ADV	ADV,;
+majdhogynem	A_ADV	ADV,;
+majdnem	A_ADV	ADV,, majd' USAGE: substandard;
+majdnemhogy	A_ADV	ADV,;
+máma	T_ADV	ADV,;
+manapság	T_ADV	ADV,;
+már	T_ADV	ADV,;
+maradéktalan	A_ADV	ADV,;
+# also
+maradéktalanul	A_ADV	ADV,;
+maradéktalanabbul	A_ADV	ADV,;
+legmaradéktalanabbul	A_ADV	ADV,;
+máris	T_ADV	ADV,;
+már-már	A_ADV	ADV,;
+már-már	T_ADV	ADV,;
+# mármost CONJ
+# másfelé	S_ADV PRON
+# másfelõl	S_ADV PRON
+# másfelõl CONJ 
+# máshogyan	M_ADV PRON
+# máshol	S_ADV PRON
+# máshonnan	S_ADV PRON
+# máshonnét	S_ADV PRON
+# máshova	S_ADV PRON
+# másként	M_ADV PRON
+# másképpen	M_ADV PRON
+# máskor	T_ADV PRON
+# máskülönben CONJ
+másnap	T_ADV	ADV,;
+másnapra	T_ADV	ADV,;
+másodízben	T_ADV	ADV,;
+másodíziglen	?_ADV 	ADV,;
+másodjára	T_ADV	ADV,;
+másodkézbõl	C_ADV	ADV,;
+másodmagával	Q_ADV	ADV,;
+másodnap	T_ADV	ADV,;
+# másodsorban	CONJ
+# másrészrõl CONJ
+# másrészt CONJ
+másszor		T_ADV	ADV,;
+# másunnan	S_ADV PRON
+# másutt	S_ADV PRON
+# maximum CONJ
+maximum	N_ADV	ADV,;
+# meddig POSTP
+még	A_ADV	ADV,;
+még	T_ADV	ADV,;
+megint	T_ADV	ADV,;
+# mégis REST
+# mégiscsak REST
+# mégse REST
+# mégsem REST
+mégúgy	M_ADV	ADV,;
+# mellé POSTP
+# melléje POSTP
+# mellesleg CONJ
+# mellette POSTP
+# mellõle POSTP
+méltán	C_ADV	ADV,;
+menet	T_ADV	ADV,;
+menet-jövet	T_ADV	ADV,;
+# mennél CONJ
+menõfélben	T_ADV	ADV,;
+menten	T_ADV	ADV,;
+merevül	M_ADV	ADV GOV: ragaszkodik,;
+merevebbül	M_ADV	ADV GOV: ragaszkodik,;
+mentõl	T_ADV	ADV,;
+merõben	A_ADV	 I_ADV	ADV,;
+# merre	S_ADV PRON
+# merrefelé	S_ADV PRON
+# merrõl	S_ADV PRON
+mértéktelenül	A_ADV	ADV,;
+mértéktelenebbül	A_ADV	ADV,;
+# also
+mérhetetlenül	A_ADV	ADV,;
+messze	S_ADV COP	ADV,;
+messzebb	S_ADV COP	ADV,;
+legmesszebb	S_ADV COP	ADV,;
+messze	A_ADV	ADV,;
+messzi	A_ADV	ADV,;
+közel	S_ADV COP	ADV,;
+közel	N_ADV	 A_ADV	ADV,;
+közelebb	S_ADV COP	ADV,;
+legközelebb	S_ADV COP	ADV,;
+közelre	S_ADV	ADV,;
+közelbe	S_ADV	ADV,;
+közelben	S_ADV	ADV,;
+közelebbre	S_ADV	ADV,;
+legközelebbre	S_ADV	ADV,;
+közelrõl	S_ADV	ADV,;
+közelebbrõl	S_ADV	ADV,;
+legközelebbrõl	S_ADV	ADV,;
+# also
+messzire	S_ADV	ADV,;
+messzirõl	S_ADV	ADV,;
+messzebbre	S_ADV	ADV,;
+messzebbrõl	S_ADV	ADV,;
+legmesszebbre	S_ADV	ADV,;
+legmesszebbrõl	S_ADV	ADV,;
+messzünnen	S_ADV	ADV,;
+# mettõl	T_ADV PRON
+mezítláb	C_ADV	ADV,;
+meztelen	C_ADV	ADV,;
+meztelenül	C_ADV	ADV,;
+meztelenebbül	C_ADV	ADV,;
+legmeztelenebbül	C_ADV	ADV,;
+mezzoforte	M_ADV	ADV,;
+# ? mi- 
+# mialatt CONJ
+# miáltal CONJ
+# miatta POSTP
+# midõn CONJ
+mielõbb	T_ADV	ADV,;
+# miért	 M_ADV PRON
+# míg CONJ
+# míglen CONJ
+mihamarabb	T_ADV	ADV,;
+mihamarább	 T_ADV	ADV,;
+# miként CONJ
+# miként	 M_ADV PRON
+# miképpen	 M_ADV PRON
+# mikor	T_ADV PRON
+mikoron	T_ADV 	ADV,;
+miközben	T_ADV 	ADV,;
+# milyenkor	T_ADV PRON
+minap	T_ADV	ADV,;
+minapában	T_ADV	ADV,;
+mind	Q_ADV	ADV,;
+#mindaddig	T_ADV
+mindannyian	Q_ADV	ADV,;
+mindnyájan	Q_ADV	ADV,;
+mind-mind	Q_ADV	ADV,;
+ketten	Q_ADV	ADV,;
+mindketten	Q_ADV	ADV,;
+hárman	Q_ADV	ADV,;
+mindhárman	Q_ADV	ADV,;
+# mindamellett CONJ
+#mindeddig	T_ADV
+mindegyre	T_ADV	ADV,;
+mindenáron	C_ADV	ADV,;
+# mindenekelõtt CONJ
+mindenekelõtt	 R_ADV	ADV,;
+mindenekfölött	 R_ADV	ADV,;
+# mindenesetre CONJ
+mindenesetre	 E_ADV	ADV,;
+mindenestül	Q_ADV	ADV,;
+# mindenfelé	S_ADV PRON
+# mindenfelõl	S_ADV PRON
+# mindenha		T_ADV PRON
+# mindenhogyan	 M_ADV PRON
+# mindenhol	S_ADV PRON
+# mindenhonnan	S_ADV PRON
+# also
+# mindenhonnét	S_ADV PRON
+# mindenhova	S_ADV PRON
+mindenképpen	E_ADV	ADV,;
+# mindenkor	T_ADV PRON
+mindennap	T_ADV	ADV,;
+# mindenünnen	S_ADV PRON
+# mindenünnét	S_ADV PRON
+# mindenütt	S_ADV PRON
+# mindenüvé	S_ADV PRON
+mindétig		T_ADV	ADV,;
+mindhalálig	T_ADV	ADV,;
+mindhiába	C_ADV	ADV,;
+mindig	T_ADV 	ADV,;
+mindég	 T_ADV	ADV USAGE: substandard,;
+mindinkább	C_ADV	ADV,;
+mindjárt	T_ADV	ADV,;
+mindjobban	C_ADV	ADV,;
+mindkétfelõl	S_ADV	ADV,;
+mindmáig	T_ADV	ADV,;
+mindörökké	T_ADV	ADV,;
+mindörökre	T_ADV	ADV,;
+mindöröktõl	T_ADV	ADV,;
+mindössze	A_ADV	 N_ADV	ADV,;
+minduntalan	T_ADV	ADV,;
+minduntalanul	T_ADV	ADV,;
+mindvégig	T_ADV	ADV,;
+# minek	C_ADV PRON
+# minél CONJ
+minimum	N_ADV	ADV,;
+# mint PREP
+mintegy	N_ADV	ADV,;
+# mióta	T_ADV PRON
+# mire	T_ADV PRON
+moderato	M_ADV	ADV,;
+módfelett	A_ADV	 I_ADV	ADV,;
+momentán	T_ADV	ADV,;
+most	T_ADV	ADV,;
+mostan	T_ADV	ADV,;
+mostanában	T_ADV	ADV,;
+mostanáig	T_ADV	ADV,;
+mostanra	T_ADV	ADV,;
+mostantól	T_ADV	ADV,;
+mostanság	T_ADV	ADV,;
+mozdulatlan	C_ADV	ADV,;
+mozdulatlanul	C_ADV	ADV,;
+# mögé POSTP
+# mögéje POSTP
+# mögötte POSTP
+# mögüle POSTP
+múlófélben	C_ADV	ADV,;
+multkor	T_ADV	ADV USAGE: substadard_orth,;
+múltkor	T_ADV	ADV,;
+múltkoriban	T_ADV	ADV,;
+múltkoriban	T_ADV	ADV USAGE: substadard_orth,;
+múltkorában	T_ADV	ADV,;
+multkorában	T_ADV	ADV USAGE: substadard_orth,;
+jómúltkorában	T_ADV	ADV,;
+jómultkorában	T_ADV	ADV USAGE: substadard_orth,;
+# munkátlan
+# nagy
+nagyjában	A_ADV	ADV,;
+nagyjában-egészében	A_ADV	ADV,;
+nagyjából-egészébõl	A_ADV	ADV,;
+nagyjából	A_ADV	ADV,;
+nagymértékben	A_ADV	ADV,;
+nagyobbára	A_ADV	ADV,;
+nagyobbrészt	A_ADV	ADV,;
+legnagyobbrészt	A_ADV	ADV,;
+nagyon	A_ADV	ADV,;
+nagyon-nagyon	A_ADV	ADV,;
+nagyrészt	A_ADV	ADV,;
+# nála POSTP
+napestig	T_ADV	ADV,;
+naphosszat	T_ADV	ADV,;
+napjában	T_ADV	ADV,;
+napközben	T_ADV	ADV,;
+naponta	T_ADV	ADV,;
+nappal	T_ADV	ADV,;
+napság	T_ADV	ADV,;
+# ne REST
+negatíve	C_ADV	ADV,;
+negyedíziglen	?_ADV 	ADV,;
+négykézláb	M_ADV	ADV,;
+négyszemközt	Q_ADV	ADV,;
+néha	T_ADV	ADV,;
+néhanap	T_ADV	ADV,;
+néhanapján	T_ADV	ADV,;
+néha-néha	T_ADV	ADV,;
+néhányszor	T_ADV	ADV,;
+néhol	S_ADV	ADV,;
+# neki PREV
+# néki PREV
+# nélküle POSTP
+# nem REST
+# nemcsak REST
+# nemde INT
+nemegyszer	T_ADV	ADV,;
+némelykor	T_ADV	ADV,;
+nemhiába	C_ADV	ADV,;
+nemigen	A_ADV	ADV,;
+némiképpen	A_ADV	ADV,;
+némileg	A_ADV	ADV,;
+nemkülönben	A_ADV	ADV,;
+nemrég	T_ADV	ADV,;
+nemrégen	T_ADV	ADV,;
+nemrégiben	T_ADV	ADV,;
+nemritkán	T_ADV	ADV,;
+nemsoká	T_ADV	ADV,;
+nemsokára	T_ADV	ADV,;
+nesztelen	M_ADV	ADV,;
+nesztelenül	M_ADV	ADV,;
+netalán	E_ADV	ADV,;
+netalántán	E_ADV	ADV,;
+netán	E_ADV	ADV,;
+netántán	E_ADV	ADV,;
+nettó	Q_ADV	ADV,;
+nevezetesen	E_ADV	ADV,;
+névleg	M_ADV	ADV,;
+névlegesen	M_ADV		ADV,;
+nyakra-fõre	M_ADV	ADV,;
+nyaranta	T_ADV	ADV,;
+nyárára	T_ADV	ADV,;
+# nyaratszaka	
+nyilván	E_ADV	ADV,;
+nyomban	T_ADV	ADV,;
+nyugton	C_ADV	ADV GOV: hagy GOV: marad,;
+# also PREV
+# oda	S_ADV PRON
+# odaát	S_ADV
+# odább	S_ADV
+# odabe	S_ADV
+# odabenn	S_ADV
+# odabent	S_ADV
+# odafel	S_ADV
+# odafel	S_ADV
+# odafenn	S_ADV
+# odafent	S_ADV
+# odahaza	S_ADV
+# odáig	S_ADV
+# odaki	S_ADV
+# odakinn	S_ADV
+# odakint	S_ADV
+# odale	S_ADV
+# odalenn	S_ADV
+# odalent	S_ADV
+# odamenet	T_ADV
+odavetõleg	M_ADV	ADV,;
+oda-vissza	S_ADV	 A_ADV	ADV,;
+okkal-móddal	M_ADV	ADV,;
+okvetlen	E_ADV	ADV,;
+okvetlenül	E_ADV	ADV,;
+oldalt	S_ADV	ADV,;
+oldalvást	S_ADV	ADV,;
+# olyanformán	M_ADV PRON
+# olyanképpen	M_ADV PRON
+# olyankor	T_ADV PRON
+# olyannyira	A_ADV	 I_ADV PRON
+# olyantájban	T_ADV PRON
+# olyantájt	T_ADV PRON
+# olyaténképp	M_ADV PRON
+# olyaténképpen	M_ADV PRON
+olybá	ADV GOV: vesz,;
+# olyformán	M_ADV PRON
+# olyképpen	M_ADV PRON
+olykor	T_ADV	ADV,;
+olykor-olykor	T_ADV	ADV,;
+# onnan	S_ADV PRON
+# onnét	S_ADV PRON
+óránként	T_ADV	ADV,;
+orozva	C_ADV	ADV,;
+országszerte	S_ADV	ADV,;
+orvul	M_ADV	ADV,;
+# oszt CONJ
+# ott	S_ADV PRON
+# ottan	S_ADV PRON
+ottan-ottan	S_ADV 	ADV,;
+otthon	S_ADV	ADV,;
+otthonra	S_ADV	ADV,;
+otthonról	S_ADV	ADV,;
+# ? otthonias
+# õ-
+# öltözetlen
+# önellátó
+önként	C_ADV	ADV,;
+önkéntelen	C_ADV	ADV,;
+önkezével	M_ADV	ADV,;
+önszántából	C_ADV	ADV,;
+# öntevékeny ADJ
+#õrizetlen	ADJ
+õrizetlenül	C_ADV	ADV,;
+örökké	T_ADV	ADV,;
+örökkétig	T_ADV	ADV,;
+örökkön	T_ADV	ADV,;
+örökkön-örökké	T_ADV	ADV,;
+örökre	T_ADV	ADV,;
+öröktõl	T_ADV	ADV,;
+örömest	C_ADV	ADV,;
+# also
+örömmel	C_ADV	ADV,;
+örömrepesve	C_ADV	ADV,;
+örömtelen	C_ADV	ADV,;
+örömtelenül	C_ADV	ADV,;
+# õrületes 
+õrületesen	I_ADV	ADV,;
+# össze PREV
+# összébb PREV
+összehasonlíthatatlanul	E_ADV	ADV,;
+összesen	A_ADV	 N_ADV	ADV,;
+összevissza	A_ADV	 N_ADV	ADV,;
+ösztönszerûen	C_ADV	ADV,;
+paralel	C_ADV	ADV,;
+például	?_ADV	 C_ADV	ADV,, pl. ABBR;
+perfekt	M_ADV	ADV,;
+# persze REST
+pertu	?_ADV 	ADV,;
+piano	M_ADV	ADV,;
+pillanatnyilag	T_ADV	ADV,;
+# pláne REST
+# plusz CONJ
+plusz	N_ADV	ADV,;
+# plusz REST
+# pofon PREV GOV: vág GOV: üt
+pótlólag	C_ADV	ADV,;
+pozitíve	C_ADV	ADV,;
+privátim	C_ADV	ADV,;
+# pró PREP
+# pró	COP
+prompt	T_ADV	ADV,;
+# pusztán REST
+# rá POSTP
+# rája POSTP
+# rajt POSTP
+# rajta POSTP
+rangrejtve	C_ADV	ADV,;
+rapityára	QA_ADV	ADV,;
+# reá POSTP
+# reája POSTP
+rég	T_ADV	ADV,;
+régen	T_ADV	ADV,;
+régebben	T_ADV	ADV,;
+legrégebben	T_ADV	ADV,;
+régente	T_ADV	ADV,;
+réges-rég	T_ADV	ADV,;
+réges-régen	T_ADV	ADV,;
+régestelen-régen	T_ADV	ADV,;
+reggel	T_ADV	ADV,;
+reggelenként	T_ADV	ADV,;
+reggelente	T_ADV	ADV,;
+régóta	T_ADV	ADV,;
+relatíve	C_ADV	ADV,;
+rém	A_ADV	 I_ADV	ADV,;
+rémisztõ	I_ADV	ADV,;
+rendkívül	A_ADV	 I_ADV	ADV,;
+rendre	C_ADV	ADV,;
+rendszerint	T_ADV	ADV,;
+részben	Q_ADV	ADV,;
+# részben CONJ
+# részére POSTP
+# részint CONJ
+részvétlen	C_ADV	ADV,;
+retúr	C_ADV	ADV,;
+# révén POSP
+# rezignált ADJ
+rézsút	S_ADV	ADV,;
+ripityára	QA_ADV	ADV,;
+ripsz-ropsz	T_ADV	ADV,;
+# ritmikus ADJ
+rohanvást	M_ADV	ADV,;
+# rokontalan
+# róla POSTP
+# romlatlan
+# rosszalló
+rosszkor	T_ADV	ADV,;
+rosszabbkor	T_ADV	ADV,;
+rögtön	T_ADV	ADV,;
+rögvest	T_ADV	ADV,;
+rövidesen	T_ADV	ADV,;
+rubato	M_ADV	ADV,;
+# ruganyos
+sajátképpen	M_ADV	ADV,;
+# sanda ADJ
+# se REST
+sebbel-lobbal	M_ADV	ADV,;
+sebtében	M_ADV	ADV,;
+sebtén	M_ADV	ADV,;
+# sehogy	 M_ADV PRON
+# sehol	S_ADV PRON
+# sehonnan	S_ADV PRON
+# sehonnét	S_ADV PRON
+# sehova	S_ADV RPON
+# sem REST
+# semeddig	ST_ADV PRON
+# semerre	S_ADV PRON
+#  semerrõl	S_ADV PRON
+# semmiképpen	 M_ADV REST
+# semmikor 	 M_ADV PRON
+# semmiletteképpen	 M_ADV PRON
+sikertelen	C_ADV	ADV,;
+sikertelenül	C_ADV	ADV,;
+# siratatlan
+# siratlan
+# soha	T_ADV PRON
+# also
+# sose	T_ADV PRON
+# sohse	T_ADV PRON
+sohanapján	T_ADV	ADV,;
+# sohase	T_ADV PRON
+# sohasem	T_ADV PRON
+soká	T_ADV	ADV,;
+sokáig	T_ADV	ADV,;
+sokára	T_ADV	ADV,;
+sokfelé	S_ADV	ADV,;
+sokfele	S_ADV	ADV,;
+sokkal	CN_ADV	ADV,;
+sokkalta	CN_ADV	ADV,;
+sokszorta	CN_ADV	ADV,;
+sorjában	T_ADV	ADV,;
+sorra-rendre	T_ADV	ADV,;
+# speciel CONJ
+spontán	C_ADV	ADV,;
+srég	S_ADV	ADV,;
+srégen	S_ADV	ADV,;
+# statisztikai ADJ
+stikában	C_ADV	ADV,;
+sundám-bundám	?_ADV 	ADV,;
+sutyiban	C_ADV	ADV,;
+suttyomban	C_ADV	ADV,;
+sülve-fõve	C_ADV	ADV,;
+# szabadjára PREV GOV: enged
+szabadlábon	C_ADV	ADV,;
+# szabadlábra PREV GOV: helyez
+szájtátva	C_ADV	ADV,;
+szakadatlan		T_ADV	ADV,;
+szakadatlanul		T_ADV	ADV,;
+# szakasztott	ADJ defective
+# számára POSTP
+számlálatlan	C_ADV	ADV,;
+számlálatlanul	C_ADV	ADV,;
+# számszerû	
+szanaszéjjel	S_ADV	ADV,;
+szanaszét	S_ADV	ADV,;
+# szántatlan
+szántszándékkal	C_ADV	ADV,;
+százfelé	S_ADV	ADV,;
+százfele	S_ADV	ADV,;
+százszorta	CN_ADV	ADV,;
+szedetlen	C_ADV	ADV,;
+szegrõl-végrõl	C_ADV	ADV,;
+szégyenszemre	E_ADV	ADV,;
+# széjjel PREV
+# széjjelebb PREV
+szélrõl	S_ADV	ADV,;
+# szélsebes ADJ
+széltében	S_ADV	ADV,;
+széltében-hosszában	S_ADV	ADV,;
+széltére	S_ADV	ADV,;
+# szélütött ADJ
+szembe	 S_ADV	ADV,;
+szemben	 S_ADV	ADV,;
+szemközt	 S_ADV	ADV,;
+szemlátomást	E_ADV	ADV,;
+szemlesütve	C_ADV	ADV,;
+szemre-fõre	?_ADV	 C_ADV	ADV,;
+# szép
+szépecskén	?_ADV	 C_ADV	ADV,;
+szépszerével	?_ADV	 C_ADV	ADV,;
+szépszerint	?_ADV	 C_ADV	ADV,;
+szerbe-számba	?_ADV	 C_ADV	ADV,;
+szerencsére	E_ADV	ADV,;
+# szeretetlen
+szerfölött	I_ADV	ADV,;
+# szerinte POST
+szerte	S_ADV	ADV,;
+# szertelen
+szerteszéjjel	S_ADV	ADV,;
+szerteszét	S_ADV	ADV,;
+# szét PREV
+szimultán	C_ADV	ADV,;
+színleg	C_ADV	ADV,;
+# szinte REST
+# szintén REST
+# szintígy REST
+# szintúgy REST
+színültig	QA_ADV	ADV,;
+szívdobogva	C_ADV	ADV,;
+szívesen	C_ADV	ADV,;
+szívesebben	C_ADV	ADV,;
+legszívesebben	C_ADV	ADV,;
+szívrepesve	C_ADV	ADV,;
+# szívszaggató ADJ
+szívszakadva	C_ADV	ADV,;
+szívszorongva	C_ADV	ADV,;
+szomjan	C_ADV	ADV,;
+# szóval CONJ
+szõrén-lábán	C_ADV	ADV,;
+szõrén-szálán	C_ADV	ADV,;
+szõrmentében	C_ADV	ADV,;
+# also
+szõrmentén	C_ADV	ADV,;
+szõröstül-bõröstül	A_ADV	ADV,;
+szûkecskén	C_ADV	ADV,;
+# szükségképpen CONJ
+szünetlen	T_ADV	ADV,;
+szünös-szüntelen	T_ADV	ADV,;
+szüntelen	T_ADV	ADV,;
+szüntelenül	T_ADV	ADV,;
+tagadhatatlan	E_ADV	ADV,;
+tagadhatatlanul	E_ADV	ADV,;
+találomra	C_ADV	ADV,;
+talán	E_ADV	ADV,;
+talántán	E_ADV	ADV,;
+tán	E_ADV	ADV,;
+# tántoríthatatlan ADJ
+tárva-nyitva	C_ADV COP	ADV,;
+tavaly	T_ADV	ADV,;
+tavalyelõtt	T_ADV	ADV,;
+távol	S_ADV COP	ADV,;
+távolra	S_ADV COP	ADV,;
+távolról	S_ADV COP	ADV,;
+távolabb	S_ADV COP	ADV,;
+távolabbról	S_ADV COP	ADV,;
+távolabbra	S_ADV COP	ADV,;
+legtávolabbról	S_ADV COP	ADV,;
+legtávolabbra	S_ADV COP	ADV,;
+legtávolabb	S_ADV COP	ADV,;
+#te-
+# té
+tébláb	?_ADV	 C_ADV	ADV,;
+tegnap	T_ADV	ADV,;
+tegnapelõtt	T_ADV	ADV,;
+# tejjel-mézzel	
+# tekervényes ADJ
+# tekintve CONJ
+# tele PREV
+tele	COP	ADV,;
+télen-nyáron	T_ADV	ADV,;
+telente	T_ADV	ADV,;
+# teli PREV
+teli	COP	ADV,;
+teliden-tele	QA_ADV COP	ADV,;
+telides-tele	QA_ADV COP	ADV,;
+télire	T_ADV	ADV,;
+telisded-tele	QA_ADV COP	ADV,;
+telis-tele	QA_ADV COP	ADV,;
+tél-túl	?_ADV 	ADV,;
+telve	COP	ADV,;
+# temetetlen
+# tempós ADJ
+tényleg	E_ADV	ADV,;
+természetszerûleg	E_ADV	ADV,;
+tessék-lássék	A_ADV	ADV,;
+testestül-lelkestül	C_ADV	ADV,;
+# tetejébe POSTP
+tétlen	C_ADV	ADV,;
+tétlenül	C_ADV	ADV,;
+# tétova ADJ
+tettleg	C_ADV	ADV,;
+# ti-
+tipp-topp	C_ADV	ADV,;
+tiszta	NMOD	 I_ADV	ADV,;
+tisztán	A_ADV	 I_ADV	ADV,;
+tisztára	A_ADV	 I_ADV	ADV,;
+# tisztességtudó ADJ
+titkon	C_ADV	ADV,;
+torkaszakadtából	M_ADV	ADV,;
+toronyiránt	S_ADV	ADV,;
+totál	A_ADV	 I_ADV	ADV,;
+teljesen	A_ADV	 I_ADV	ADV,;
+tova	S_ADV	ADV,;
+tovább	ST_ADV	ADV,;
+legtovább	ST_ADV	ADV,;
+# továbbá CONJ
+# továbbad
+továbbra	T_ADV	ADV,;
+többé	T_ADV	ADV,;
+többé	A_ADV	ADV,;
+többé-kevésbé	A_ADV	ADV,;
+többet	T_ADV	ADV,;
+legtöbbet	T_ADV	ADV,;
+többfelé	S_ADV	ADV,;
+legtöbbfelé	S_ADV	ADV,;
+többfele	S_ADV	ADV,;
+legtöbbfele	S_ADV	ADV,;
+többnyire	T_ADV	ADV,;
+# tõle POSTP
+# tömve
+töredelmesen	C_ADV	ADV GOV: vall	,;
+töretlen	C_ADV	ADV,;
+töretlenül	C_ADV	ADV,;
+# törhetetlen ADJ
+törik-szakad	C_ADV	ADV,;
+# történetesen CONJ
+tõvel-heggyel	C_ADV	ADV,;
+tranzit	C_ADV	ADV,;
+# túl POSTP
+túl	 I_ADV	ADV,;
+# tulajdon REST
+# tulajdonképpen CONJ
+túlfelõl	S_ADV	ADV,;
+túlnan	S_ADV	ADV,;
+túlnyomórészt	A_ADV	ADV,;
+túlontúl	A_ADV	 I_ADV	ADV,;
+# also
+túlságosan	A_ADV	 I_ADV	ADV,;
+tüled	?_ADV 	ADV,;
+tüskén-bokron	S_ADV	ADV,;
+tüskön-bokron	S_ADV	ADV,;
+tüstént	T_ADV	ADV,;
+tûzzel-vassal	M_ADV	ADV,;
+# úgy	 M_ADV PRON
+úgy	 N_ADV	ADV,;
+# úgy SENTINT
+úgy-ahogy	A_ADV	ADV,;
+# ugyan CONJ
+ugyan	 E_ADV	ADV,;
+# ugyanakkor CONJ
+# ugyanakkor	T_ADV PRONCONJ
+ugyanaznap	T_ADV	ADV,;
+# ugyancsak REST
+# ugyanekkor	T_ADV PRON
+# ugyanide	S_ADV PRON
+# ugyanígy	 M_ADV PRON
+# ugyaninnen	S_ADV PRON
+# ugyanitt 	S_ADV PRON
+# ugyanitten	S_ADV PRON
+# ugyanoda	S_ADV PRON
+# ugyanonnan	S_ADV PRON
+# ugyanott	S_ADV PRON
+# ugyanottan	S_ADV PRON
+# ugyanúgy	 M_ADV PRON
+úgyannyira	 A_ADV 	ADV,;
+# ugye CONJ
+úgyis	 R_ADV	ADV,;
+úgysem	 R_ADV	ADV,;
+úgyszólván	 A_ADV 	ADV,;
+újabban	T_ADV	ADV,;
+legújabban	T_ADV	ADV,;
+újan	T_ADV	ADV,;
+újból	T_ADV	ADV,;
+újfent	T_ADV	ADV,;
+újólag	T_ADV	ADV,;
+újon	T_ADV	ADV,;
+újonnan	T_ADV	ADV,;
+újra	T_ADV	ADV,;
+ukmukfukk	T_ADV	ADV,;
+ungon-berken	S_ADV	ADV,;
+uniszónó	M_ADV	ADV,;
+unos-untalan	T_ADV	ADV,;
+untalan	T_ADV	ADV,;
+untig	T_ADV	ADV,;
+úrimód	M_ADV	ADV,;
+után	S_ADV	ADV,;
+utánra	S_ADV	ADV,;
+utánról	S_ADV	ADV,;
+# utána	PREV
+# utána POSTP
+# utána CONJ
+útközben	T_ADV	ADV,;
+utóbb	T_ADV	ADV,;
+legutóbb	T_ADV	ADV,;
+utólag	T_ADV	ADV,;
+utoljára	T_ADV	ADV,;
+legutoljára	T_ADV	ADV,;
+utolsósorban	T_ADV	ADV,;
+legutolsósorban	T_ADV	ADV,;
+utolszor	T_ADV	ADV,;
+legutolszor	T_ADV	ADV,;
+úton-útfélen	S_ADV	ADV,;
+# utóvégre	CONJ
+üggyel-bajjal	C_ADV	ADV,;
+ünnepnap	T_ADV	ADV,;
+üptre	?_ADV 	ADV,;
+üstöllést	M_ADV	ADV,;
+# vagy
+# vaj CONJ
+# vaj
+vajmi	I_ADV	ADV,;
+# vajon CONJ
+vaktában	M_ADV	ADV,;
+valaha	T_ADV	ADV,;
+valahára	T_ADV	ADV,;
+# valahogy	 M_ADV PRON
+# valahol	S_ADV PRON
+# valahonnan	S_ADV PRON
+# valahonnét	S_ADV PRON
+# valahova	S_ADV PRON
+# valameddig	ST_ADV PRON
+# valamelyest	 I_ADV A PRON
+# valamennyire	 I_ADV A PRON
+# valamerre	S_ADV PRON
+# valamerrõl	S_ADV PRON
+# valamíg	T_ADV PRON
+# valamiként	C_ADV PRON
+# valamiképpen	M_ADV PRON
+# valamikor	T_ADV PRON
+# valamint	T_ADV PRON
+# valamint CONJ
+vállvetve	C_ADV	ADV,;
+valóban	E_ADV	ADV,;
+válófélben	C_ADV	ADV,;
+valójában	E_ADV	ADV,;
+valósággal	E_ADV	ADV,;
+váltig	C_ADV	ADV GOV: állít GOV: hangoztat GOV: mond,;
+változatlan	T_ADV	ADV,;
+változatlanul	T_ADV	ADV,;
+# vámolatlan ADJ
+váratlan	C_ADV	ADV,;
+váratlanul	C_ADV	ADV,;
+városszerte	S_ADV	ADV,;
+vasárnap	T_ADV	ADV,;
+védetlen	C_ADV	ADV,;
+védtelen	C_ADV	ADV,;
+védtelenül	C_ADV	ADV,;
+végestelen-végig	T_ADV	ADV,;
+véges-végig	T_ADV	ADV,;
+véges-végtelen	T_ADV	ADV,;
+# végette  POSTP
+# végezetül CONJ
+véghetetlen	?_ADV	 C_ADV	ADV,;
+végig	T_ADV	ADV,;
+legvégig	T_ADV	ADV,;
+végképp	A_ADV	ADV,;
+végképpen	A_ADV	ADV,;
+végleg	T_ADV	ADV,;
+végre	T_ADV	ADV,;
+végre-valahára	T_ADV	ADV,;
+végtelen	A_ADV	ADV,;
+végtelenül	A_ADV	ADV,;
+# végtére CONJ
+végül	T_ADV	ADV,;
+legvégül	T_ADV	ADV,;
+vegyest	?_ADV	 C_ADV	ADV,;
+# vele	
+véletlen	C_ADV	ADV,;
+véletlenül	C_ADV	ADV,;
+veretlen	C_ADV	ADV,;
+veretlenül	C_ADV	ADV,;
+veszteg	C_ADV	ADV,;
+vetetlen	C_ADV	ADV,;
+világszerte	S_ADV	ADV,;
+virágvasárnap	T_ADV	ADV,;
+# viszont
+# viszontag
+# viszonzatlan
+viszonylag	A_ADV	ADV,;
+# vissza PREV
+visszafelé	S_ADV	ADV,;
+visszafele	S_ADV	ADV,;
+# visszahozhatatlan
+visszajövet	T_ADV	ADV,;
+visszamenet	T_ADV	ADV,;
+visszamenõleg	C_ADV	ADV,;
+visszára	S_ADV	ADV,;
+visszájára	S_ADV	ADV,;
+# visszavonhatatlan ADJ
+vizaví	S_ADV	ADV,;
+# voltaképpen CONJ
+# vontatva
+völgymenet	ST_ADV	ADV,;
+vulgo	M_ADV	ADV,;
+# zavarodott ADJ
+# zokon PREV GOV: vesz
+
+# mispell	ADV,;
+alantabb	S_ADV	ADV,;
+aludtában	C_ADV	ADV,;
+# alias	PREP
+bensõleg	C_ADV	ADV,;
+belsõleg	C_ADV	ADV,;
+bizony	E_ADV	ADV,;
+biza	E_ADV	ADV,;
+bíz	E_ADV	ADV,;
+bénítólag	C_ADV ADV GOV: hat,;
+cigányútra	QA_ADV	ADV GOV: megy,;
+csurig	QA_ADV COP	ADV,;
+csurom	NMOD	ADV,;
+degeszre	QA_ADV	ADV GOV: eszik zabál,;
+üdítõleg	C_ADV	ADV GOV: hat,;
+egyszeribe	T_ADV	ADV,;
+feltehetõleg	E_ADV	ADV,;
+flottul	M_ADV	ADV,;
+fogcsikorgatva	M_ADV	ADV,;
+furamód	E_ADV	ADV,;
+furcsamód	E_ADV	ADV,;
+garmadával	Q_ADV	ADV,;
+gombamód	C_ADV	ADV,;
+habókra	C_ADV	ADV,;
+hallhatólag	E_ADV	ADV,;
+# hallatára POSTP
+# hallatán	POSTP
+halomszámra	Q_ADV	ADV,;
+hasonmód	C_ADV	ADV,;
+# hoppon  PREV	GOV: marad
+izgatólag	C_ADV ADV GOV: hat ,;
+külsõleg	C_ADV	ADV,;
+kurvára	A_ADV	I_ADV	ADV USAGE: slang,;
+szörnyen	I_ADV	ADV,;
+közakarattal	C_ADV	ADV,;
+közelmúltban	T_ADV	ADV,;
+közelítõleg	N_ADV	ADV,;
+lábbusszal	C_ADV	ADV,;
+# legkivált	REST
+álltában	C_ADV	ADV,;
+álltából	C_ADV	ADV,;
+ültében	C_ADV	ADV,;
+ültébõl	C_ADV	ADV,;
+láthatólag	E_ADV	ADV,;
+mainapság	T_ADV	ADV,;
+magamaga	Q_ADV	ADV,;
+megközelítõleg	N_ADV	ADV,;
+mutyiban	C_ADV	ADV,;
+nevettében	C_ADV	ADV,;
+négykézlábra	C_ADV	ADV,;
+önhatalmúlag	C_ADV	ADV,;
+#  inflected!!!
+önszántamból	C_ADV	ADV,;
+nyugtatólag	C_ADV	ADV GOV: hat,;
+megnyugtatólag	C_ADV	ADV GOV: hat,;
+off-line	C_ADV	ADV,;
+oltárian	I_ADV	 A_ADV	ADV,;
+panyókára	C_ADV	ADV,;
+profimód	C_ADV	ADV,;
+párszor	T_ADV	ADV,;
+érdekesmód	E_ADV	ADV,;
+ritkamód	T_ADV	ADV,;
+ritkán	T_ADV	ADV,;
+ritkábban	T_ADV	ADV,;
+legritkábban	T_ADV	ADV,;
+roppantmód	A_ADV	ADV,;
+sebtiben	M_ADV	ADV,;
+sejthetõleg	E_ADV	ADV,;
+serkentõleg	C_ADV	ADV GOV: hat,;
+siettében	C_ADV	ADV,;
+számottevõen	A_ADV	ADV,;
+szörnyûmód	A_ADV	ADV,;
+ösztönzõleg	C_ADV	ADV GOV: hat,;
+taxatíve	C_ADV	ADV,;
+tapinthatólag	E_ADV	ADV,;
+tapinthatóan	E_ADV	ADV,;
+termékenyítõleg	C_ADV	ADV GOV: hat,;
+# természetszerûleg CONJ
+# tudtul PREV	GOV: ad
+tudvalevõleg	E_ADV	ADV,;
+tövirõl	C_ADV	ADV,;
+# óva  PREV GOV: int
+városszerte	S_ADV	ADV,;
+várhatólag	E_ADV	ADV,;
+vélhetõleg	E_ADV	ADV,;
+zavarólag	C_ADV	ADV GOV: hat,;
+# from mispell twin
+kékre-zöldre	C_ADV	ADV,;
+icike-picikét	A_ADV	ADV,;
+diribre-darabra	QA_ADV	ADV,;
+
+# FKP:	ADV,;
+bomlófélben	C_ADV	ADV,;
+csapatostul	Q_ADV	ADV,;
+csodamód	M_ADV	ADV,;
+dögivel	Q_ADV COP	ADV,;
+egyszerûen	E_ADV	ADV,;
+féligformán	M_ADV	ADV,;
+hegyén-hátán	Q_ADV COP	ADV,;
+# helyben PREV GOV: hagy GOV: marad
+hivatalból	C_ADV	ADV,;
+hosszan	T_ADV	ADV,;
+hosszasan	T_ADV	ADV,;
+kétségtelen	E_ADV	ADV,;
+kétségtelenül	E_ADV	ADV,;
+kézrõl-kézre	C_ADV	ADV,;
+keresztbe-kasba	S_ADV	ADV,;
+kellõképp	E_ADV	ADV,;
+kellõképpen	E_ADV	ADV,;
+közbevetõleg	C_ADV	ADV,;
+# lényegében	CONJ
+lényegileg	C_ADV	ADV,;
+megyeszerte	S_ADV	ADV,;
+nagysokára	T_ADV	ADV,;
+picit	A_ADV	 I_ADV	ADV,;
+icipicit	A_ADV	 I_ADV	ADV,;
+# pórul PREV GOV: jár
+pont	A_ADV	 N_ADV	ADV,;
+pontosan	A_ADV	 N_ADV	ADV,;
+# szemügyre PREV GOV: vesz
+szukcesszíve	C_ADV	ADV,;
+# természetesen CONJ
+hegyire	C_ADV	ADV,;
+tövirõl-hegyire	C_ADV	ADV,;
+tûzön-vizen	S_ADV	ADV,;
+tök	A_ADV	 I_ADV	ADV,;
+
+# also	ADV,;
+faluszerte	S_ADV	ADV,;
+utcaszerte	S_ADV	ADV,;
+tengerentúl	S_ADV	ADV,;
+módon	M_ADV	ADV,;
+fogytán	COP	ADV,;
+hevenyészve	C_ADV	ADV,;
+parlagon	C_ADV	ADV GOV: hever hagy vár,;
+lehetõ	I_ADV	ADV,;
+lehetõvé	ADV GOV: tesz válik,;
+meglehetõsen	A_ADV	 I_ADV	ADV,;
+túlnyomóan	A_ADV	ADV,;
+tökre	A_ADV	 I_ADV	ADV,;
+tökéletesen	A_ADV	ADV,;
+baromira	A_ADV	 I_ADV	ADV,;
+baromi	I_ADV	ADV,;
+kurva	I_ADV	ADV,;
+állati	I_ADV	ADV,;
+állatira	A_ADV	 I_ADV	ADV,;
+becsszóra	E_ADV	ADV,;
+becsszó	E_ADV	ADV,;
+bizisten	E_ADV	ADV,;
+bizistók	E_ADV	ADV,;
+egy-kettõ	T_ADV	ADV,;
+egykettõ	T_ADV	ADV,;
+hipp-hopp	T_ADV	ADV,;
+valószínû	E_ADV	ADV,;
+valószínûleg	E_ADV	ADV,;
+remélhetõleg	E_ADV	ADV,;
+elvileg		A_ADV	ADV,;
+észrevétlen	C_ADV	ADV,;
+észrevétlenül	C_ADV	ADV,;
+szervesen	C_ADV	ADV,;
+rosszul	COP	ADV,;
+marha	I_ADV	ADV,;
+marhára	A_ADV	 I_ADV	ADV,;
+sajnos	E_ADV	ADV,;
+sajna	E_ADV	ADV,;
+biztos	E_ADV	ADV,;
+tuti	E_ADV	ADV,;
+tutira	E_ADV	ADV,;
+ziher	E_ADV	ADV,;
+fene	I_ADV	ADV,;
+francos	I_ADV	ADV,;
+baszott	I_ADV	ADV USAGE: slang,;
+kibaszott	I_ADV	ADV USAGE: slang,;
+elbaszott	I_ADV	ADV USAGE: slang,;
+
+# extent	ADV,;
+egyáltalán	A_ADV	ADV,;
+egyáltalában	A_ADV	ADV,;
+szinte	A_ADV	ADV,;
+alig	A_ADV	 N_ADV 	ADV,;
+alig	Q_ADV COP	ADV,;
+majdnem	A_ADV	 N_ADV	ADV,;
+csaknem	A_ADV	 N_ADV	ADV,;
+épphogy	 A_ADV	ADV,;
+
+csakhogy	T_ADV	ADV,;
+
+# negative	ADV,;
+úgyis	POS	ADV,;
+úgysem	NEG	ADV,;
+úgyse	NEG	ADV USAGE: substandard_orth,;
+amúgyis	POS	ADV,;
+amúgysem	NEG	ADV,;
+nem	NEG	ADV,;
+ne	NEG	ADV,;
+sem	NEG	ADV,;
+se	NEG	ADV,;
+dehogy	NEG	ADV,;
+dehogyis	NEG	ADV,;
+dehogynem	POS	ADV,;
+dehogyisnem	POS	ADV,;
+mégis	POS	ADV,;
+mégiscsak	POS		ADV,;
+mégse	NEG	ADV,;
+mégsem	NEG	ADV,;
+igenis	POS	ADV,;
+#semmiképpen	NEG
+
+# restriction (only/especially)	ADV,;
+csak	R_ADV	 N_ADV	ADV,;
+csakis	R_ADV 	ADV,;
+épp	R_ADV	 N_ADV	ADV,;
+éppen	R_ADV	 N_ADV	ADV,;
+pont	R_ADV	 N_ADV	ADV,;
+pontosan	R_ADV	 N_ADV	ADV,;
+legkivált	R_ADV	ADV,;
+kivált	R_ADV	ADV,;
+kiváltképp	R_ADV	ADV,;
+kiváltképpen	R_ADV	ADV,;
+kizárólag	R_ADV	 N_ADV	ADV,;
+fõleg	R_ADV	ADV,;
+fõként	R_ADV	ADV,;
+fõképp	R_ADV	ADV,;
+fõképpen	R_ADV	ADV,;
+legfõképp	R_ADV	ADV,;
+legfõképpen	R_ADV	ADV,;
+pláne	R_ADV	ADV,;
+inkább	R_ADV	ADV,;
+méginkább	R_ADV	ADV,;
+leginkább	R_ADV	ADV,;
+pusztán	R_ADV	 N_ADV	ADV,;
+nemcsak	R_ADV	 N_ADV	ADV,;
+csupán	R_ADV	 N_ADV	ADV,;
+csupáncsak	R_ADV	 N_ADV	ADV,;
+különösképp	R_ADV	ADV,;
+különösképpen	R_ADV	ADV,;
+különösen	R_ADV	ADV,;
+
+# also (not only)	ADV,;
+is		R_ADV	ADV,;
+szintén	R_ADV	ADV,;
+úgyszintén	R_ADV	ADV,;
+szintúgy	R_ADV	ADV,;
+szintígy	R_ADV	ADV,;
+ugyancsak	R_ADV	ADV,;
+akárcsak	R_ADV	ADV,;
+egyaránt	R_ADV	ADV,;
+egyformán	 R_ADV	ADV,;
+akár	R_ADV	ADV,;
+hanem	R_ADV	ADV,;
+
+# úgyan	 M_ADV PRON	ADV,;
+# úgyabbul	 M_ADV PRON
+# zöldágra	PREV GOV: vergõdik
+
+# valamicskét	A_ADV PRON	ADV,;
+kicsit	A_ADV	 I_ADV	ADV,;
+csöppet	A_ADV	 I_ADV	ADV,;
+jottányit	A_ADV	ADV,;
+szemernyit	A_ADV	ADV,;
+kerekperec	M_ADV	ADV,;
+kerek-perec	M_ADV	ADV,;
+
+alapvetõen	A_ADV	ADV,;
+gyökeresen	A_ADV	ADV,;
+valamelyest	A_ADV	ADV,;
+fokozottan	I_ADV	ADV,;
+másnéven	E_ADV	ADV,;
+
+jóval	CN_ADV 	ADV,;
+annál	CN_ADV 	ADV,;
+minél	CN_ADV 	ADV,;
+jó	N_ADV	ADV,;
+jót	A_ADV	ADV,;
+jókat	A_ADV	ADV,;
+egyet	A_ADV	ADV,;
+kifejezetten	 I_ADV A_ADV	ADV,;
+kimondottan	 I_ADV A_ADV	ADV,;
+nagyban	A_ADV	ADV,;
+
+õsszel	T_ADV	ADV,;
+télen	T_ADV	ADV,;
+tavasszal	 T_ADV	ADV,;
+nyáron	T_ADV	ADV,;
+
+elõzõekben	T_ADV	ADV,;
+elõbbiekben	T_ADV	ADV,;
+óhatatlanul	E_ADV	ADV,;
+egyhangúan	C_ADV	ADV,;
+egyhangúlag	C_ADV	ADV,;
+jóváhagyólag	C_ADV	ADV,;
+támadólag	M_ADV	ADV,;
+tagadólag	M_ADV	ADV,;
+támogatólag	M_ADV	ADV,;
+köztudomásúlag	E_ADV	ADV,;
+bátorítólag	M_ADV	ADV,;
+helybenhagyólag	M_ADV	ADV,;
+nyomasztólag	M_ADV	ADV,;
+magyarázólag	M_ADV	ADV,;
+elutasítólag	M_ADV	ADV,;
+inspirálólag	C_ADV	ADV,;
+hasonlólag	C_ADV	ADV,;
+taszítólag	C_ADV	ADV,;
+parancsolólag	M_ADV	ADV,;
+szemrehányólag	M_ADV	ADV,;
+gyógyítólag	M_ADV	ADV,;
+bíztatólag	M_ADV	ADV,;
+állandólag	T_ADV	ADV,;
+bántólag	C_ADV	ADV,;
+pártolólag	C_ADV	ADV,;
+gátlólag	C_ADV	ADV,;
+összefoglalólag	C_ADV	ADV,;
+riasztólag	C_ADV	ADV,;
+izgatólag	C_ADV	ADV,;
+szemmelláthatólag	E_ADV	ADV,;
+szemmelláthatóan	E_ADV	ADV,;
+gyaníthatólag	E_ADV	ADV,;
+gyaníthatóan	E_ADV	ADV,;
+rosszallólag	C_ADV	ADV,;
+csábítólag	C_ADV	ADV,;
+elmarasztalólag	C_ADV	ADV,;
+kijózanítólag	C_ADV	ADV,;
+jóindulatúlag	C_ADV	ADV,;
+egyoldalúan	M_ADV	ADV,;
+egyoldalúlag	M_ADV	ADV,;
+egybehangzólag	M_ADV	ADV,;
+egybehangzóan	M_ADV	ADV,;
+behatóan	M_ADV	ADV,;
+behatólag	M_ADV	ADV,;
+
+egyedileg	Q_ADV	ADV,;
+kéthetente	T_ADV	ADV,;
+átmenetileg	T_ADV	ADV,;
+elméletileg	E_ADV	ADV,;
+gyakorlatilag	E_ADV	ADV,;
+központilag	M_ADV	ADV,;
+formailag	C_ADV	ADV,;
+szellemileg	C_ADV	ADV,;
+fizikailag	C_ADV	ADV,;
+mûszakilag	C_ADV	ADV,;
+technikailag	C_ADV	ADV,;
+emberileg	C_ADV	ADV,;
+
+online	M_ADV	ADV,;
+on-line	M_ADV	ADV,;
+offline	M_ADV	ADV,;
+off-line	M_ADV	ADV,;
+
+roppant	I_ADV	ADV,;
+õrült	I_ADV	ADV,;
+ritka	I_ADV	ADV,;
+jó	I_ADV	ADV,;
+szép	I_ADV	ADV,;
+baszom	I_ADV	ADV,;
+
+mára	T_ADV	ADV,;
+vissza	S_ADV	ADV,;
+
+ezzel	T_ADV	ADV,;
+nap	T_ADV	ADV,;
+
+végén	T_ADV	ADV,;
+legvégén	T_ADV	ADV,;
+le	S_ADV	ADV,;
+ki	S_ADV	ADV,;
+eleget	A_ADV	ADV,;
+hazáig	S_ADV	ADV,;
+máig	T_ADV	ADV,;
+annyiból	E_ADV	ADV,;
+hõn	M_ADV	ADV,;
+összébb	S_ADV	ADV,;
+legelejére	S_ADV	ADV,;
+leghátuljára	S_ADV	ADV,;
+legaljára	S_ADV	ADV,;
+legtetejére	S_ADV	ADV,;
+legelejérõl	S_ADV	ADV,;
+leghátuljáról	S_ADV	ADV,;
+legaljáról	S_ADV	ADV,;
+legtetejérõl	S_ADV	ADV,;
+elejére	S_ADV	ADV,;
+hátuljára	S_ADV	ADV,;
+aljára	S_ADV	ADV,;
+tetejére	S_ADV	ADV,;
+elejérõl	S_ADV	ADV,;
+hátuljáról	S_ADV	ADV,;
+aljáról	S_ADV	ADV,;
+tetejérõl	S_ADV	ADV,;
+kialakulóban	COP	ADV,;
+délben	T_ADV	ADV,;
+délre	T_ADV	ADV,;
+délen	S_ADV	ADV,;
+délnek	S_ADV	ADV,;
+délig	T_ADV	ADV,;
+nyugatra	S_ADV	ADV,;
+nyugatról	S_ADV	ADV,;
+nyugaton	S_ADV	ADV,;
+nyugatnak	S_ADV	ADV,;
+keletre	S_ADV	ADV,;
+keleten	S_ADV	ADV,;
+keletrõl	S_ADV	ADV,;
+keletnek	S_ADV	ADV,;
+északon	S_ADV	ADV,;
+északra	S_ADV	ADV,;
+északról	S_ADV	ADV,;
+északnak	S_ADV	ADV,;
+fel	S_ADV	ADV,;
+csuda	I_ADV	ADV,;
+zömében	Q_ADV	ADV,;
+tövig	S_ADV	ADV,;
+
+#szemügyre	ADV	ADV,;
+#lévén	C_ADV ,;
+#nap	T_ADV
+#ezzel	T_ADV
+#attól	ADV ,; CONJ
+
+különbözõképp	 M_ADV	ADV,;
+különbözõképpen	 M_ADV	ADV,;

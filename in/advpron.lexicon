@@ -1,0 +1,313 @@
+#ahogy	M_ADV  PRON_ADV ADV,;
+#ahogyan	M_ADV  PRON_ADV ADV,;
+#ahol	S_ADV  PRON_ADV ADV,;
+#ahonnan	S_ADV  PRON_ADV ADV,;
+#ahonnét	S_ADV  PRON_ADV ADV,;
+#ahova		S_ADV  PRON_ADV ADV,;
+#ahová		S_ADV  PRON_ADV ADV,;
+#ameddig S_ADV T_ADV  PRON_ADV ADV,;
+#amerre S_ADV  PRON_ADV ADV,;
+#amerrõl S_ADV  PRON_ADV ADV,;
+#amiért C_ADV PRON_ADV ADV,;
+#amiként C_ADV  PRON_ADV ADV,;
+#amiképpen C_ADV  PRON_ADV ADV,;
+#amikor  T_ADV  PRON_ADV ADV,;
+#amióta T_ADV  PRON_ADV ADV,;
+
+#akárhogy	M_ADV  PRON_ADV ADV,;
+#akárhogyan	M_ADV  PRON_ADV ADV,;
+#akárhol	S_ADV  PRON_ADV ADV,;
+#akárhonnan	S_ADV  PRON_ADV ADV,;
+#akárhonnét	S_ADV  PRON_ADV ADV,;
+#akárhova	S_ADV  PRON_ADV ADV,;
+#akárhová	S_ADV  PRON_ADV ADV,;
+#akármeddig	S_ADV T_ADV  PRON_ADV ADV,;
+#akármennyire	A_ADV PRON_ADV ADV,;
+#akármerre	S_ADV  PRON_ADV ADV,;
+#akármerrõl	S_ADV  PRON_ADV ADV,;
+#akármiképpen	C_ADV  PRON_ADV ADV,;
+#akármikor	T_ADV  PRON_ADV ADV,;
+#akármint	T_ADV  PRON_ADV ADV,;
+
+#idáig	S_ADV  PRON_ADV ADV,;
+#idáig	T_ADV  PRON_ADV ADV,;
+#ide	S_ADV  PRON_ADV ADV,;
+#ideát	S_ADV  PRON_ADV ADV,;
+idább	S_ADV  PRON_ADV ADV USAGE: substandard,;
+idébb	S_ADV  PRON_ADV ADV,;
+#idébb-odább	S_ADV  PRON_ADV ADV,;
+#idebe	S_ADV  PRON_ADV ADV  USAGE: substandard,;
+#idebenn	S_ADV  PRON_ADV ADV,;
+#idebent 
+#idefel	S_ADV  PRON_ADV ADV  USAGE: substandard,;
+#idefelé	S_ADV T_ADV  PRON_ADV ADV,;
+#idefenn	S_ADV  PRON_ADV ADV,;
+#idefent
+#idejövet	T_ADV S_ADV PRON_ADV ADV,;
+#idehaza	S_ADV  PRON_ADV ADV,;
+#ideki	S_ADV  PRON_ADV ADV  USAGE: substandard,;
+#idekinn	S_ADV PRON_ADV ADV,;
+#idekint
+#idele	S_ADV  PRON_ADV ADV  USAGE: substandard,;
+#idelenn	S_ADV  PRON_ADV ADV,;
+#idelent
+#innen 	S_ADV  PRON_ADV ADV,;
+#innen-amonnan	S_ADV  PRON_ADV ADV,;
+#innen-onnan	S_ADV  PRON_ADV ADV,;
+#innét	S_ADV  PRON_ADV ADV,;
+#itt	S_ADV  PRON_ADV ADV,;
+#itten	S_ADV  PRON_ADV ADV,;
+#itt-ott	S_ADV  PRON_ADV ADV,;
+
+#oda	S_ADV PRON_ADV ADV,;
+#odaát	S_ADV PRON_ADV ADV,;
+#odább	S_ADV PRON_ADV ADV,;
+#odébb,;
+#odabe	S_ADV PRON_ADV ADV,;
+#odabenn	S_ADV PRON_ADV ADV,;
+#odabent	S_ADV PRON_ADV ADV,;
+#odafel	S_ADV PRON_ADV ADV,;
+#odafelé	S_ADV PRON_ADV ADV,;
+#odafenn	S_ADV PRON_ADV ADV,;
+#odafent	S_ADV PRON_ADV ADV,;
+#odahaza	S_ADV PRON_ADV ADV,;
+#odáig	S_ADV PRON_ADV ADV,;
+#odaki	S_ADV PRON_ADV ADV,;
+#odakinn	S_ADV PRON_ADV ADV,;
+#odakint	S_ADV PRON_ADV ADV,;
+#odale	S_ADV PRON_ADV ADV,;
+#odalenn	S_ADV PRON_ADV ADV,;
+#odalent	S_ADV PRON_ADV ADV,;
+#odamenet	T_ADV PRON_ADV ADV,;
+#onnan	S_ADV PRON_ADV ADV,;
+#onnat	S_ADV USAGE: archaic PRON_ADV ADV,;
+#onnét	S_ADV PRON_ADV ADV,;
+#ott	S_ADV  PRON_ADV ADV,;
+#ottan	S_ADV  PRON_ADV ADV,;
+#ottan-ottan	S_ADV  PRON_ADV ADV,;
+
+#ihol	S_ADV  PRON_ADV ADV,;
+#ehol,;
+#ehejt,;
+#ehelyt,;
+#ehelyütt,;
+
+#így M_ADV  PRON_ADV ADV,;
+#ígyen M_ADV  PRON_ADV ADV,;
+#úgy M_ADV  PRON_ADV ADV,;
+#*?úgyan M_ADV  PRON_ADV ADV,;
+#úgyabbul M_ADV  PRON_ADV ADV,;
+úgyabban	M_ADV USAGE: substandard ADV,;
+
+#akként	M_ADV  PRON_ADV ADV,;
+#akképp
+#akképpen	M_ADV  PRON_ADV ADV  ?USAGE: literary,;
+#akkor	T_ADV  PRON_ADV ADV,;
+#akkora,;
+#akkorára	T_ADV *A_ADV  PRON_ADV ADV,;
+#akkoriban	T_ADV  PRON_ADV ADV,;
+#akkorka
+#akkoron	T_ADV  PRON_ADV ADV,;
+#akkortájban	T_ADV  PRON_ADV ADV,;
+#akkortájt	T_ADV  PRON_ADV ADV,;
+
+#arra S_ADV  PRON_ADV ADV,;
+#arrább S_ADV  PRON_ADV ADV,;
+#arrébb S_ADV  PRON_ADV ADV,;
+#arrafelé S_ADV  PRON_ADV ADV,;
+#arról S_ADV  PRON_ADV ADV,;
+#attól
+#avégre M_ADV  PRON_ADV ADV,;
+#avégbõl M_ADV  PRON_ADV ADV,;
+#avval
+#azúton M_ADV  PRON_ADV ADV,;
+#azonképpen M_ADV PRON_ADV ADV,;
+
+#imide-amoda	S_ADV  ADV,;
+#imígy	M_ADV  PRON_ADV ADV,;
+#imígy-amúgy	M_ADV ADV,;
+#imigyen	M_ADV  PRON_ADV ADV,;
+#iminnen-amonnan	S_ADV  ADV,;
+#imitt	S_ADV  PRON_ADV ADV,;
+#imitt-amott	S_ADV  ADV,;
+
+#emerre S_ADV  PRON_ADV ADV,;
+#emide	S_ADV  PRON_ADV ADV,;
+#emígy	M_ADV  PRON_ADV ADV,;
+#eminnen	S_ADV  PRON_ADV ADV,;
+#eminnét	S_ADV  PRON_ADV ADV,;
+#emitt	S_ADV  PRON_ADV ADV,;
+
+#amakkor T_ADV  PRON_ADV ADV,;
+#amarra S_ADV  PRON_ADV ADV,;
+#amarról S_ADV  PRON_ADV ADV,;
+#amoda S_ADV  PRON_ADV ADV,;
+#amonnan S_ADV  PRON_ADV ADV,;
+#amonnét S_ADV  PRON_ADV ADV,;
+#amott	S_ADV  PRON_ADV ADV,;
+#amúgy M_ADV  PRON_ADV ADV,;
+
+#bárhogy M_ADV  PRON_ADV ADV,;
+#bárhogyan M_ADV  PRON_ADV ADV,;
+#bárhol S_ADV  PRON_ADV ADV,;
+#bárhonnan S_ADV  PRON_ADV ADV,;
+#bárhonnét S_ADV  PRON_ADV ADV,;
+#bárhova S_ADV  PRON_ADV ADV,;
+#bárhová,;
+#bármeddig S_ADV T_ADV  PRON_ADV ADV,;
+#bármennyire A_ADV PRON_ADV ADV,;
+#bármerre S_ADV  PRON_ADV ADV,;
+#bármerrõl S_ADV  PRON_ADV ADV,;
+#bármikor T_ADV  PRON_ADV ADV,;
+#bármint C_ADV  PRON_ADV ADV,;
+
+#eddig S_ADV T_ADV  PRON_ADV ADV,;
+#eddigelé T_ADV  PRON_ADV ADV,;
+#ekként M_ADV  PRON_ADV ADV,;
+#ekképpen M_ADV  PRON_ADV ADV,;
+#ekkor T_ADV  PRON_ADV ADV,;
+#ekkorára A_ADV PRON_ADV ADV,;
+#ekkoriban	T_ADV  PRON_ADV ADV,;
+#ekkoron	T_ADV  PRON_ADV ADV,;
+#ekkortájban	T_ADV  PRON_ADV ADV,;
+#ekkortájt	T_ADV  PRON_ADV ADV,;
+#éppígy	M_ADV  PRON_ADV ADV,;
+#éppoda	S_ADV  PRON_ADV ADV,;
+#éppúgy	M_ADV  PRON_ADV ADV,;
+#erre S_ADV  PRON_ADV ADV,;
+#erre-amarra S_ADV  PRON_ADV ADV,;
+#erre-arra	S_ADV  PRON_ADV ADV,;
+errébb	S_ADV  PRON_ADV ADV,;
+#errefelé S_ADV  PRON_ADV ADV,;
+#errõl S_ADV  PRON_ADV ADV,;
+#evégbõl M_ADV  PRON_ADV ADV,;
+evégre	M_ADV  PRON_ADV ADV,;
+#ezenképpen	M_ADV  PRON_ADV ADV,;
+#ezúton M_ADV PRON_ADV ADV,;
+#ezúttal T_ADV PRON_ADV ADV,;
+
+#hogy M_ADV  PRON_ADV ADV,;
+#hogyan M_ADV  PRON_ADV ADV,;
+#hogyhogy E_ADV PRON_ADV ADV,;
+#hogymint M_ADV  PRON_ADV ADV,;
+#hol S_ADV  PRON_ADV ADV,;
+#honn	S_ADV  PRON_ADV ADV,;
+#honnan S_ADV  PRON_ADV ADV,;
+#honnét S_ADV  PRON_ADV ADV,;
+#hova S_ADV  PRON_ADV ADV,;
+#hun S_ADV  PRON_ADV ADV,;
+
+#merre S_ADV  PRON_ADV ADV,;
+#merrefelé S_ADV  PRON_ADV ADV,;
+#merrõl S_ADV  PRON_ADV ADV,;
+#mettõl T_ADV  PRON_ADV ADV,;
+#miért M_ADV  PRON_ADV ADV,;
+#miként M_ADV  PRON_ADV ADV,;
+#miképpen M_ADV  PRON_ADV ADV,;
+#mikor T_ADV  PRON_ADV ADV,;
+#mikoron T_ADV  PRON_ADV ADV,;
+#miközben T_ADV  PRON_ADV ADV,;
+#milyenkor T_ADV  PRON_ADV ADV,;
+#minek C_ADV  PRON_ADV ADV,;
+#mióta T_ADV  PRON_ADV ADV,;
+#mire T_ADV  PRON_ADV ADV,;
+
+#mindenfelé	S_ADV  PRON_ADV ADV,;
+#mindenfelõl	S_ADV  PRON_ADV ADV,;
+#mindenha	T_ADV  PRON_ADV ADV,;
+#mindenhogyan M_ADV  PRON_ADV ADV,;
+#mindenhogy M_ADV  PRON_ADV ADV,;
+#mindenhol S_ADV  PRON_ADV ADV,;
+#mindenhonnan S_ADV  PRON_ADV ADV,;
+#mindenhonnét S_ADV  PRON_ADV ADV,;
+#mindenhova S_ADV  PRON_ADV ADV,;
+#mindenkor T_ADV  PRON_ADV ADV,;
+#mindenünnen	S_ADV  PRON_ADV ADV,;
+#mindenünnét	S_ADV  PRON_ADV ADV,;
+#mindenütt	S_ADV  PRON_ADV ADV,;
+#mindenüvé	S_ADV  PRON_ADV ADV,;
+#mindig	T_ADV  PRON_ADV ADV,;
+
+#sehogy M_ADV PRON_ADV ADV,;
+#sehogyan M_ADV  PRON_ADV ADV,;
+#sehol S_ADV  PRON_ADV ADV,;
+#sehonnan S_ADV  PRON_ADV ADV,;
+#sehonnét S_ADV  PRON_ADV ADV,;
+#semeddig S_ADV T_ADV  PRON_ADV ADV,;
+#semerre S_ADV  PRON_ADV ADV,;
+#semerrõl S_ADV  PRON_ADV ADV,;
+#semmikor  M_ADV  PRON_ADV ADV,;
+semmiletteképpen	M_ADV PRON_ADV ADV,;
+#soha	T_ADV  PRON_ADV ADV,;
+#sose	T_ADV  PRON_ADV ADV,;
+#sohse	T_ADV  PRON_ADV ADV,;
+#sohase	T_ADV  PRON_ADV ADV,;
+#sohasem	T_ADV  PRON_ADV ADV,;
+
+#ugyanakkor T_ADV  PRON_ADV ADV,;
+#ugyanekkor T_ADV  PRON_ADV ADV,;
+#ugyanide S_ADV  PRON_ADV ADV,;
+#ugyanígy M_ADV  PRON_ADV ADV,;
+#ugyaninnen	S_ADV  PRON_ADV ADV,;
+#ugyaninnét	S_ADV  PRON_ADV ADV,;
+#ugyanitt 	S_ADV  PRON_ADV ADV,;
+#ugyanitten	S_ADV  PRON_ADV ADV,;
+#ugyanoda	S_ADV  PRON_ADV ADV,;
+#ugyanonnan	S_ADV  PRON_ADV ADV,;
+#ugyanonnét	S_ADV  PRON_ADV ADV,;
+#ugyanott	S_ADV  PRON_ADV ADV,;
+#ugyanottan	S_ADV  PRON_ADV ADV,;
+#ugyanúgy M_ADV  PRON_ADV ADV,;
+#ugyanannyira A_ADV PRON_ADV ADV,;
+
+#valahogy M_ADV  PRON_ADV ADV,;
+#valahol S_ADV  PRON_ADV ADV,;
+#valahonnan S_ADV  PRON_ADV ADV,;
+#valahonnét S_ADV  PRON_ADV ADV,;
+#valahova S_ADV  PRON_ADV ADV,;
+#valameddig S_ADV T_ADV  PRON_ADV ADV,;
+#valamelyest I_ADV A_ADV  PRON_ADV ADV,;
+#valamennyire I_ADV A_ADV  PRON_ADV ADV,;
+#valamerre S_ADV  PRON_ADV ADV,;
+#valamerrõl S_ADV  PRON_ADV ADV,;
+#valamíg	T_ADV  PRON_ADV ADV,;
+#valamiként	C_ADV  PRON_ADV ADV,;
+#valamiképpen	M_ADV  PRON_ADV ADV,;
+#valamikor T_ADV  PRON_ADV ADV,;
+#valamint T_ADV PRON_ADV ADV,;
+#valamicskét	A_ADV I_ADV  PRON_ADV ADV,;
+
+#másfelé	S_ADV  PRON_ADV ADV,;
+#másfelõl	S_ADV  PRON_ADV ADV,;
+#máshogy	M_ADV  PRON_ADV ADV,;
+#máshogyan	M_ADV  PRON_ADV ADV,;
+#máshol	S_ADV  PRON_ADV ADV,;
+#máshonnan	S_ADV  PRON_ADV ADV,;
+#máshonnét	S_ADV  PRON_ADV ADV,;
+#máshova	S_ADV  PRON_ADV ADV,;
+#másként	M_ADV  PRON_ADV ADV,;
+#másképpen	M_ADV  PRON_ADV ADV,;
+#máskor	T_ADV  PRON_ADV ADV,;
+#másunnan	S_ADV  PRON_ADV ADV,;
+#másutt	S_ADV  PRON_ADV ADV,;
+
+#ilyenformán	M_ADV  PRON_ADV ADV,;
+#ilyenképpen	M_ADV  PRON_ADV ADV,;
+#ilyenkor	T_ADV  PRON_ADV ADV,;
+#ilyentájban	T_ADV  PRON_ADV ADV,;
+#ilyentájt	T_ADV  PRON_ADV ADV,;
+#ilyeténképpen	M_ADV  PRON_ADV ADV,;
+#ilyképpen	M_ADV  PRON_ADV ADV,;
+
+#olyanformán	M_ADV PRON_ADV ADV,;
+#olyanképpen	M_ADV PRON_ADV ADV,;
+#olyankor	T_ADV PRON_ADV ADV,;
+#olyannyira	A_ADV I_ADV PRON_ADV ADV,;
+#olyantájban	T_ADV PRON_ADV ADV,;
+#olyantájt	T_ADV PRON_ADV ADV,;
+#olyaténképp	M_ADV PRON_ADV ADV,;
+#olyaténképpen	M_ADV PRON_ADV ADV,;
+
+#olyformán	M_ADV PRON_ADV ADV,;
+#olyképpen	M_ADV PRON_ADV ADV,;
+

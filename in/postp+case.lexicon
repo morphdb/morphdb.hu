@@ -1,0 +1,890 @@
+# this means an empty lemma so that grammar operations
+# will determine the lemma/stem
+""
+
+# PERSONAL PRONOUNS AND INFLECTED CASES
+
+# nominative paradigm 
+, én	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>>
+, te	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>>
+, õ	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS>
+, mi	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR> 
+, ti	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR> 
+, õk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR>
+, mink	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR> USAGE: substandard
+, tik	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR> USAGE: substandard
+
+# accusative forms
+, engem		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ACC>>
+, engemet	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ACC>>
+, téged		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ACC>>
+, tégedet	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ACC>>
+, õt		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ACC>>
+, minket	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ACC>>
+, bennünket	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ACC>>
+, mibennünket	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ACC>>
+, titeket	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ACC>>
+, benneteket	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ACC>>
+, tibenneteket	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ACC>>
+, õket		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ACC>>
+
+# dative forms, half productive
+# kivettem a half produktivitast, mert az is forditva generalta az esetet
+
+
+#, nek		PERS_PRON !pp_3sg !pp_3pl !pp_2pl TAG: <CAS<DAT>>
+, nekem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<DAT>>
+, nékem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<DAT>> USAGE: archaic
+, énnekem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<DAT>>
+, neked	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<DAT>>
+, néked	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<DAT>> USAGE: archaic
+, teneked	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<DAT>>
+, neki		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<DAT>>
+, õneki		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<DAT>>
+, nekik		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<DAT>>
+, õnekik	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<DAT>>
+, nekünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<1>><PLUR><CAS<DAT>>
+, nékünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<1>><PLUR><CAS<DAT>> USAGE: archaic
+, minekünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<1>><PLUR><CAS<DAT>>
+, nektek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<DAT>>
+, tinektek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<DAT>>
+, néktek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<DAT>>
+#, nék		PERS_PRON !pp_3sg !pp_3pl !pp_2pl TAG: <CAS<DAT>>
+, néki		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<DAT>> USAGE: archaic
+, õnéki		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<DAT>>
+, nékik		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<DAT>> USAGE: archaic
+, õnékik	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<DAT>>
+, néktek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<DAT>> USAGE: archaic
+, tinéktek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<DAT>>
+
+# ####################
+# oblique cases 
+# personal pronouns
+# ####################
+
+#, benn		PERS_PRON
+#		TAG: <CAS<INE>>
+, bennem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<INE>>
+, benned	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<INE>>
+, benne		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<INE>>
+, bennünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<INE>>
+, bennetek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<INE>>
+, bennük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<INE>>
+, énbennem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<INE>>
+, tebenned	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<INE>>
+, õbenne		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<INE>>
+, mibennünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<INE>>
+, tibennetek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<INE>>
+, õbennük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<INE>>
+
+#, bele	PERS_PRON 
+#	TAG: <CAS<ILL>> 
+, belém	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ILL>>
+, beléd	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ILL>>
+, belé		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ILL>>
+, bele		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ILL>>
+, beléje		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ILL>> USAGE: substandard
+, belénk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ILL>>
+, belétek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ILL>>
+, beléjük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ILL>>
+, énbelém	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ILL>>
+, tebeléd	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ILL>>
+, õbelé		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ILL>>
+, õbeléje		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ILL>> USAGE: substandard
+, mibelénk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ILL>>
+, tibelétek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ILL>>
+, õbeléjük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ILL>>
+
+
+#, belõl	PERS_PRON 
+#	TAG: <CAS<ELA>> 
+, belõlem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ELA>>
+, belõled	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ELA>>
+, belõle		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ELA>>
+, belõlünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ELA>>
+, belõletek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ELA>>
+, belõlük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ELA>>
+, énbelõlem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ELA>>
+, tebelõled	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ELA>>
+, õbelõle		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ELA>>
+, mibelõlünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ELA>>
+, tibelõletek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ELA>>
+, õbelõlük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ELA>>
+
+
+#, rajt	PERS_PRON 
+#	TAG: <CAS<SUE>> 
+, rajtam	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<SUE>>
+, rajtad	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<SUE>>
+, rajta		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<SUE>>
+, rajtunk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<SUE>>
+, rajtatok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<SUE>>
+, rajtuk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<SUE>>
+, énrajtam	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<SUE>>
+, terajtad	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<SUE>>
+, õrajta		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<SUE>>
+, mirajtunk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<SUE>>
+, tirajtatok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<SUE>>
+, õrajtuk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<SUE>>
+
+#, rá	PERS_PRON 
+#	TAG: <CAS<SBL>> 
+, rám	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<SBL>>
+, rád	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<SBL>>
+, rá		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<SBL>>
+, ránk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<SBL>>
+, rátok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<SBL>>
+, rájuk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<SBL>>
+, énrám	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<SBL>>
+, terád	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<SBL>>
+, õrá		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<SBL>>
+, miránk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<SBL>>
+, tirátok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<SBL>>
+, õrájuk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<SBL>>
+
+#, reá	PERS_PRON 
+#	TAG: <CAS<SBL>>   USAGE: archaic
+, reám	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<SBL>> USAGE: archaic
+, reád	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<SBL>> USAGE: archaic
+, reá		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<SBL>> USAGE: archaic
+, reánk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<SBL>>  USAGE: archaic
+, reátok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<SBL>> USAGE: archaic
+, reájuk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<SBL>> USAGE: archaic
+, énreám	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<SBL>> USAGE: archaic
+, tereád	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<SBL>> USAGE: archaic
+, õreá		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<SBL>> USAGE: archaic
+, mireánk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<SBL>> USAGE: archaic
+, tireátok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<SBL>> USAGE: archaic
+, õreájuk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<SBL>> USAGE: archaic
+
+
+#, ról	PERS_PRON 
+#	TAG: <CAS<DEL>> 
+, rólam	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<DEL>>
+, rólad	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<DEL>>
+, róla		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<DEL>>
+, rólunk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<DEL>>
+, rólatok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<DEL>>
+, róluk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<DEL>>
+, énrólam	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<DEL>>
+, terólad	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<DEL>>
+, õróla		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<DEL>>
+, mirólunk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<DEL>>
+, tirólatok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<DEL>>
+, õróluk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<DEL>>
+
+
+#, nál	PERS_PRON 
+#	TAG: <CAS<ADE>> OUT: pp_nál
+# nálamnál
+, nálam	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ADE>>
+, nálamnál	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ADE>>
+, nálad	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ADE>>
+, náladnál	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ADE>>
+, nála	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ADE>>
+, nálánál	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ADE>>
+, nálunk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ADE>>
+, nálunknál	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ADE>>
+, nálatok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ADE>>
+, náluk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ADE>>
+, énnálam	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ADE>>
+, tenálad	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ADE>>
+, õnála	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ADE>>
+, minálunk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ADE>>
+, tinálatok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ADE>>
+, õnáluk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ADE>>
+
+
+#, tõl	PERS_PRON 
+#	TAG: <CAS<ABL>> 
+, tõlem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ABL>>
+, tõled	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ABL>>
+, tõle		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ABL>>
+, tõlünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ABL>>
+, tõletek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ABL>>
+, tõlük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ABL>>
+, éntõlem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ABL>>
+, tetõled	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ABL>>
+, õtõle		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ABL>>
+, mitõlünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ABL>>
+, titõletek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ABL>>
+, õtõlük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ABL>>
+
+
+#, hozzá	PERS_PRON 
+#	TAG: <CAS<ALL>> OUT: pp_ig
+# hozzámig
+, hozzám	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ALL>>
+, hozzámig	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ALL>>
+, hozzád	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ALL>>
+, hozzá	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ALL>>
+, hozzánk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ALL>>
+, hozzátok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ALL>>
+, hozzájuk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ALL>>
+, énhozzám	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<ALL>>
+, tehozzád	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<ALL>>
+, õhozzá	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<ALL>>
+, mihozzánk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<ALL>>
+, tihozzátok	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<ALL>>
+, õhozzájuk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<ALL>>
+
+
+#, vel	PERS_PRON 
+#	TAG: <CAS<INS>>
+, velem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<INS>>
+, veled	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<INS>>
+, vele		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<INS>>
+, velünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<INS>>
+, veletek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<INS>>
+, velük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<INS>>
+, énvelem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<INS>>
+, teveled	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<INS>>
+, õvele		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<INS>>
+, mivelünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<INS>>
+, tiveletek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<INS>>
+, õvelük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<INS>>
+
+
+#, vél	PERS_PRON 
+#	TAG: <CAS<INS>> USAGE: archaic
+, vélem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<INS>> USAGE: archaic
+, véled	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<INS>> USAGE: archaic
+, véle		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<INS>> USAGE: archaic
+, vélünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<INS>>  USAGE: archaic
+, véletek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<INS>> USAGE: archaic
+, vélük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<INS>> USAGE: archaic
+, énvélem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<INS>> USAGE: archaic
+, tevéled	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<INS>> USAGE: archaic
+, õvéle		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<INS>> USAGE: archaic
+, mivélünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<INS>> USAGE: archaic
+, tivéletek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<INS>> USAGE: archaic
+, õvélük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<INS>> USAGE: archaic
+
+
+#, ért	PERS_PRON 
+#	TAG: <CAS<CAU>> 
+, értem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<CAU>>
+, érted	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<CAU>>
+, érte		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<CAU>>
+, értünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<CAU>>
+, értetek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<CAU>>
+, értük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<CAU>>
+, énértem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<CAU>>
+, teérted	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<CAU>>
+, õérte		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<CAU>>
+, miértünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<CAU>>
+, tiértetek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<CAU>>
+, õértük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<CAU>>
+
+
+#, érett	PERS_PRON 
+#	TAG: <CAS<CAU>> USAGE: archaic
+, érettem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<CAU>> USAGE: archaic
+, éretted	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<CAU>> USAGE: archaic
+, érette		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<CAU>> USAGE: archaic
+, érettünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<CAU>>  USAGE: archaic
+, érettetek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<CAU>> USAGE: archaic
+, érettük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<CAU>> USAGE: archaic
+, énérettem	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: én TAG: /NOUN<PERS<1>><CAS<CAU>> USAGE: archaic
+, teéretted	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: te TAG: /NOUN<PERS<2>><CAS<CAU>> USAGE: archaic
+, õérette		FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õ  TAG: /NOUN<PERS><CAS<CAU>> USAGE: archaic
+, miérettünk	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: mi TAG: /NOUN<PERS<1>><PLUR><CAS<CAU>> USAGE: archaic
+, tiérettetek	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: ti TAG: /NOUN<PERS<2>><PLUR><CAS<CAU>> USAGE: archaic
+, õérettük	FREE: true PSEUDO_LEMMA: PERS_PRON LEMMA: õk TAG: /NOUN<PERS><PLUR><CAS<CAU>> USAGE: archaic
+
+
+# archaic usage
+# some only used in person inflected form
+
+, eléb	PERS_PRON 
+	TAG: <POSTP<ELÉBE>> 
+	USAGE: archaic 
+, elibe	POSTP	  
+	TAG: <POSTP<ELIBÉ>> 
+	USAGE: archaic 
+, elejbe	POSTP 
+	TAG: <POSTP<ELEJBE>> 
+	USAGE: archaic 
+, fölibe	PERS_PRON
+	TAG: <POSTP<FÖLIBE>>
+	USAGE: archaic 
+, közibé
+	PERS_PRON 
+	TAG: <POSTP<KÖZIBE>> 
+	USAGE: archaic 
+, közib	PERS_PRON 
+	TAG: <POSTP<KÖZIBE>> 
+	USAGE: archaic 
+
+# körülöttem -> körül névutó körülött helyett
+, körülött	
+	PERS_PRON 
+	TAG: <POSTP<KÖRÜL>>
+, körött	
+	PERS_PRON 
+	TAG: <POSTP<KÖRÖTT>>
+
+#############################
+# postpositions 
+#############################
+# well behaved ones: 
+# most similar to case
+# inflec for person, number
+# have demonstrative forms
+# and i-derived adjectival uses
+################################
+
+, alatt	DEM_PRON PERS_PRON POSTP
+	# under X
+	aff_i 
+	TAG: <POSTP<ALATT>>
+, alá	DEM_PRON PERS_PRON POSTP
+	# (to) under X
+	TAG: <POSTP<ALÁ>>
+, alól	DEM_PRON PERS_PRON POSTP
+	# from under X
+	OUT: aff_i  
+	TAG: <POSTP<ALÓL>>
+, felett	DEM_PRON PERS_PRON POSTP
+	# above X, over X
+	OUT: aff_i  
+	TAG: <POSTP<FELETT>>
+, fölött	DEM_PRON PERS_PRON POSTP
+	# above X, over X
+	OUT: aff_i  
+	TAG: <POSTP<FELETT>>
+, felé		DEM_PRON PERS_PRON POSTP
+	# towards X
+	TAG: <POSTP<FELÉ>>
+, fölé		DEM_PRON PERS_PRON POSTP
+	# above X, over X
+	TAG: <POSTP<FÖLÉ>>
+, felõl		DEM_PRON PERS_PRON POSTP
+	# from (the direction of) X, as for X 
+	OUT: aff_i  
+	TAG: <POSTP<FELÕL>>
+, felül		DEM_PRON PERS_PRON POSTP
+	# from (above/over) X
+	OUT: aff_i  
+	TAG: <POSTP<FELÜL>>
+, fölül		DEM_PRON PERS_PRON POSTP
+	# from (above/over) X
+	OUT: aff_i  
+	TAG: <POSTP<FÖLÜL>>
+, elõtt		DEM_PRON PERS_PRON POSTP
+	# before X, in front of X
+	OUT: aff_i  
+	TAG: <POSTP<ELÕTT>>	
+, elé		DEM_PRON PERS_PRON POSTP
+	# before X, in front of X
+	TAG: <POSTP<ELÉ>>		
+, elõl		DEM_PRON PERS_PRON POSTP
+	# from (in front of) X
+	OUT: aff_i  
+	TAG: <POSTP<ELÕL>>
+, mögött	DEM_PRON PERS_PRON POSTP
+	# behind X
+	OUT: aff_i  
+	TAG: <POSTP<MÖGÖTT>>	
+, mögé		DEM_PRON PERS_PRON POSTP
+	# (to) behind X
+	TAG: <POSTP<MÖGÉ>>	
+, mögül		DEM_PRON PERS_PRON POSTP
+	# from (behind) X
+	OUT: aff_i  
+	TAG: <POSTP<MÖGÜL>>	
+, mellett	DEM_PRON PERS_PRON POSTP
+	# beside X, by X, (somewhere) near X
+	OUT: aff_i  
+	TAG: <POSTP<MELLETT>>
+, mellé	DEM_PRON PERS_PRON POSTP
+	# to somewhere near X
+	TAG: <POSTP<MELLÉ>>
+, mellõl	DEM_PRON PERS_PRON POSTP
+	# from somewhere near X
+	OUT: aff_i
+	TAG: <POSTP<MELLÕL>>	
+, között	DEM_PRON PERS_PRON POSTP
+	# between X, among X
+	OUT: aff_i  
+	TAG: <POSTP<KÖZÖTT>>
+, közt		DEM_PRON PERS_PRON POSTP
+	# between X, among X
+	OUT: aff_i
+	TAG: <POSTP<KÖZÖTT>>
+, közé	DEM_PRON PERS_PRON POSTP
+	# to (between many, among many) X
+	TAG: <POSTP<KÖZÉ>>
+, közül		DEM_PRON PERS_PRON POSTP
+	# out of X, from among X
+	OUT: aff_i
+	TAG: <POSTP<KÖZÜL>>
+, köré	DEM_PRON PERS_PRON POSTP
+	# (to) around X
+	TAG: <POSTP<KÖRÉ>>
+
+#, körül	OUT: aff_i  TAG: <POSTP<KÖRÜL>> 	# around X
+
+, után	DEM_PRON PERS_PRON POSTP
+	# after X
+	OUT: aff_i
+	TAG: <POSTP<UTÁN>>
+, helyett	DEM_PRON PERS_PRON POSTP
+	# instead of X
+	OUT: aff_i
+	TAG: <POSTP<HELYETT>>
+, nélkül	DEM_PRON PERS_PRON POSTP
+	# without X
+	OUT: aff_i
+	TAG: <POSTP<NÉLKÜL>>
+, miatt	DEM_PRON PERS_PRON POSTP
+	# because of X
+	OUT: aff_i
+	TAG: <POSTP<MIATT>>
+, által	DEM_PRON PERS_PRON POSTP
+	# by X, by way of X
+	OUT: aff_i
+	TAG: <POSTP<ÁLTAL>>
+, szerint	DEM_PRON PERS_PRON POSTP
+	# according to X
+	OUT: aff_i
+	TAG: <POSTP<SZERINT>>
+, ellen	DEM_PRON PERS_PRON POSTP
+	# against X
+	OUT: aff_i
+	TAG: <POSTP<ELLEN>>
+, iránt	DEM_PRON PERS_PRON POSTP
+	# towards X (feelings, interest, demand)
+	OUT: aff_i
+	TAG: <POSTP<IRÁNT>>
+
+# person marking with infixing
+
+, ellenére	POSTP
+ 	# contrary to X
+	TAG: <POSTP<ELLENÉRE>>
+, ellen		PERS_PRON
+ 	# contrary to X
+	TAG: <POSTP<ELLENÉRE>>
+	OUT: pp_re pp_appendix
+, számára	POSTP
+ 	# for X (recipient) 
+	TAG: <POSTP<SZÁMÁRA>>
+, szám		PERS_PRON	
+ 	# for X (recipient) 
+	TAG: <POSTP<SZÁMÁRA>>
+	OUT: non_low pp_re pp_appendix
+, részére	POSTP
+	# for X
+	TAG: <POSTP<RÉSZÉRE>>
+, rész		PERS_PRON
+	# for X
+	TAG: <POSTP<RÉSZÉRE>>
+	OUT: pp_re pp_appendix
+, részérõl	POSTP
+	# as concerns X
+	TAG: <POSTP<RÉSZÉRÕL>>
+, rész		PERS_PRON
+	# as concerns X
+	TAG: <POSTP<RÉSZÉRÕL>>
+	OUT: pp_ról pp_appendix
+, létére	POSTP
+	# contrary to being X
+	TAG: <POSTP<LÉTÉRE>>
+, lét	PERS_PRON
+	# contrary to being X
+	TAG: <POSTP<LÉTÉRE>>
+	OUT: pp_re pp_appendix
+
+
+#################################################
+# postps not  allowing person/number inflection #
+# but still having demonstrative forms          #
+#################################################
+
+# governing nominative 
+# still very much like case markers
+
+# these can have inflected demostrative forms
+
+, közben	DEM_PRON POSTP
+ 	# during X, in the course of X
+	OUT: aff_i 
+	TAG: <POSTP<KÖZBEN>>
+, körül	DEM_PRON POSTP
+ 	# around X
+	OUT: aff_i 
+	TAG: <POSTP<KÖRÜL>>
+, körül	PERS_PRON
+	# around X
+	TAG: <POSTP<KÖRÜL>>
+	USAGE: archaic
+, végett	DEM_PRON POSTP
+	# because of X, for X (goal) 
+	# végetti? OUT: aff_i
+	TAG: <POSTP<VÉGETT>>
+, végbõl	DEM_PRON POSTP
+	# because of X, for X (goal)
+	TAG: <POSTP<VÉGBÕL>>
+	USAGE: archaic
+, végre 	DEM_PRON POSTP
+	# because of X, for X (goal)
+	TAG: <POSTP<VÉGRE>>
+	USAGE: archaic
+, óta 	DEM_PRON POSTP
+	# since X, for X (temporal)
+	# ótai? OUT: aff_i
+	TAG: <POSTP<ÓTA>>
+, fele 	DEM_PRON POSTP
+	# towards X # variant of FELÉ
+	# afele?
+	TAG: <POSTP<FELÉ>>
+
+
+#####################################################
+# ones lacking demonstratives as well
+# they all lack derivational suffixes too 
+#######################################################
+
+
+, múlva	POSTP
+	# in X (temporal)  
+	# múlvai? 	
+	OUT: aff_i
+	TAG: <POSTP<MÚLVA>> 
+, folytán	POSTP
+	# as a result of X
+	# afolytán?
+	TAG: <POSTP<FOLYTÁN>>
+, táján 	POSTP
+	# around X (approximately)
+	IF: postp 
+	TAG: <POSTP<TÁJÁN>>
+, mentén	POSTP
+	# along X
+	TAG: <POSTP<MENTÉN>>
+, gyanánt	POSTP
+	# as X
+	TAG: <POSTP<GYANÁNT>>
+, múltán	POSTP
+	# after X (in the past)
+	TAG: <POSTP<MÚLTÁN>>
+, múlván	POSTP
+	# in X (temporal)
+	TAG: <POSTP<MÚLVA>>
+	USAGE: archaic
+, közepette	POSTP
+	# during X 
+	TAG: <POSTP<KÖZEPETTE>>
+, közepett	POSTP
+	# during X 
+	TAG: <POSTP<KÖZEPETTE>>
+	USAGE: archaic
+, tájban	POSTP
+	# circa X (temporal)  
+	TAG: <POSTP<TÁJBAN>> 
+
+
+# some with strange registers?
+# variants of MIATT
+, miá	POSTP
+	# because of X
+	TAG: <POSTP<MIATT>>
+	USAGE: substandard
+, mián	POSTP
+	# because of X
+	TAG: <POSTP<MIATT>>
+	USAGE: substandard
+
+# postps with very restricted use
+# only with cardicals (3 times, see also suffix -szOr)
+, ízben	POSTP
+	# X times
+	TAG: <POSTP<ÍZBEN>>
+
+# apparently only in the 'X óra hosszat' ?? (see also 'naphosszat')
+, hosszat	POSTP
+	# for X hours
+	TAG: <POSTP<HOSSZAT>>
+
+#################################
+# postpositions with other cases
+# have no pers. or demonstrative forms
+# some have i derivations (képest)
+#################################
+
+# interestingly the ones used only as postpositions
+# mostly grammaticalized from adverbial participles 
+# or adj particple + adverbial suffix
+
+, virradóan	POSTP
+	TAG: <POSTP<VIRRADÓAN>>
+	GOV: NOUN<CAS<SBL>>
+, virradólag	POSTP
+	TAG: <POSTP<VIRRADÓAN>>
+	GOV: NOUN<CAS<SBL>>
+, vonatkozólag	POSTP
+	# concerning X, as regards X
+	TAG: <POSTP<VONATKOZÓLAG>>
+	GOV: NOUN<CAS<SBL>>
+, nézvést	POSTP
+	# concerning X, as for X
+	TAG: <POSTP<NÉZVÉST>>
+	GOV: NOUN<CAS<SBL>>
+, képest	POSTP
+	# compared to X
+	OUT: aff_i
+	TAG: <POSTP<KÉPEST>>
+	GOV: NOUN<CAS<ALL>>
+, fogva	POSTP
+	# because of X
+	TAG: <POSTP<FOGVA>>
+	GOV: NOUN<CAS<ADE>>	GOV: NOUN<CAS<ABL>>
+, fogvást	POSTP
+	# beginning from X
+	TAG: <POSTP<FOGVA>>
+	USAGE: archaic
+	GOV: NOUN<CAS<ADE>>	GOV: NOUN<CAS<ABL>>
+, kifolyólag	POSTP
+	# as a result of X
+	TAG: <POSTP<KIFOLYÓLAG>>
+	GOV: NOUN<CAS<ELA>>
+, folyólag	POSTP
+	# as a result of X
+	TAG: <POSTP<FOLYÓLAG>>
+	GOV: NOUN<CAS<ELA>>
+, adódóan	POSTP
+	# as a result of X
+	TAG: <POSTP<ADÓDÓAN>>
+	GOV: NOUN<CAS<ELA>>
+, nézve	POSTP
+	# concerning X
+	TAG: <POSTP<NÉZVE>>
+	GOV: NOUN<CAS<SBL>>
+, nézvést	POSTP
+	# concerning X
+	TAG: <POSTP<NÉZVÉST>>
+	GOV: NOUN<CAS<SBL>>
+, kezdve	POSTP
+	# beginning from X
+	TAG: <POSTP<KEZDVE>>
+	GOV: NOUN<CAS<ABL>>
+, indíttatva	POSTP
+	# motivated by X
+	TAG: <POSTP<INDÍTTATVA>>
+	GOV: NOUN<CAS<ABL>>
+
+# with non-participial origin
+, ezelõtt	POSTP
+	TAG: <POSTP<EZELÕTT>> # ago
+	GOV: NOUN<CAS<INS>>
+, egyetemben	POSTP
+	TAG: <POSTP<EGYETEMBEN>> # together with X
+	GOV: NOUN<CAS<INS>>
+, egyidejûleg	POSTP
+	TAG: <POSTP<EGYIDEJÛLEG>> # simultaneously with X
+	GOV: NOUN<CAS<INS>>
+, egyidõben	POSTP
+	TAG: <POSTP<EGYIDÕBEN>> # simultaneously with X
+	GOV: NOUN<CAS<INS>>
+, segítségével	POSTP
+	TAG: <POSTP<SEGÍTSÉGÉVEL>> # with the help of x
+	GOV: NOUN<CAS<INS>>
+, túlmenõen	POSTP
+	TAG: <POSTP<TÚLMENÕEN>> # over and above X
+	GOV: NOUN<CAS<SUE>>
+, következõleg	POSTP
+	TAG: <POSTP<KÖVETKEZÕLEG>>	# as a consequence of X
+	GOV: NOUN<CAS<ELA>>
+, eredõen	POSTP
+	TAG: <POSTP<EREDÕEN>>	# as a consequence of X
+	GOV: NOUN<CAS<ELA>>
+, fakadóan	POSTP
+	TAG: <POSTP<EREDÕEN>>	# as a consequence of X
+	GOV: NOUN<CAS<ELA>>
+, fakadólag	POSTP
+	TAG: <POSTP<EREDÕEN>>	# as a consequence of X
+	GOV: NOUN<CAS<ELA>>
+, megfelelõen	POSTP
+	TAG: <POSTP<MEGFELELÕEN>>	# according to /complying with X
+	GOV: NOUN<CAS<DAT>>
+, eltérõen	POSTP
+	TAG: <POSTP<ELTÉRÕEN>>	# different from X
+	GOV: NOUN<CAS<ADE>>
+, illetõleg	POSTP
+	TAG: <POSTP<ILLETÕLEG>>	# concerning X
+	GOV: NOUN<CAS<ACC>>
+, illetõen	POSTP
+	TAG: <POSTP<ILLETÕEN>>	# concerning X
+	GOV: NOUN<CAS<ACC>>
+, függõen	POSTP
+	TAG: <POSTP<FÜGGÕEN>>	# depending on X
+	GOV: NOUN<CAS<ABL>>
+, függetlenül	POSTP
+	TAG: <POSTP<FÜGGETLENÜL>>	# independing of X
+	GOV: NOUN<CAS<ABL>>
+, követõen	POSTP
+	TAG: <POSTP<KÖVETÕEN>>	# following X
+	GOV: NOUN<CAS<ACC>>
+, megelõzõen	POSTP
+	TAG: <POSTP<MEGELÕZÕEN>>	# preceeding X
+	GOV: NOUN<CAS<ACC>>
+, köszönhetõen	POSTP
+	TAG: <POSTP<KÖSZÖNHETÕEN>>	# thanks to X
+	GOV: NOUN<CAS<DAT>>
+, bezárólag	POSTP
+	TAG: <POSTP<BEZÁRÓLAG>> # up to X
+	GOV: NOUN<CAS<INS>>
+, karöltve	POSTP
+	TAG: <POSTP<KARÖLTVE>> # joining forces with X
+	GOV: NOUN<CAS<INS>>
+, ellentétben	POSTP
+	TAG: <POSTP<ELLENTÉTBEN>> # as opposed to X
+	GOV: NOUN<CAS<INS>>
+
+# also as preposition? 
+, innen	POSTP
+	OUT: aff_i
+	TAG: <POSTP<INNEN>>	# not beyond X
+	GOV: NOUN<CAS<SUE>>
+, innét	POSTP
+	TAG: <POSTP<INNÉT>>
+	USAGE: substandard
+	GOV: NOUN<CAS<SUE>>
+	#the same as innen
+
+######################################################
+# originate in spatial adverbials
+# the following also allow use as preposition-like adverbs
+# however only with a very restricted (usually most direct spatial) meaning:
+
+# some of these have -i adectival derivations
+
+# through/via
+# thought over
+# hegyrõl le, a hídon át, majd balra
+# hegyrõl le, át a hídon, majd balra
+# via (calling at)
+# Amszterdamon át Edinburgh-ba
+# *át Amszterdamon Edinburgh-ba 
+, át	POSTP
+	TAG: <POSTP<ÁT>>
+	GOV: NOUN<CAS<SUE>>
+
+# 'through Peter' 
+# Péteren keresztül: know someone/pierce a needle through Peter
+# keresztül Péteren: basically run over Peter
+, keresztül	POSTP
+	TAG: <POSTP<KERESZTÜL>> 
+	OUT: aff_i
+	GOV: NOUN<CAS<SUE>>
+
+# postp: outside, besides/apart from, 
+# pret: outside
+, kívül	POSTP
+	TAG: <POSTP<KÍVÜL>>
+	OUT: aff_i
+	GOV: NOUN<CAS<SUE>>
+# postp: inside, within (temp)
+# prep: inside
+, belül	POSTP
+	TAG: <POSTP<BELÜL>> 
+	OUT: aff_i
+	GOV: NOUN<CAS<SUE>>
+
+# facing (not really having non-spatial meanings)
+# facing, opposite; contrary to
+, szemben	POSTP
+	TAG: <POSTP<SZEMBEN>>
+	OUT: aff_i
+	GOV: NOUN<CAS<INS>>
+, szembe	POSTP
+	TAG: <POSTP<SZEMBE>>
+	GOV: NOUN<CAS<INS>>
+, szemközt	POSTP
+	TAG: <POSTP<SZEMKÖZT>>
+	OUT: aff_i
+	GOV: NOUN<CAS<INS>>
+
+# abstract meanings are fine with prepositional use
+# over, over and above, apart from, beyond, besides
+, túl	POSTP
+	TAG: <POSTP<TÚL>>
+	OUT: aff_i
+	GOV: NOUN<CAS<SUE>>
+
+, túlra	POSTP
+	TAG: <POSTP<TÚLRA>>
+	GOV: NOUN<CAS<SUE>>
+
+, túlról	POSTP
+	TAG: <POSTP<TÚLRÓL>>
+	GOV: NOUN<CAS<SUE>>
+
+# only abstract meanings, no distinction between prep/postp
+# with regards to 
+, tekintettel	POSTP
+	TAG: <POSTP<TEKINTETTEL>>
+	GOV: NOUN<CAS<SBL>>
+
+# together with
+, együtt	POSTP
+	OUT: aff_i
+	TAG: <POSTP<EGYÜTT>>
+	GOV: NOUN<CAS<INS>>
+
+# only abstract
+# as preposition only with dative 
+# as postposition also with nominative
+# in want of, lacking
+, híján	POSTP
+	TAG: <POSTP<HIJÁN>>
+	GOV: NOUN<CAS<DAT>>
+
+# thanks to X
+, hála	POSTP
+	TAG: <POSTP<HÁLA>>
+	GOV: NOUN<CAS<DAT>>
+
+# also with dative + definite article construction 
+, jóvoltából	 POSTP TAG: <POSTP<JÓVOLTÁBÓL>>	# thanks to X, with the help of X
+, rovására	 POSTP TAG: <POSTP<ROVÁSÁRA>>	# ?
+, nevében	 POSTP TAG: <POSTP<NEVÉBEN>>	# on behalf of X, in the name of X
+
+, tájt		 POSTP TAG: <POSTP<TÁJT>>	# around X (temporal)
+, múltával	POSTP TAG: <POSTP<MÚLTÁVAL>>	# with X passed
+, révén		 POSTP TAG: <POSTP<RÉVÉN>>	# with the help of X
+, folyamán	 POSTP TAG: <POSTP<FOLYAMÁN>>	# in the course of X, during X
+, kapcsán	 POSTP TAG: <POSTP<KAPCSÁN>>	# in relation to X
+, alapján	 POSTP TAG: <POSTP<ALAPJÁN>>	# on the basis of X
+, esetén	 POSTP TAG: <POSTP<ESETÉN>>	# in case of X
+, láttán	 POSTP TAG: <POSTP<LÁTTÁN>>	# on seeing X
+, hallatán	 POSTP TAG: <POSTP<HALLATÁN>>	# after hearing X
+, hallatára	 POSTP TAG: <POSTP<HALLATÁRA>>	# after hearing X
+, nyomán	 POSTP TAG: <POSTP<NYOMÁN>>	# on the basis of X, after X
+, útján		 POSTP TAG: <POSTP<ÚTJÁN>>	# by way of X
+, során		 POSTP TAG: <POSTP<SORÁN>>	# in the course of X, during X
+, fejében	 POSTP TAG: <POSTP<FEJÉBEN>	# in exchange of X
+, hiányában	 POSTP TAG: <POSTP<HIÁNYÁBAN>	# in want of X
+, érdekében	 POSTP TAG: <POSTP<ÉRDEKÉBEN>>	# in the interest of X, for X
+, dacára	 POSTP TAG: <POSTP<DACÁRA>>	# despite X, in spite of X
+, tetejébe	 POSTP TAG: <POSTP<TETEJÉBE>>	# on top of X
+, elõrehaladtával	POSTP	TAG: <POSTP<ELÕREHALADTÁVAL>>	# as X progressed
+, beálltával		POSTP	TAG: <POSTP<BEÁLLTÁVAL>>	# as X ensued
+, végeztével	 POSTP TAG: <POSTP<VÉGEZTÉVEL>>	# after X
+, lejártával	 POSTP TAG: <POSTP<LEJÁRTÁVAL>>	# as X ran out
+, közeledtével	 POSTP TAG: <POSTP<KÖZELEDTÉVEL>>	# as X is approaching
+, következtében	 POSTP TAG: <POSTP<KÖVETKEZTÉBEN>>	# as a consequence of X
+, bekövetkeztével	 POSTP TAG: <POSTP<BEKÖVETKEZTÉVEL>>	# as X ensued
+, létrejöttével	 POSTP TAG: <POSTP<LÉTREJÖTTÉVEL>>	# as X came about
+, leteltével	 POSTP TAG: <POSTP<LETELTÉVEL>>	# as X ran out
+, elmúltával	 POSTP TAG: <POSTP<ELMÚLTÁVAL>>	# as X past
+, eredményeképpen	 POSTP TAG: <POSTP<EREDMÉNYEKÉPPEN>>	# as a result of X
+, erejéig	 POSTP TAG: <POSTP<EREJÉIG>>	# to the extent of X
+, elteltével	 POSTP TAG: <POSTP<ELTELTÉVEL>>	# after X (period of time)
+, ellenében	 POSTP TAG: <POSTP<ELLENÉBEN>>	# against X
+, ellenébe	 POSTP TAG: <POSTP<ELLENÉBE>>	# against X
+, alul	POSTP #????
+
+
+;

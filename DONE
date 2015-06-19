@@ -1,0 +1,332 @@
+L: a Magyar helyesírás szabályai 11. kiadását
+megel?z? helyesírást is elfogad. Ilyen, kés?bb
+nem említett példák: *bédekker (bedekker),
+*ekhó (echó), *trikolor (trikolór), *mammut
+(mamut), *ventillátor (ventilátor), *Vietnám
+(Vietnam) stb. Valahol csak a rossz alakot
+engedi: *avatar (avatár).
+
+V: ezek teljességgel szótári problémák, a normatíve nem helyeselt alak
+nem törlend?, hanem USAGE: substandard_orth jeggyel kell ellátni
+
+VP: DONE, kivéve Vietnam: a ner.lexiconban kétszer van.
+06.04.14
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+L: *bírtél
+
+V: a pofám leszakad, hogy ez nincs még mindig rendesen megcsinálva...
+lásd V_FRONT_BACK_HARMONY_FILTER
+egyszótagú i/í-s igék kivételei
+ír, vív, sír, irt, fing
+a szótárban duplikátumok vannak, valamiért az fkp-b?l nem sikerült
+kisajtolni információt a back-ségre vonatkozóan (VP, dehát miért,
+miért miért nem?) és csak ezért nem kerültek összevonásra az alakok.
+A fenti 5-öt (természetesen igeköt?s variánsukkal együtt)
+kijavítottam, de ki tudja hány van még? Ki tudja? én:
+
+grep '^[^aeiouáé?úöüóí]*[ií][^aeiouáé?úöüóí]*  ' in/peeta.lexicon|grep VERB|cut -f1|sort -u
+
+bír
+bíz
+csíp
+hint
+hisz
+hív
+ing
+int
+irt
+nincs
+nyit
+nyí
+nyír
+ring
+rí
+szid
+szít
+szív
+sí
+sír
+tilt
+
+VP feladata szerintem
+VP:DONE
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+L: *jóat, 
+V: 
+> jóat
+UNKNOWN
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+L: -ankénti mint nként + i ADV->ADJ képzés
+és 
+-hatnéka/ja 
+
+V: pótolva
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+L: 
+hollósodik,  hollótlanodik,  hollósodottság, hollósítottság; 
+
+V: aff_ul (odik/ul) hiányzott a generális NOM jegyörökléseknél !!!!!!
+és az aff_ság hiányzott a -tt particípium lehetséges folytatásai
+között
+FIXED
+> hollósodik
+holló/NOUN[ATTRIB]/ADJ[INTRANS_RESULT]/VERB
+hollótlanodik
+> hollótlanodik
+holló/NOUN[NEG_ATTRIB]/ADJ[INTRANS_RESULT]/VERB
+hollótlanodottság
+> hollótlanodottság
+holló/NOUN[NEG_ATTRIB]/ADJ[INTRANS_RESULT]/VERB[PERF_PART]/ADJ[ABSTRACT]/NOUN
+hollósítottság
+> hollósítottság
+holló/NOUN[ATTRIB]/ADJ[TRANS_RESULT]/VERB[PERF_PART]/ADJ[ABSTRACT]/NOUN
+
+%%%%%%%%%%%%%%%
+
+L: Számos hibás alakot elfogad: *hízlal (hizlal),
+*hiv? (hív?), *izület (ízület); *síet (siet);
+*zsüri (zs?ri) stb. 
+
+V: ha jól látom, ez szimpla javítás kérdése, kérem substandard_orth
+jeggyel a forrás meghagyásával feldíszíteni ezeket
+
+VP:DONE, de
+> síet
+sí/VERB[CAUS]/VERB
+
+%%%%%%%%%%%%%%%%%
+L: 
+Elfogadja a képzéssel el?álló melléknevek és
+melléknévi igenevek középfokú alakjában a
+hibás b-t is: *kit?n?b, *váratlanab stb.
+
+V: ez honnan jött???? nekem nem és nem is értem hogyan is lehetett
+volna...
+> kit?n?b
+UNKNOWN
+
+%%%%%%%%%%%%%%%%%%%%%
+L: 
+feküdtök;
+
+V: ez egyszer?, mert az ige a nyelvtanban van 
+DONE
+
+
+L: tülekszem, stb.;
+V: nem volt megjelölve mint sz-d t? a szótárban
+FIXED
+
+%%%%%%%%%%
+L: :::::::: ugorna stb;
+V: FIXED
+
+%%%%%%%%%%%%%
+L:
+*varázslani alakot.
+V: ne is fogadja el
+
+%%%%%%%%
+
+L: 
+Hibás birtokjeles alakokat is megenged: *ajta
+é, *erdeé, *veé (v oé), *zászlaé, *szüleé. 
+
+V: sürg?s TODO
+RA: FIXED
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+L:
+Elfogadja a következ? típushibákat: *l?jj (l?j),
+*n?jjön9;
+
+V:
+VP: USAGE: substandard_orth
+
+L:
+*iszd, *issz, *hisszen (l. 82.). L. még
+62^Ö63., 67.
+
+V: irtani a kivételeket a szótárból
+VP: DONE, igeköt?sek is, 
+leissza
+le/PREV+iszik/VERB<DEF>
+
+%%%%%%%%%%%%%%%%%%
+
+L: Nem fogadja
+el
+a ::::::: zászlai, :::::: sz olei, :::::::: disznai;
+
+ez ua mint szülei, tüdeje, stb.
+
+V: de ezek már jók szerintem
+VP: jók
+
+%%%%%%%%%%%%%%%%%%
+
+L: varjak,
+tetvek stb. alakokat.
+
+V: mind hibás vagy defaulttal duplikált besorolások a szótárban
+VP: FIXED, továbbá ? helyett u a nyelvtanban
+
+
+%%%%%%%%%%%%%%%%%%%
+
+L: Hibás v-s allomorfokat is kezel: *lóvam, *k?ved,
+*ny?vük. A lovak és a *lóvak mellett
+a *lóak alakot is érvényesnek tekinti. Elfogadja
+a morfológiailag is megkérd?jelezhet?
+*lót, *lóm, *lód, *lója stb. alakot.
+
+V: megintcsak a duplikációk miatt
+a lovat kijavítottam,
+
+ló      NOUN shortening v_stem SRC: el mi ,;
+
+de a szótárnak bizony rendben illene
+lenni, legalább az ilyen gyakori szavaknál!
+
+VP: a lója alak még így is jó volt ezt a poss_A trükkel kiküszöböltem
+van viszont köve, k?je és füve, f?je szerintem ezek jóak;)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+L:
+*leszne (lenne); *vanok
+
+V: általában nem jeggyel kezelt kivételeket ki kell szedni a lexiconból
+ez nem szabadna, hogy nagy feladat legyen. 
+De nem elfeledkezni az igeköt?s és összetettszavas el?fordulásokról...
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pár idegen eredetû szó esetében csak a hibás alakot fogadja el: 
+*neutrinó (neutrínó), *tikfa (tíkfa).
+
+Egyszer?en fel sem tudom fogni, hogy olyan hogyan fordulhat el?
+hogy egy tövet nem fogad el a magyarispell meg igen
+hát nem lett a magyarispell átültetve a morphdb-be???????
+erre szeretnék magyarázatot, én csak azt tudom elképzelni, hogy 
+ez a morphdb átültetés óta eszközölt bõvítés, ill. javítás a mispellben.
+
+VP: nem szerepel a mispellben! morphdb-be azért felvettem
+
+%%%%%%%%%%%%%%%%%%%%%%
+L: Akad,
+ahol csak a hibásat fogadja el: *szférikus
+(szferikus).
+
+V: ez megintcsak értetlenül állok, hol a magyarispell anyag a
+morphdb-b?l???
+
+VP: nem szerepel a mispellben! morphdb-be azért felvettem
+
+%%%%%%%%%%%%%%%
+L:
+edzeni,
+edzelek,
+edzenek,
+edzene
+ stb.;
+már ok
+
+fürödni,
+fürödtem
+fürödtél stb.; 
+
+V: FIXED
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+*parázslj (parázsolj)
+az ún defektív igék kezelése nagyon szépen meg van oldva,
+gyakorlatilag direkte implementálja Rebrus Törkenczy elemzését,
+miszerint ezeknek a töveknek nincsen analitikus alakjuk
+szimplán a synthetic_verb jegymakróval jelölendõk
+
+jelenleg ez a tipikus:
+#parázslik	VERB epenthetic SRC: el fkp ,;
+parázslik	VERB SRC: mi ,;
+
+Ha átírod így 
+parázslik	VERB synthetic_verb ,;
+akkor
+parázslj
+> parázslj
+UNKNOWN
+parázslanak
+> parázslanak
+parázslik/VERB<PLUR>
+parázslni
+> parázslni
+UNKNOWN
+> parázslik
+parázslik/VERB
+
+vagyis az szintetikus szuffixumok (ik) és a kvázianalitikusok magánhangzós
+variánsait (anak) rendben megkapja, a analitikusokra (j) pedig defektív
+
+**************
+
+V: A nem köznyelvi sí ige is szerepel az erõforr
+ásban: *sísz, *síj stb.
+
+
+> síet
+sí/VERB[CAUS]/VERB
+%%%%%%%%%%%%%%%
+L: 
+
+keveslem,
+kevesled stb; 
+
+V: igen ennek kevesell a töve és a dupla ll-t nem kezeltük
+todo
+
+%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%
+
+L: 
+
+múlasz,
+múlanak stb.;
+
+V: hm hm meg nyitanak nyúlani nyílani
+nem tûnik a normának.
+
+ha vannak ilyenek tessék megjelölni a múl igét mint quasi_analytic_V
+quasi_analytic_C opcionalitást
+
+%%%%%%%%%%%%%%
+javítva Laci 67-es pontja (RA)
+%%%%%%%%%%%%%%
+69-es megjegyzés nem valid (RA)
+%%%%%%%%%%%%%%
+70. A megállapítás rossz, az egy-nek lehetnek személyragos alakjai
+%%%%%%%%%%%%%%
+71 javítva (Ra)
+%%%%%%%%%%%%%%
+80-81 javítva, 32 is (a 32-ben vannak téves nyelvészeti megállapítások) (Ra)
+%%%%%%%%%%%%%%
+82 nem valid
+83 javítva (ra)
+megoldava a magyar nem személynevek nem kötõjeles ragozása is mint Mariannal Mariann-nal helyett
+%%%%%%%%%%%%%%
+94. megoldva
+%%%%%%%%%%%%%%
+archaikus sue, férfiai, manõver
+%%%%%%%%%%%%%%
+163, 214 megoldva
+%%%%%%%%%%%%%%
+javítva egész 19-ben addig, hogy kéze
+
+
+

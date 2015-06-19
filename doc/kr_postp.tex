@@ -1,0 +1,85 @@
+\documentclass[a4paper]{article}
+
+\usepackage[latin1]{inputenc}
+\usepackage[english]{babel}
+\usepackage{enumerate}
+
+%\newcommand{\phrase}[1]{\textit{#1}}
+
+%\setlength{\hoffset}{-.5in}
+
+
+\begin{document}
+
+\title{A névutót tartalmazó konstrukciók annotációja}
+
+\maketitle
+
+A jelenség:
+
+%\renewcommand{\theenumi}{(\arabic{\enumi})}
+\begin{enumerate}[(1)]
+\item \textit{János elõtt még Péter is hozzá akart szólni} \label{1}
+\item \textit{Ez elõtt még Péter is hozzá akart szólni} \label{2}
+\item \textit{Ez elõtt a ház elõtt} \label{3}
+\item \textit{Ezelõtt (='korábban') nem volt ilyen rossz a vaj.} \label{4}
+\item \textit{Lajos elõttem evett.} \label{5}
+\end{enumerate}
+
+Az annotáció:
+
+%\makeatletter
+%\renewcommand{\theenumi}{\roman{\enumi}}
+%\makeatother
+
+\begin{enumerate}[i.]
+
+\item \textit{János elõtt}
+
+Mindig két külön szövegszó, ld.~(\ref{1}).
+
+\verb#János/NOUN# \\
+\verb#elõtt/POSTP#
+
+
+\item  \textit{ez elõtt}, \textit{e mellett}
+
+Két szövegszó, ekkor a hivatalos helyesírás szerint (\ref{2}) vagy (\ref{3}) használatban azaz:
+
+\verb#ez/NOUN# \\
+\verb#ez/DET# \\
+\verb#elõtt/POSTP# \\
+
+ill. 
+
+\verb#e/NOUN#\footnote{Az '\textit{e}' jelenleg a morphdb.hu-ban csak \textsc{UTT-INT} elemzést kap (vp,200.05.22.).} \\
+\verb#e/ez/DET# \\
+\verb#mellett/POSTP# \\
+
+
+\item ezelõtt, emellett
+
+Egybeírva, a hivatalos helyesírás szerint csak a (\ref{4}) lehet, de gyakran írják (\ref{2}) értelemben. Azaz:
+
+\verb#ezelõtt/ADV# \\
+\verb#ezelõtt/ez/NOUN+elõtt/POSTP(wrong orth)# \\
+
+\verb#emellett/ADV# \\
+\verb#emellett/ez/NOUN+mellett/POSTP (wrong orth)# \\
+
+Ha a fentiek melléknevesitve vannak (pl. ezelõtti), akkor is megmarad a fenti kétértelmûség:
+
+\verb#ezelõtti/ezelõtt/ADV[ATTRIB]/ADJ# \\
+\verb#ezelõtt/ez/NOUN+elõtt/POSTP[ATTRIB]/ADJ# \\
+
+
+\item \textit{elõttem}
+
+Személyes névmás és névutó összetétele:
+
+\verb#NOUN<PERS<1>>+POSTP#
+
+Ennél külön ki kell zárni azt, hogy ilyenkor nem lehet a névutót -i képzõvel ellátni (pl. *elõttemi), hiszen a POSTP-t önmagában el lehet látni -i-vel (elõtti: \verb|POSTP[ATTRIB]/ADJ| ).
+\end{enumerate}
+
+\end{document}

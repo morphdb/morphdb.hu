@@ -1,0 +1,857 @@
+""
+	DEM_PRON_FILTER
+	DISTAL
+	PSEUDO_LEMMA: DET_PRON
+, az	
+, amaz	
+, mindaz
+, ugyanaz
+;
+
+""
+	DEM_PRON_FILTER
+	PROXIMAL
+	PSEUDO_LEMMA: DET_PRON
+, ez	
+, emez	
+, mindez
+, ugyanez
+;
+
+""
+	PRON_ADJ
+	PROXIMAL
+	defective_derivation adj 
+, ily	OUT: low front non_round defective_inflection cas_nom cas_acc sing non_poss
+, ugyanily   OUT: low front non_round defective_inflection cas_nom cas_acc sing non_poss
+, emily OUT: low front non_round defective_inflection cas_nom cas_acc sing non_poss
+, ilyen  aff_féle aff_fajta aff_szerû 
+, ilyenforma
+, ilyesmi
+, ilyesvalami
+, ilyetén  USAGE: literary
+, imilyen  USAGE: literary
+, imilyen-amolyan
+, emilyen  
+, ilyenes   #mert elõáll DEM_PRON<ADJ[ATTRIB]ADJ>-ként #TV:nem áll elõ mert nem noun
+, ilyesféle
+, ilyesfajta
+, efféle
+, effajta
+, olyasforma
+, mekkora
+, ekkora aff_bb aff_ka
+, ekkorka USAGE: colloquial
+, éppekkora
+, félekkora
+, feleekkora
+, kétekkora
+, éppilyen 
+, éppily USAGE: literary
+, ugyanekkora aff_bb aff_ka
+, ugyanilyen 
+;
+
+
+
+""
+	PRON_ADJ
+	DISTAL
+	defective_derivation adj 
+	PSEUDO_LEMMA: DEM_PRON
+, oly	OUT: low back defective_inflection cas_nom cas_acc sing non_poss
+, ugyanoly   OUT: low back defective_inflection cas_nom cas_acc sing non_poss
+, amoly OUT: low back defective_inflection cas_nom cas_acc sing non_poss
+, olyan aff_fajta aff_féle aff_fajta
+, olyasmi
+, olyasvalami
+, olyanforma
+, olyanos
+, olyasféle
+, olyasfajta 
+, olyasforma
+, afféle
+, amolyan
+, akkora 	aff_bb aff_ka
+, akkorka USAGE: colloquial
+, kétakkora
+, félakkora
+, feleakkora
+, éppakkora aff_bb aff_ka
+, éppolyan
+, éppoly USAGE: literary
+, néminemû
+, ugyanakkora aff_bb aff_ka
+, ugyanolyan
+;
+
+
+""
+	I_ADV PRON_ADV
+       	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+
+, ilyen
+, ugyanilyen
+, ily
+, éppily
+, éppilyen
+;
+
+""
+	I_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+
+, olyan
+, ugyanolyan
+, oly  
+, éppoly
+, éppolyan
+, mégoly
+
+;
+
+
+
+""
+	M_ADV PRON_ADV
+       	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, ilyenformán
+, ilyformán
+, ilyenképpen
+, ilyeténképpen
+, ilyképpen
+;
+
+""
+       M_ADV PRON_ADV
+       DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, olyan
+, ugyanolyan
+, oly
+, olyanformán
+, olyformán
+, olyanképpen
+, olyaténképpen
+, olyképpen
+;
+
+""
+	T_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, ilyenkor
+, ilyentájban
+, ilyentájt
+;
+
+""
+	T_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, olyankor
+, olyantájban
+, olyantájt
+;
+
+""
+	PRON_NUM
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, ennyi
+, félennyi
+, feleennyi
+, kétennyi
+, éppennyi
+, ugyanennyi
+;
+
+""
+	PRON_NUM
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, annyi
+, félannyi
+, feleannyi
+, mégannyi
+, kétannyi
+, éppannyi
+, ugyanannyi
+, mindannyi C_final
+, annyiféle
+, szintannyi
+;
+
+""
+	A_ADV I_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, ennyire 
+, éppennyire 
+, ugyanennyire
+;
+
+""
+	A_ADV I_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, annyira
+, olyannyira 
+, éppannyira
+, ugyanannyira
+;
+
+""
+	T_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, idáig
+, ezidáig
+, mindezidáig
+, odáig
+;
+
+""
+	T_ADV PRON_ADV
+	PSEUDO_LEMMA: DEM_PRON
+, idejövet    PROXIMAL
+, odamenet    DISTAL
+;
+
+""
+	S_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, idáig
+, ide
+, idébb
+, ide IDE_ODA # what is this dem_pron for?
+  dem_pron
+, emide 
+, innen 
+, innentõl
+, innét   USAGE: substandard
+, eminnen 
+, eminnét 
+, itt 
+, itten   USAGE: archaic substandard
+, imitt 
+, emitt 
+, emitten 
+
+, ugyanide 
+, ugyaninnen 
+, ugyanitt 
+, ugyanitten
+;
+
+""
+	S_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, odáig 
+, oda 
+, odább
+, odébb
+, oda IDE_ODA dem_pron
+, amoda 
+, onnan 
+, onnantól
+, onnét   USAGE: substandard
+, onnat   USAGE: substandard
+, amonnan 
+, amonnét 
+, ott 
+, ottan   USAGE: archaic substandard
+, amott 
+, amottan 
+
+, ugyanoda 
+, ugyanonnan 
+, ugyanott 
+, ugyanottan 
+;
+
+""
+	S_ADV PRON_ADV
+	PROXIMAL
+
+, ihol   USAGE: substandard
+, ehejt   USAGE: substandard
+, ehelyt   USAGE: substandard
+, ehelyütt   USAGE: substandard
+, ehol   USAGE: substandard
+, ehun   USAGE: substandard
+, éppide # ??
+, éppoda 
+
+;
+
+""
+	M_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, így 
+, ígyen   USAGE: archaic
+, imígy   USAGE: archaic literary
+, imigyen   USAGE: archaic literary
+, éppígy 
+, emígy 
+, ugyanígy 
+;
+
+""
+	M_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, úgy 
+, amúgy 
+, éppúgy 
+, ugyanúgy 
+;
+
+""
+	M_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, akképp  USAGE: literary
+, akképpen USAGE: literary
+, azonképp 
+, azonképpen
+, azúton
+;
+
+""
+	M_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, ekképp USAGE: literary
+, ekképpen USAGE: literary
+, ezenképp
+, ezenképpen
+, ezúton
+;
+
+""
+	S_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, arra
+, arrébb
+, arrább
+, arrafele
+, arrafelé
+;
+
+""
+	S_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, erre
+, errébb
+, errefele
+, errefelé
+;
+
+""
+	T_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, akkorára  USAGE: substandard
+, akkor
+, akkorra
+, akkorról
+, akkortól
+, akkoriban
+, akkoron  USAGE: archaic literary
+, akkortájban
+, akkortájt
+
+, azonközben  USAGE: archaic
+, azontúl
+, aztán
+, addigra
+, azalatt
+, azelõtt
+;
+
+""
+	T_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, ekkorára  USAGE: substandard
+, ekkorra
+, ekkor
+, ekkorról
+, ekkortól
+, ekkoriban
+, ekkoron  USAGE: archaic literary
+, ekkortájban
+, ekkortájt
+
+, ezenközben
+, ezentúl
+, eztán
+, ezalatt
+, ezelõtt
+;
+
+""
+	T_ADV PRON_ADV
+	DISTAL
+	PSEUDO_LEMMA: DEM_PRON
+, aznap
+, ugyanaznap
+, azonmód
+;
+
+""
+	T_ADV PRON_ADV
+	PROXIMAL
+	PSEUDO_LEMMA: DEM_PRON
+, ezennel E_ADV
+, eddig
+, eddigelé
+, ezúttal
+;
+
+""
+	A_ADV PRON_ADV
+	PROXIMAL
+, ezenfelül
+, ezenkívül
+;
+
+""
+	A_ADV PRON_ADV
+	DISTAL
+, azonkívül
+, azonfelül
+;
+
+""
+	T_ADV PRON_ADV
+	PROXIMAL
+, ugyanekkor
+, ugyanekkorra
+, ugyanekkorról
+, ugyanekkortól
+
+;
+
+""
+	T_ADV PRON_ADV
+	DISTAL
+, ugyanakkor
+, ugyanakkorra
+, ugyanakkorról
+, ugyanakkortól
+;
+
+
+
+
+
+""
+	EMPH_PERS_PRON
+	pers_pron refl_pron
+	pp_1sg pp_2sg pp_3sg pp_1pl pp_2pl pp_3pl
+	#LEMMA: maga
+	PSEUDO_LEMMA: REFL_PRON
+, mag
+;
+
+""
+	PERS_PRON_PARADIGM
+	pers_pron refl_pron
+	pp_1pl pp_2pl pp_3pl
+	LEMMA: mindnyájan
+	PSEUDO_LEMMA: AGGR_PRON #????
+	TAG: /NOUN
+, mindnyáj
+;
+
+""
+	PERS_PRON_PARADIGM
+	pers_pron refl_pron
+	pp_1pl pp_2pl pp_3pl 
+	non_low C_final back
+	LEMMA: mindannyian
+	PSEUDO_LEMMA: AGGR_PRON #????
+	TAG: /NOUN
+, mindannyi
+, mindmegannyi
+;
+
+
+""
+	PERS_PRON_PARADIGM
+	pers_pron refl_pron
+	pp_1sg pp_2sg pp_3sg pp_1pl pp_2pl pp_3pl
+	LEMMA: egymaga
+	PSEUDO_LEMMA: REFL_PRON #????
+	TAG: /NOUN
+, egymag
+;
+""
+	PERS_PRON_PARADIGM
+	pers_pron refl_pron
+	pp_1sg pp_2sg pp_3sg pp_1pl pp_2pl pp_3pl
+	LEMMA: sajátmaga
+	PSEUDO_LEMMA: REFL_PRON #????
+	TAG: /NOUN
+, sajátmag
+;
+
+""
+	PERS_PRON_PARADIGM
+	pers_pron refl_pron
+	pp_1sg pp_2sg pp_3sg pp_1pl pp_2pl pp_3pl
+	LEMMA: jómaga
+	PSEUDO_LEMMA: REFL_PRON #????
+	TAG: /NOUN
+, jómag
+;
+
+
+""
+	PERS_PRON_PARADIGM
+	pers_pron refl_pron
+	pp_1sg pp_2sg pp_3sg pp_1pl pp_2pl pp_3pl
+	LEMMA: önmaga
+	PSEUDO_LEMMA: REFL_PRON #????
+	TAG: /NOUN
+, önmag
+;
+
+""
+	PERS_PRON_PARADIGM
+	pers_pron refl_pron
+	pp_1sg pp_2sg pp_3sg pp_1pl pp_2pl pp_3pl
+	LEMMA: önnönmaga
+	PSEUDO_LEMMA: REFL_PRON #????
+	TAG: /NOUN
+, önnönmag
+;
+
+
+
+""
+	NOUN tagged
+	defective_derivation
+	defective_inflection anp sing case non_poss
+, maga	LEMMA: maga TAG: /NOUN TAG: <PERS>
+, maguk	LEMMA: maga TAG: /NOUN OUT: low TAG: <PERS><PLUR>
+, ön	LEMMA: ön  TAG: /NOUN TAG: <PERS>
+, önök	LEMMA: ön  TAG: /NOUN OUT: low TAG: <PERS><PLUR>
+, Ön	LEMMA: ön  TAG: /NOUN TAG: <PERS>
+, Önök	LEMMA: ön  TAG: /NOUN OUT: low TAG: <PERS><PLUR>
+;
+
+""
+	NOUN
+	defective_derivation
+	defective_inflection anp sing case non_poss
+	LEMMA: egymás
+	PSEUDO_LEMMA: REC_PRON
+, egymás
+;
+
+###########################
+# birtokos névmások	  #
+###########################
+
+""
+	NOUN tagged
+	defective_derivation defective_inflection anp sing case non_poss 
+	LEMMA: én
+	PSEUDO_LEMMA: PERS_PRON
+	TAG: /NOUN
+, enyém TAG: <PERS<1>><ANP>
+, enyim	TAG: <PERS<1>><ANP> 	USAGE: substandard
+, enyémé TAG: <PERS<1>><ANP>	USAGE: substandard
+, enyimé TAG: <PERS<1>><ANP>	USAGE: substandard
+, enyéim TAG: <PERS<1>><ANP<PLUR>>
+, enyémek TAG: <PERS<1>><ANP<PLUR>>
+, enyéim TAG: <PERS<1>><PLUR<FAM>>
+, enyémek TAG: <PERS<1>><PLUR<FAM>>
+, enyémék TAG: <PERS<1>><PLUR<FAM>>
+;
+
+""
+	NOUN tagged
+	defective_derivation defective_inflection anp sing case non_poss 
+	LEMMA: te
+	PSEUDO_LEMMA: PERS_PRON
+	TAG: /NOUN
+
+, tied 	TAG: <PERS<2>><ANP>
+, tiéd  TAG: <PERS<2>><ANP>
+, tiedé TAG: <PERS<2>><ANP>	USAGE: substandard
+, tieid	TAG: <PERS<2>><ANP<PLUR>>
+, tieid	TAG: <PERS<2>><PLUR<FAM>>
+, tiédek TAG: <PERS<2>><ANP<PLUR>>	USAGE: substandard
+, tiedek TAG: <PERS<2>><ANP<PLUR>>	USAGE: substandard
+;
+
+""
+	NOUN tagged
+	defective_derivation defective_inflection anp sing case non_poss 
+	LEMMA: õ
+	PSEUDO_LEMMA: PERS_PRON
+	TAG: /NOUN
+, övé 	TAG: <PERS><ANP>
+, övéi	TAG: <PERS><PLUR<FAM>>
+, övéi	TAG: <PERS><PLUR<ANP>>
+;
+
+""
+	NOUN tagged
+	defective_derivation defective_inflection anp sing case non_poss 
+	LEMMA: mi
+	PSEUDO_LEMMA: PERS_PRON
+	TAG: /NOUN
+
+, mienk TAG: <PERS<1>><PLUR><ANP>
+, miénk	TAG: <PERS<1>><PLUR><ANP>
+, mienké TAG: <PERS<1>><PLUR><ANP>	USAGE: substandard
+, mieink TAG: <PERS<1>><PLUR><ANP<PLUR>>
+;
+
+""
+	NOUN tagged
+	defective_derivation defective_inflection anp sing case non_poss 
+	LEMMA: ti
+	PSEUDO_LEMMA: PERS_PRON
+	TAG: /NOUN
+
+, tietek TAG: <PERS<2>><PLUR><ANP>
+, tiétek TAG: <PERS<2>><PLUR><ANP>
+, tieteké TAG: <PERS<2>><PLUR><ANP>	USAGE: substandard	
+, tieitek TAG: <PERS<2>><PLUR><ANP<PLUR>>
+;
+
+""
+	NOUN tagged
+	defective_derivation defective_inflection anp sing case non_poss 
+	LEMMA: õk
+	PSEUDO_LEMMA: PERS_PRON
+	TAG: /NOUN
+
+, övék TAG: <PERS><PLUR><ANP>
+, övéké	TAG: <PERS><PLUR><ANP>	USAGE: substandard
+, övékéi	TAG: <PERS><PLUR><ANP>	USAGE: substandard
+, övéik	TAG: <PERS><PLUR><ANP<PLUR>>
+
+;
+
+#####################################
+#  non personal pronouns	    #
+#####################################
+
+""
+	PRON_NOUN
+	DISTAL
+	EXTRA: "PRONTYPE=DEM"
+	PSEUDO_LEMMA: DEM_PRON
+, olyasmi back front non_round
+, olyasvalami
+;
+
+""
+	PRON_NOUN
+	PROXIMAL
+	EXTRA: "PRONTYPE=DEM"
+	PSEUDO_LEMMA: DEM_PRON
+, ilyesmi
+, ilyesvalami
+;
+
+""
+	EXTRA: "PRONTYPE=WH"
+	PSEUDO_LEMMA: WH_PRON
+
+,""	NON_PERS_PRON wh_pron
+,micsoda PRON_NOUN
+,kicsoda PRON_NOUN
+,hun S_ADV PRON_ADV USAGE: substandard
+,hogyhogy E_ADV PRON_ADV
+,hogymint M_ADV PRON_ADV
+,merrefele S_ADV PRON_ADV
+,merrefelé S_ADV PRON_ADV
+,miként M_ADV PRON_ADV
+,minek M_ADV PRON_ADV
+,mért M_ADV PRON_ADV
+,mé M_ADV PRON_ADV
+,mié M_ADV PRON_ADV
+,miér M_ADV PRON_ADV
+,mióta T_ADV PRON_ADV 
+;
+			
+""
+	EXTRA: "PRONTYPE=NEG"
+	PSEUDO_LEMMA: NEG_PRON
+, se	
+	NON_PERS_PRON neg_pron
+, semmi 
+	PRON_NOUN
+	OUT: defective_derivation
+	OUT: defective_inflection anp sing plur case poss non_poss 
+, semmicsoda
+	PRON_NOUN
+	OUT: defective_derivation
+        OUT: defective_inflection anp sing plur case poss non_poss
+, senki
+	PRON_NOUN
+	OUT: defective_derivation
+	OUT: defective_inflection anp sing plur case poss non_poss 
+, semmióta # why not with POSTP óta?
+	T_ADV PRON_ADV
+, semmily 
+	PRON_ADJ
+        OUT: defective_derivation
+        OUT: defective_inflection low front non_round anp sing plur
+	case poss non_poss
+, semmiféle 
+	PRON_ADJ
+        OUT: defective_derivation
+        OUT: defective_inflection sing case non_poss
+, semminõ PRON_ADJ
+, semminemû PRON_ADJ
+, semmilyen PRON_ADJ
+, semmint M_ADV PRON_ADV
+, semmikor T_ADV PRON_ADV
+, semmikorra T_ADV PRON_ADV
+, semmikorról T_ADV PRON_ADV
+, semmikortól T_ADV PRON_ADV 
+, semmiképp NEG PRON_ADV 
+, semmiképpen NEG PRON_ADV 
+, semmiféleképpen NEG PRON_ADV 
+, semmiért M_ADV PRON_ADV
+, soha T_ADV PRON_ADV
+, sohase T_ADV PRON_ADV
+, sohasem T_ADV PRON_ADV
+, sose T_ADV PRON_ADV
+, sohse T_ADV PRON_ADV
+, sosem T_ADV PRON_ADV
+, sohsem T_ADV PRON_ADV
+;
+
+""
+	NON_PERS_PRON
+	rel_pron
+	EXTRA: "PRONTYPE=REL"
+	PSEUDO_LEMMA: REL_PRON
+, a	
+, + 	OUT: zero_rel_pron
+;
+
+""
+	EXTRA: "PRONTYPE=UNI"
+	PSEUDO_LEMMA: UNI_PRON
+, minden
+	NON_PERS_PRON
+	uni_pron
+, minden	
+	PRON_NOUN poss_optional
+, minden	
+	PRON_ADJ
+, mindenféle	
+	PRON_ADJ
+, mindenfajta	
+	PRON_ADJ
+, mindegyik	
+	PRON_ADJ
+, mindenik	
+	PRON_ADJ
+, mindennemû	
+	PRON_ADJ
+, mindenkoron	
+	T_ADV PRON_ADV
+, mindenünnen	
+	S_ADV PRON_ADV
+, mindenünnét	
+	S_ADV PRON_ADV
+, mindenütt	
+	S_ADV PRON_ADV
+, mindenüvé	
+	S_ADV PRON_ADV
+, mindaddig 
+	T_ADV PRON_ADV
+, mindahány
+	PRON_NUM
+, mindamaz 
+	PRON_ADJ
+, mindemez
+	PRON_ADJ
+, mindannyi
+	PRON_NUM
+, mindeddig
+	T_ADV PRON_ADV
+, mindenkor
+	T_ADV PRON_ADV
+, mindenfele
+	S_ADV PRON_ADV
+, mindenfelé
+	S_ADV PRON_ADV
+, mindenfelõl
+	S_ADV PRON_ADV
+, mindenha
+	T_ADV PRON_ADV
+;
+
+""
+	EXTRA: "PRONTYPE=EXI"
+	PSEUDO_LEMMA: EXI_PRON
+, vala 
+	NON_PERS_PRON 
+	exi_pron
+, egyvala
+	NON_PERS_PRON
+        exi_pron
+, valamelyes 
+	PRON_ADJ
+, valamelyest I_ADV A_ADV PRON_ADV
+, valamicske PRON_NOUN
+, valamíg T_ADV PRON_ADV
+, valamikori  T_ADV PRON_ADV   
+, más	PRON_NOUN
+, másmilyen	PRON_ADJ
+, másfelé S_ADV PRON_ADV
+, másfele S_ADV PRON_ADV
+, máskoron T_ADV PRON_ADV
+, máskor T_ADV PRON_ADV
+, máskorra T_ADV PRON_ADV
+, máskorról T_ADV PRON_ADV
+, máskortól T_ADV PRON_ADV
+, másfelõl S_ADV PRON_ADV
+, másforma M_ADV PRON_ADV
+, máshogy M_ADV PRON_ADV
+, máshogyan M_ADV PRON_ADV
+, máshol S_ADV PRON_ADV
+, máshonnan S_ADV PRON_ADV
+, máshonnét S_ADV PRON_ADV
+, máshova S_ADV PRON_ADV
+, máshová S_ADV PRON_ADV
+, másunnan S_ADV PRON_ADV
+, másutt S_ADV PRON_ADV
+;
+
+""
+	NON_PERS_PRON
+	gen_pron
+	EXTRA: "PRONTYPE=GEN"
+	PSEUDO_LEMMA: GEN_PRON
+, akár
+, bár
+;
+
+#""
+#	EXTRA: "PRONTYPE=GEN"
+#	PSEUDO_LEMMA: GEN_PRON
+#, akármilyen LEMMA: "akármilyen"
+#, bármilyen LEMMA: "bármilyen"
+#;
